@@ -1,0 +1,38 @@
+{
+    "sources": [
+        {
+            "name": "OECD \u2013 Consumption Tax Trends 2016",
+            "description": "<table>\r\n<tbody>\r\n<tr>\r\n<td>Data published by</td>\r\n<td>\r\n<p class=\"p1\">OECD (2016), Consumption Tax Trends, OECD Publishing, Paris.</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>Data publisher's source</td>\r\n<td>\r\n<p class=\"p1\">Various sources - see report for details.\u00a0</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>Link</td>\r\n<td><a href=\"http://www.oecd-ilibrary.org/taxation/consumption-tax-trends-2016_ctt-2016-en\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.oecd-ilibrary.org/taxation/</a></td>\r\n</tr>\r\n<tr>\r\n<td>Retrieved</td>\r\n<td>2016-12-15</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Countries with VAT",
+            "unit": "Number of countries",
+            "description": "1960-2016",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Value Added Taxes",
+            "unit": "% of total taxation",
+            "description": "1965-2014",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Taxes on specific goods and services",
+            "unit": "% of total taxation",
+            "description": "1965-2014",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
