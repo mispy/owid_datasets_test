@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "Piketty (2014)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><tbody><tr><td><span class=\"datasource-property\"><span class=\"datasource-property\">Data published by</span></span></td>\n<td>\n<p class=\"p1\">Piketty, T. (2014). Capital in the 21st Century. Cambridge: Harvard University Press</p>\n</td>\n</tr><tr><td><span class=\"datasource-property\">Data publisher's source</span></td>\n<td>\n<p class=\"p1\">Various sources (see link for details)</p>\n</td>\n</tr></tbody><tr><td>Link</td><td>http://piketty.pse.ens.fr/en/capital21c2</td></tr><tr><td>Retrieved</td><td>20/09/2016</td></tr></table><div class=\"datasource-additional\">\n<p>Data on tax revenues include all taxes, fees, social contributions, and other payments that citizens mush pay under penalty of law.</p>\n<p>Data on top marginal tax rates includes general income tax supplements, but excludes all other taxes and social contributions (e.g. NHS in the UK)</p>\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Tax Revenue",
+            "unit": "% national income",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Top marignal income tax rate",
+            "unit": "%",
+            "description": "1900-2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
