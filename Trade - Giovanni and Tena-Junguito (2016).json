@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Federico and Tena-Junguito (2016)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><tbody><tr><td><span class=\"datasource-property\"><span class=\"datasource-property\">Data published by</span></span></td>\r\n<td>\r\n<p class=\"p1\">Federico, Giovanni and Antonio Tena-Junguito&nbsp; (2016 b). 'A tale of two globalizations: gains from trade and openness 1800-2010'. London, Centre for Economic Policy Research. (CEPR WP.11128).</p>\r\n</td>\r\n</tr><tr><td><span class=\"datasource-property\">Data publisher's source</span></td>\r\n<td>Various sources . Further details available in the online appendix of Federico Giovanni and Antonio Tena-Junguito (2016a) &ldquo;World trade, 1800-1938: a new data-set&rdquo;\r\nEHES Working paper n.93. http://www.ehes.org/EHES_93.pdf.</td>\r\n</tr></tbody><tr><td>Link</td><td>https://e-archivo.uc3m.es/bitstream/handle/10016/22354/wh1602.pdf?sequence=1</td></tr><tr><td>Retrieved</td><td>09/09/2016</td></tr></table></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "World Trade (relative to 1913)",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
