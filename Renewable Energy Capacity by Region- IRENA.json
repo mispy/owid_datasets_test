@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Renewable Energy Capacity by Region- IRENA",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>International Renewable Energy Agency (IRENA) </td>\n\t</tr>\n\t\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://resourceirena.irena.org/gateway/dashboard/</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-04-28</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>The data presented in the IRENA REsource database comes from a variety of sources. Most of the data are official statistics submitted\nby countries to IRENA using the IRENA renewable energy statistics questionnaire during its annual data\ncollection cycle or taken from official publications.\nWhere official statistics are unavailable, the statistics are supplemented with IRENA estimates or third\nparty data such as that from industry associations. \n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Renewable Energy Capacity by Region- IRENA",
+            "unit": "megawatts (MW)",
+            "description": "Renewable Energy Installed Capacity (MW) by region- IRENA",
+            "code": null,
+            "coverage": "global by region",
+            "timespan": "2000-2016",
+            "source_id": 0
+        }
+    ]
+}
