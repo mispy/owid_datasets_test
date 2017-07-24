@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Human Development Index (UNDP)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>United Nations Development Programme (UNDP)</td></tr><tr><td>Data publisher's source</td>\r\n\t\t<td><br></td>\r\n\t</tr></span><tr><td>Link</td><td>http://hdr.undp.org/en/content/human-development-index-hdi</td></tr><tr><td>Retrieved</td><td>27 July 2016</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>The Human Development Index (HDI) is a summary measure of average achievement in key dimensions of human development: a long and healthy life, being knowledgeable and have a decent standard of living.&nbsp;</p><p>Measured by:</p><p>&ndash; Life expectancy at birth</p><p>&ndash; Mean years of schooling &amp; Expected years of schooling</p><p>&ndash; GNI per capita (in PPP adjusted international-$)</p><p>The HDI is the geometric mean of normalized indices for each of the three dimensions.</p><p><br></p>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Human Development Index (UNDP)",
+            "unit": "(0-1; higher values are better)",
+            "description": "Human Development Index",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1980-2014",
+            "source_id": 0
+        }
+    ]
+}
