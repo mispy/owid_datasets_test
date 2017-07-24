@@ -1,0 +1,43 @@
+{
+    "sources": [
+        {
+            "name": "Trust \u2013 PEW Research Center",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>PEW Research Center, using data from various election polls<br></td></tr></span><tr><td>Link</td><td>http://www.people-press.org/2015/11/23/public-trust-in-government-1958-2015/</td></tr><tr><td>Retrieved</td><td>27/07/2016</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>For those years with estimates from more than one poll, the reported figure corresponds to the&nbsp;average for that year.</p>\r\n</div></body></html>\n",
+            "id": 0
+        },
+        {
+            "name": "US General Social Survey",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by&nbsp;</td><td>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p>General Social Survey (GSS)</p></td></tr></span><tr><td>Link</td><td>https://gssdataexplorer.norc.org</td></tr><tr><td>Retrieved</td><td>22/07/16</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>The GSS asks&nbsp;the question&nbsp;<em>\"Generally speaking, would you say that most people can be trusted or that you can't be too careful in dealing with people?\"</em>. Available replies are \"Can trust\", \"Cannot trust\", \"Depends\" , \"Don't Know\" and \"No answer\".</p>\r\n</div></body></html>\n",
+            "id": 1
+        }
+    ],
+    "variables": [
+        {
+            "name": "Trust \u2013 US GSS",
+            "unit": "",
+            "description": "Share of survey respondents agreeing with the statement \"most people can be trusted\"",
+            "code": null,
+            "coverage": "US",
+            "timespan": "1972-2014",
+            "source_id": 1
+        },
+        {
+            "name": "Trust in Government",
+            "unit": "%",
+            "description": "Trust in government\u00a0",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1958-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Interpersonal Trust",
+            "unit": "%",
+            "description": "Share of survey respondents agreeing with the statement \"most people can be trusted\"",
+            "code": null,
+            "coverage": "US",
+            "timespan": "1972-2014",
+            "source_id": 1
+        }
+    ]
+}
