@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Immunization against DPT \u2013 World Bank",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>World Bank WDI</td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>WHO and UNICEF ( who.int/immunization/monitoring_surveillance/en).\n</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://data.worldbank.org/indicator/SH.IMM.IDPT</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>e.g. 2016-02-15</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Immunization against DPT \u2013 Share of children (12-23 months)",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country and world region",
+            "timespan": "1980-2015",
+            "source_id": 0
+        }
+    ]
+}
