@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "UN Population Division 2015",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>United Nations Population Division</td>\r\n\t</tr><tr><td>Data publisher's source</td>\r\n\t\t<td>UN estimates and projections</td>\r\n\t</tr><tr><td><br></td><td><br></td></tr></span><tr><td>Link</td><td>http://esa.un.org/unpd/wpp/unpp/panel_population.htm</td></tr></table></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Population Growth Rate",
+            "unit": "%",
+            "description": "Quinquennial population growth rate",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1955-2100",
+            "source_id": 0
+        }
+    ]
+}
