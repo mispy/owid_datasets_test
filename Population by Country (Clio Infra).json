@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Population by Country (Clio Infra)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data provider</td>\r\n\t\t<td>Clio-Infra</td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>All original sources used by Clio-Infra are listed below</td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>Total Population</td>\r\n\t</tr></span><tr><td>Link</td><td>https://www.clio-infra.eu/</td></tr><tr><td>Retrieved</td><td>18 February 2016</td></tr></table><div>\r\n\t<h3>Sources used by Clio-Infra</h3>All original sources used by Clio-Infra are listed below:<br><p><span>Arroyo Abad, Leticia, and Jan Luiten van Zanden,\r\n&lsquo;Growth under extractive institutions?<i> </i>Latin&nbsp;</span>America per capita GDP in colonial times&rsquo;, <i>CGEH Working Paper Series, </i>61 (2014).</p><p><i>Gapminder</i>,\r\nIndicator: Population, total, 1555-2030 (<a target=\"_blank\" rel=\"nofollow\" href=\"http://www.gapminder.org/data/\">http://www.gapminder.org/data/</a>: 8-12-2011).</p><p>Kuczynski, Robert Ren&eacute;, <i>Demographic Survey of the British Empire. </i><i>West Africa; South Africa High</i></p><p><i>Commission Territories; West Indian and American\r\nTerritories </i>(London,\r\nOxford University Press, 1948; 1949; 1953), 3\r\nvols.</p><p>Maddison, A., <i>The World Economy: A Millennial Perspective </i>(Paris: OECD, 2001).</p><p>Maddison, A., <i>The World Economy: Historical Statistics</i> (Paris: OECD, 2003).<br></p><p>McEvedy, C., and Jones, R., <i>Atlas of World Population History </i>(New\r\nYork, NY: Penguin Books, 1978).<br></p><p>Mitchell, Brian, <i>International Historical Statistics:\r\n1750-2005 </i>(London: Palgrave Macmillan, 2007), 3 vols. (The Americas, Europe, Africa,\r\nAsia and Oceania).</p><p><i>Montevideo-Oxford Latin America Economic History Database&nbsp;</i>(<a target=\"_blank\" rel=\"nofollow\" href=\"http://oxlad.qeh.ox.ac.uk/search.php\">http://oxlad.qeh.ox.ac.uk/search.php</a>: 06-10-2011).</p><p><i>Statistical\r\nYear Books of League of Nations</i>\r\n(LNYB), 1926, 1933, 1942-1944 (<a target=\"_blank\" rel=\"nofollow\" href=\"http://digital.library.northwestern.edu/league/stat.html\">http://digital.library.northwestern.edu/league/stat.html</a>: 27-09-2012).</p><p>The Frankema-Jerven African Population\r\nDatabase 1850-1960, version 1.0; published in Frankema, E.and Jerven, M. (2014). 'Writing History\r\nBackwards and Sideways: Towards a Consensus on African Population, 1850-present' <i>Economic History Review 67</i> (2014) 907-931.</p><p><i>The World Bank Data</i>, Indicator: Population, total, 1960-2010 (<a target=\"_blank\" rel=\"nofollow\" href=\"http://data.worldbank.org/\">http://data.worldbank.org/</a>:\r\n6-12-2011).</p><p><br></p><p>The original data is published in thousands, Our World In Data multiplied it by 1000.</p>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Population by Country (Clio Infra)",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country (not all countries)",
+            "timespan": "1500 to 2000",
+            "source_id": 0
+        }
+    ]
+}
