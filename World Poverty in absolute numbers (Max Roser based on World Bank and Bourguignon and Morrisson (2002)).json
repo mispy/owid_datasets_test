@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "World Poverty in absolute numbers (Max Roser based on World Bank and Bourguignon and Morrisson (2002))",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\r\n<html><body><b>Description:</b>\r\n<table><span><tr><td>Data published by</td>\r\n<td>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p>Max Roser based on World Bank and Bourguignon and Morrisson (2002)<br></p></td></tr><tr><td>Data publisher's source</td>\r\n<td>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p>The absolute number of the world population is taken from the OurWorldInData world population data set:\u00a0<a target=\"_blank\" rel=\"nofollow\" href=\"https://ourworldindata.org/world-population-growth/\">https://ourworldindata.org/world-population-growth/</a></p><p>All poverty estimates\u00a01981 and later are\u00a0taken from the World Bank's Povcal Net:\u00a0iresearch.worldbank.org/PovcalNet/ (downloaded May 23, 2016)</p><p>All data from 1970 and earlier is taken from\u00a0Bourguignon and Morrisson (2002) \u2013 Inequality Among World Citizens: 1820\u20131992. In American Economic Review, 92, 4, 727\u2013748\r\nBourguignon and Morrisson (2002) state that 'the poverty lines were calibrated so that poverty and extreme poverty headcounts in 1992 coincided roughly with estimates from other sources'. To have one continuous series from 1820 up to 2015 I have followed the idea of Bourguignon and Morrisson (2002) to calibrate so that poverty headcounts in \"coincide roughly\" with estimates from the World Bank. Therefore the series is poverty headcount (1.90$ per day) as far back as possible (1981) from the World Bank and all observations before 1980 are Bourguignon and Morrison (2002) 'share of the world population living in extreme poverty'.\r\n\r\n</p></td></tr></span><tr><td>Retrieved</td><td>May 23, 2016</td></tr></table><div>\r\n\r\n<h4>Additional information</h4>\r\n\r\nPeople are considered to live in\u00a0extreme poverty at a consumption (or income) level below 1.90 international-$ per day. International $ are adjusted for price differences between countries and for price changes over time (inflation).</div></body></html>\r\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Number of people living in extreme poverty",
+            "unit": "people",
+            "description": "World population living in extreme poverty",
+            "code": null,
+            "coverage": "World population",
+            "timespan": "1800 to 2015",
+            "source_id": 0
+        },
+        {
+            "name": "Number of people not in extreme poverty",
+            "unit": "people",
+            "description": "World population living in extreme poverty",
+            "code": null,
+            "coverage": "World population",
+            "timespan": "1800 to 2015",
+            "source_id": 0
+        }
+    ]
+}
