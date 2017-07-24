@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "World Bank",
+            "description": "",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Countries Regions",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
