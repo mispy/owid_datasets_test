@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Health Expenditure and Financing- OECDstat",
+            "description": "<table>\r\n\t<tr>\r\n\t\t<td>Data published by</td>\r\n\t\t<td>Organisation for Economic Co-operation and Development (OECD) Statistics</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Data publisher's source</td>\r\n\t\t<td>Joint OECD, EUROSTAT and WHO Health Accounts SHA Questionnaires (JHAQ)</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Link</td>\r\n\t\t<td>https://stats.oecd.org/</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Retrieved</td>\r\n\t\t<td>2017-05-24</td>\r\n\t</tr>\r\n</table>\r\n<div class=\"datasource-additional\">\r\n\t<p>Per capita health expenditure here is measured in 2010 international dollars.\r\n</p>\r\n<p>The definition of health spending given by the OECD is the following: \"Health spending measures the final consumption of health care goods and services (i.e. current health expenditure) including personal health care (curative care, rehabilitative care, long-term care, ancillary services and medical goods) and collective services (prevention and public health services as well as health administration), but excluding spending on investments. Health care is financed through a mix of financing arrangements including government spending and compulsory health insurance (\u201cpublic\u201d) as well as voluntary health insurance and private funds such as households\u2019 out-of-pocket payments, NGOs and private corporations (\u201cprivate\u201d). This indicator is presented as a total and by type of financing (\u201cpublic\u201d, \u201cprivate\u201d, \u201cout-of-pocket\u201d) and is measured as a share of GDP, as a share of total health spending and in USD per capita (using economy-wide PPPs).\"\r\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Health Expenditure and Financing (per capita)",
+            "unit": "2010 int-$",
+            "description": "Per capita health expenditure and financing in OECD countries, measured in 2010 international dollars",
+            "code": null,
+            "coverage": "OECD countries",
+            "timespan": "1970-2015",
+            "source_id": 0
+        }
+    ]
+}
