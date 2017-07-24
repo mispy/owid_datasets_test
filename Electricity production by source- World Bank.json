@@ -1,0 +1,47 @@
+{
+    "sources": [
+        {
+            "name": "Global electricity production by source- World Bank",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>World Bank- World Development Indicators (WDI)</td>\n\t</tr>\n\t<tr>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://data.worldbank.org/indicator</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-05-19</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>World Bank data derived from IEA Statistics \u00a9 OECD/IEA 2014 (Available at: http://www.iea.org/stats/index.asp), and World Bank, Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking \n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Nuclear (% electricity production)",
+            "unit": "% electricity production",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1990-2014",
+            "source_id": 0
+        },
+        {
+            "name": "Renewable electricity (% electricity production)",
+            "unit": "% electricity production",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1990-2014",
+            "source_id": 0
+        },
+        {
+            "name": "Nuclear + Renewables (% electricity production)",
+            "unit": "% electricity production",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1990-2014",
+            "source_id": 0
+        },
+        {
+            "name": "Fossil fuels (% electricity production)",
+            "unit": "% electricity production",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1990-2014",
+            "source_id": 0
+        }
+    ]
+}
