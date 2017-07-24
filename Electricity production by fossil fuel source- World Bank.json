@@ -1,0 +1,56 @@
+{
+    "sources": [
+        {
+            "name": "Electricity production by fossil fuel source- World Bank",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>World Bank- World Development Indicators (WDI) </td>\n\t</tr>\n\t<tr>\n\t\t\n\t\t<td>Link</td>\n\t\t<td>http://databank.worldbank.org/data/home.aspx</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-05-20</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Coal, oil, gas and nuclear figures from World Bank sourced from IEA Statistics \u00a9 OECD/IEA 2014. Available at: http://www.iea.org/stats/index.asp\n</p>\n<p>\nWorld Bank figures for renewable electricity sourced from: Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking Framework led jointly by the World Bank, International Energy Agency, and the Energy Sector Management Assistance Program.\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Oil (% electricity production)",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1990-2014",
+            "source_id": 0
+        },
+        {
+            "name": "Renewables (% electricity output)",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1990-2014",
+            "source_id": 0
+        },
+        {
+            "name": "Nuclear (% electricity production)",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1990-2014",
+            "source_id": 0
+        },
+        {
+            "name": "Natural gas (% energy production)",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1990-2014",
+            "source_id": 0
+        },
+        {
+            "name": "Coal (% electricity production)",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1990-2014",
+            "source_id": 0
+        }
+    ]
+}
