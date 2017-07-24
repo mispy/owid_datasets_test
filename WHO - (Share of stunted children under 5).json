@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "WHO \u2013 (Share of stunted children under 5)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\r\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>World Health Organization<br></td>\r\n\t</tr><tr><td>Data publisher's source</td>\r\n\t\t<td>The data is based on information from the Nutrition Landscape Information System (NLiS), a system which combines information from a great number of sources (<a href=\"http://www.who.int/nutrition/nlis/en/\" rel=\"nofollow\" target=\"_blank\">http://www.who.int/nutrition/nlis/en/</a>).<br></td>\r\n\t</tr></span><tr><td>Link</td><td>http://apps.who.int/gho/data/view.main.90200</td></tr><tr><td>Retrieved</td><td>26 February 2016</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>Some of the WHO estimates refer to a range of years (e.g. 2003-2004) in uploading this data we had to change this to the last year that the original range referred to.<br></p>\r\n</div><br><br><br><br><br></body></html>\r\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "WHO \u2013 (Share of stunted children under 5)",
+            "unit": "%",
+            "description": "Share of stunted children aged <5",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1966-2014",
+            "source_id": 0
+        }
+    ]
+}
