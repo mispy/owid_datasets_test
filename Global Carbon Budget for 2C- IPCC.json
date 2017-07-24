@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Global Carbon Budget for 2C- IPCC",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>IPCC Assessment Report 5 (2013)</td>\n\t</tr>\n\t<tr>\n\t\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-06-10</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>The carbon budget refers to the maximum quantity of carbon which can be released to maintain a 50 percent probability of global average temperature rise remaining below two-degrees celcius (the target set within the UN Paris climate agreement). </p>\n<p>This has been measured relative to the quantity of carbon which would be released if all fossil fuel reserves were burned without the use of carbon capture and storage (CCS) technology. The difference between the two is defined as 'unburnable carbon'.</p>\n<p>References:</p>\n<p>Intergovernmental Panel on Climate Change\nClimate Change 2013: The Physical Science Basis, Summary for Policy Makers, WG1 Contribution to IPCC AR5. Available at: http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Global Carbon Budget",
+            "unit": "billion tonnes carbon (GtC)",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
