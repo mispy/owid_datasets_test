@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Ferrari et al. (2013)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data provider</td>\r\n<td>Academic paper published in PLOS<br></td>\r\n</tr><tr><td>Source</td>\r\n<td>Ferrari AJ, Charlson FJ, Norman RE, Patten SB, Freedman G, Murray CJ, et al. (2013) &ndash; Burden of Depressive Disorders by Country, Sex, Age, and Year: Findings from the Global Burden of Disease Study 2010. PLoS Med 10(11): e1001547. doi:10.1371/journal.pmed.1001547</td>\r\n</tr><tr><td>Description</td>\r\n<td>Prevalence of Major Depressive Disorder<br></td>\r\n</tr></span><tr><td>Link</td><td>http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001547</td></tr><tr><td>Retrieved</td><td>27 January 2010</td></tr></table><div>\r\n<h3>Additional information</h3>\r\n<p><br></p>\r\n</div><br><br></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Burden of Depressive Disorders \u2013 Ferrari et al. (2013)",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country and world region",
+            "timespan": "2010",
+            "source_id": 0
+        }
+    ]
+}
