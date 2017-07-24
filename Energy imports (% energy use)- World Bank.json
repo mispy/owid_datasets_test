@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Energy imports (% energy use)- World Bank",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>World Bank- World Development Indicators (WDI)</td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>IEA Statistics \u00a9 OECD/IEA 2014. Available at: http://www.iea.org/stats/index.asp</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://data.worldbank.org/indicator/EG.IMP.CONS.ZS?view=chart</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-05-19</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>\"Net energy imports are estimated as energy use less production, both measured in oil equivalents. A negative value indicates that the country is a net exporter. Energy use refers to use of primary energy before transformation to other end-use fuels, which is equal to indigenous production plus imports and stock changes, minus exports and fuels supplied to ships and aircraft engaged in international transport.\" (World Bank)\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Energy imports",
+            "unit": "% energy use",
+            "description": "",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1960-2014",
+            "source_id": 0
+        }
+    ]
+}
