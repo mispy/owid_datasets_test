@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "OECD Social Spending- Old Age",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>Organisation for Economic Co-operation and Development (OECD)</td>\n\t</tr>\n\t<tr>\n\t\t\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://stats.oecd.org/Index.aspx?datasetcode=SOCX_AGG</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-05-17</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Dimension of social spending given as the percentage of a country's gross domestic product (%GDP)\n</p>\n</div>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Old Age",
+            "unit": "% of GDP",
+            "description": "",
+            "code": null,
+            "coverage": "OECD",
+            "timespan": "1980-2015",
+            "source_id": 0
+        }
+    ]
+}
