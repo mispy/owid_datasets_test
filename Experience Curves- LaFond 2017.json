@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "Experience Curves- LaFond 2017",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>Lafond et al. 2017. How well do experience curves predict technological progress? A method for making distributional forecasts</td>\n\t</tr>\n\t\t<td>Link</td>\n\t\t<td>https://arxiv.org/abs/1703.05979</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-06-12</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Cumulative production",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Unit cost",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
