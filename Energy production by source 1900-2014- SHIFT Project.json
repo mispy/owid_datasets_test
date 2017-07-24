@@ -1,0 +1,65 @@
+{
+    "sources": [
+        {
+            "name": "Energy Production- The Shift Project Data Portal",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>The Shift Project Data Portal</td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>How was the data produced in the first place? E.g. Author(s) or original sources; Census Data...</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>e.g. http://www.example.org</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>e.g. 2016-02-15</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Any additional information should be placed here. Helpful information here would include</br>\n\u2013 details of any transformations made to produce the variable if it is not a direct download from the data provider.</br>\n\u2013 information when the data publisher published the original dataset.\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Coal production",
+            "unit": "Mtoe",
+            "description": "Coal production",
+            "code": null,
+            "coverage": "global by region",
+            "timespan": "1990-2014",
+            "source_id": 0
+        },
+        {
+            "name": "Gas production",
+            "unit": "Mtoe",
+            "description": "Gas production",
+            "code": null,
+            "coverage": "global by region",
+            "timespan": "1900-2014",
+            "source_id": 0
+        },
+        {
+            "name": "Hydropower production",
+            "unit": "Mtoe",
+            "description": "Hydropower production",
+            "code": null,
+            "coverage": "global by region",
+            "timespan": "1900-2014",
+            "source_id": 0
+        },
+        {
+            "name": "Nuclear production",
+            "unit": "Mtoe",
+            "description": "Nuclear production",
+            "code": null,
+            "coverage": "global by region",
+            "timespan": "1900-2014",
+            "source_id": 0
+        },
+        {
+            "name": "Oil production",
+            "unit": "Mtoe",
+            "description": "Oil production",
+            "code": null,
+            "coverage": "global by region",
+            "timespan": "1900-2014",
+            "source_id": 0
+        },
+        {
+            "name": "Other Renewables",
+            "unit": "Mtoe",
+            "description": "Other Renewables",
+            "code": null,
+            "coverage": "global by region",
+            "timespan": "1900-2014",
+            "source_id": 0
+        }
+    ]
+}
