@@ -1,0 +1,38 @@
+{
+    "sources": [
+        {
+            "name": "IFPRI \u2013 SPEED",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>\n<p class=\"p1\"><strong>Dataset:</strong> International Food Policy Research Institute (IFPRI). 2015. Statistics on public expenditures and economic development (SPEED). Washington, D.C.: International Food Policy Research Institute. http://dx.doi.org/10.7910/DVN/INZ3QK</p>\n<p class=\"p2\">&nbsp;</p>\n<p class=\"p1\"><strong>Data paper:</strong> Bingxin, Yu; Magalhaes, Eduardo; and Benin, Samuel. 2015. A database user manual for Statistics on Public Expenditures for Economic Development (SPEED). Washington, D.C.: International Food Policy Research Institute (IFPRI). http://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/129363/filename/129574.pdf</p>\n</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>&nbsp;Various sources, but primarily IMF Government Financial Statistics (see Data Paper reference for complete details)</td>\n</tr>\n<tr>\n<td>Link</td>\n<td>http://dx.doi.org/10.7910/DVN/INZ3QK</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2016-10-19</td>\n</tr>\n</tbody>\n</table>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Total government spending (%GDP)",
+            "unit": "% GDP",
+            "description": "1980-2012",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Total government spending (per capita)",
+            "unit": "per capita (2005 $PPP)",
+            "description": "1980-2012",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Total government spending (regional averages)",
+            "unit": "% GDP",
+            "description": "1980-2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
