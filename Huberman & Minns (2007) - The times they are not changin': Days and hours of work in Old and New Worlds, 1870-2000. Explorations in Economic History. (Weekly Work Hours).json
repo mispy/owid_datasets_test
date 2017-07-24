@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Huberman & Minns (2007) \u2013 The times they are not changin\u2019: Days and hours of work in Old and New Worlds, 1870\u20132000. Explorations in Economic History. (Weekly Work Hours)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><b>Description:</b>\r\n<table><span><tr><td>Data published by</td>\r\n<td>Huberman &amp; Minns (2007) &ndash; The times they are not changin&rsquo;: Days and \r\nhours of work in Old and New Worlds, 1870&ndash;2000. Explorations in Economic\r\n History, 44(4):538&ndash;567.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p></p></td></tr><tr><td>Data publisher's source</td>\r\n<td><p>The original sources according to Hubermann &amp; Minns (2007):</p>\r\n<p>1870&ndash;1913: Huberman (2004); 1929&ndash;1938, ILO (1934&ndash;38), except for \r\nCanada (Ostry and Zaidi, 1972), U.S. (Jones, 1963 and Owen, 1988), and \r\nfor Australia (Butlin, 1977); the values for Spain in 1938 are for 1936;</p>\r\n<p>1950&ndash;1980: ILO (1950&ndash;80), except for U.S. (McGratten and Rogerson, 2004), and Australia ( Butlin, 1977);</p>\r\n<p>1980&ndash;2000: ILO (2005), except for U.S. (McGratten and Rogerson, \r\n2004), Canada (Heisz and LaRochelle-C&ocirc;t&eacute;, 2003), and Denmark (Eurostat, \r\n1995).</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p></p></td></tr></span><tr><td>Link</td><td>The paper is online here\u00a0http://www.sciencedirect.com/science/article/pii/S0014498307000058</td></tr></table><div><p><br></p></div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Huberman & Minns (2007) \u2013 The times they are not changin\u2019: Days and hours of work in Old and New Worlds, 1870\u20132000. Explorations in Economic History. (Weekly Work Hours)",
+            "unit": "hours per week",
+            "description": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nData refers to full-time production workers (male and female) in non-agricultural activities.\r\nOnly for 2000 Huberman & Minns give estimates for both genders \r\nseparately. I have calculated and visualized the average of the two \r\nmeasures.",
+            "code": null,
+            "coverage": "14 early industrialized countries",
+            "timespan": "1870 to 2000",
+            "source_id": 0
+        }
+    ]
+}
