@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Daily protein supply- FAOstat",
+            "description": "<table>\r\n\t<tr>\r\n\t\t<td>Data published by</td>\r\n\t\t<td>United Nations Food and Agricultural Organization (FAO)</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Data publisher's source</td>\r\n\t\t<td>Household survey and census data</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Link</td>\r\n\t\t<td>http://www.fao.org/faostat/en/#data/FBS</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Retrieved</td>\r\n\t\t<td>2017-07-18</td>\r\n\t</tr>\r\n</table>\r\n<div class=\"datasource-additional\">\r\n\t<p>Daily protein supply is defined as the average per capita protein availability. Note that this indicates the availability delivered to households but does not necessarily indicate the quantity of protein actually consumed (food may be wasted at the consumer level).\r\n</p>\r\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Daily protein supply",
+            "unit": "g/person/day",
+            "description": "",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1961-2013",
+            "source_id": 0
+        }
+    ]
+}
