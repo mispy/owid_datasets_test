@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Polity IV + Wimmer and Min (Our World In Data)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><p>Two sources &ndash; Center for Systemic Peace + Wimmer and Min (2006) &ndash;&nbsp; combined for Our World In Data\r\n</p><table><span><tr><td>Data provider</td>\r\n\t\t<td>Center for Systemic Peace<br></td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>Polity IV data set<br></td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>Polity 2 Measure that ranges from -10 (autocracy) to +10 (full democracy)<br></td>\r\n\t</tr></span><tr><td>Link</td><td>http://www.columbia.edu/~aw2951/Datasets.html</td></tr><tr><td>Retrieved</td><td>29 January 2016</td></tr></table><div><br>Source 2: Wimmer and Min<br></div>\r\n<table><span><tr><td>Data provider</td>\r\n\t\t<td>Academic Paper<br></td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>Wimmer and Min (2006) &ndash; &ldquo;From empire to nation-state: Explaining war in the modern world, 1816-2001&rdquo;, American Sociological Review 71(6):867-897, 2006.</td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>Information about the colonial power<br></td>\r\n\t</tr></span><tr><td>Link</td><td>http://www.columbia.edu/~aw2951/Datasets.html</td></tr><tr><td>Retrieved</td><td>29 January 2016</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>The original data provides information on each territory's colonial power. To be able to combine this with the numerical Polity2 metric I coded colonized countries as -20. If a country was coded as a colony in the Wimmer and Min data and had a value in the Polity 2 data set then I preferred the Polity 2 measure and this is shown in the final data set.</p><p>Max Roser<br></p>\r\n</div><br><br><br></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Polity IV + Wimmer and Min (Our World In Data)",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1815 to 2001",
+            "source_id": 0
+        }
+    ]
+}
