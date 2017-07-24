@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "UN projected population by age group",
+            "description": "<table>\n<tr>\n<td>Variable description</td>\n<td>Total population (both sexes combined) by five-year age group, region, subregion and country\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>UN Population Statistics Division </td>\n\t</tr>\n\t<tr>\n\t\t\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>https://esa.un.org/unpd/wpp/</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-06-27</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Population trends for the under 15 age group have been calculated as the sum of all age groups up to 14 years old. Over 15 constitutes all individuals aged 15 or above. The total constitutes the sum of both age categories.</p>\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Population",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1950-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Projected population",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "2020-2100",
+            "source_id": 0
+        }
+    ]
+}
