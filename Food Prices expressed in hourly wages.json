@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": " U.S. Bureau of Labor Statistics, Consumer Expenditure Survey",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\r\n<html><body><table><span><tr><th>U.S. Bureau of Labor Statistics, Consumer Expenditure Survey<br></th>\r\n\t</tr><tr><td>Data providers</td>\r\n\t\t<td>U.S. Bureau of Labor Statistics, Consumer Expenditure Survey<br></td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>Own calculations by Max Roser: Hourly wage in manufacturing divided by price of\u00a0</td><tr><td>Calculated</td>\r\n\t\t<td>September 2015<br><br></td></tr></span><tr><td>Link</td><td>http://www.bls.gov/opub/uscs/2002-03.pdf</td></tr></table></body></html>\r\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Food Prices expressed in hourly wages",
+            "unit": "per hour work (in manufacturing)",
+            "description": "",
+            "code": null,
+            "coverage": "USA",
+            "timespan": "1901-2003",
+            "source_id": 0
+        }
+    ]
+}
