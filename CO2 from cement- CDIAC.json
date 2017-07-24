@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "CO2 from cement- CDIAC",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>Carbon Dioxide Information Analysis Center (CDIAC) </td>\n\t</tr>\n\t<tr>\n\t\t\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://cdiac.ornl.gov/CO2_Emission/</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-04-20</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>CDIAC data originally sourced from: \n<p>T.A. Boden, G. Marland, and R.J. Andres. 2017. Global, Regional, and National Fossil-Fuel CO2 Emissions. Available at: doi:10.3334/CDIAC/00001_V2010\n</p>\n\nData originally reported in units of carbon. This has been converted to units of CO2 using a conversion factor of 3.67.\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "CO2 from cement- CDIAC",
+            "unit": "million tonnes",
+            "description": "Annual CO2 emissions from cement (million tonnes)- CDIAC",
+            "code": null,
+            "coverage": "global by region",
+            "timespan": "1751-2013",
+            "source_id": 0
+        }
+    ]
+}
