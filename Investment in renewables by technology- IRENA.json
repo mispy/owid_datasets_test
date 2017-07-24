@@ -1,0 +1,74 @@
+{
+    "sources": [
+        {
+            "name": "Investment in renewables by technology- IRENA",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>International Renewable Energy Agency (IRENA) </td>\n\t</tr>\n\t<tr>\n\t\t<td>Frankfurt School-UNEP Centre/BNEF (2017). Global Trends in Renewable Energy Investment\n 2017. Available at: http://fs-unep-centre.org/sites/default/files/publications/globaltrendsinrenewableenergyinvestment2017.pdf</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://resourceirena.irena.org/gateway/dashboard/</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-05-30</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Renewable investment figures are measured in billion USD per year. Investment adjusts for re-invested equity, and includes estimates for undisclosed deals.</p>\n<p> Figures excludes investments in large hydropower schemes.\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Solar Energy",
+            "unit": "billion USD",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "2004-2016",
+            "source_id": 0
+        },
+        {
+            "name": "Wind Energy",
+            "unit": "billion USD",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "2004-2016",
+            "source_id": 0
+        },
+        {
+            "name": "Biomass & Waste-to-Energy",
+            "unit": "billion USD",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "2004-2016",
+            "source_id": 0
+        },
+        {
+            "name": "Liquid Biofuels",
+            "unit": "billion USD",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "2004-2016",
+            "source_id": 0
+        },
+        {
+            "name": "Small Hydropower",
+            "unit": "billion USD",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "2004-2016",
+            "source_id": 0
+        },
+        {
+            "name": "Geothermal Energy",
+            "unit": "billion USD",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "2004-2016",
+            "source_id": 0
+        },
+        {
+            "name": "Marine Energy",
+            "unit": "billion USD",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "2004-2016",
+            "source_id": 0
+        }
+    ]
+}
