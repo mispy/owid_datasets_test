@@ -1,0 +1,24 @@
+Entity,Year,Coal,Crude oil,Natural gas,Hydroelectricity,Nuclear,Wind and solar,Modern biofuels,Traditional biofuels
+World,1800,2,,,,,,,98
+World,1810,2,,,,,,,98
+World,1820,2,,,,,,,98
+World,1830,4,,,,,,,96
+World,1840,5,,,,,,,95
+World,1850,7,,,,,,,93
+World,1860,13,,,,,,,87
+World,1870,19,,,,,,,81
+World,1880,27,,,,,,,73
+World,1890,36,1,,,,,,63
+World,1900,47,1,,,,,,52
+World,1910,55,3,1,,,,,41
+World,1920,55,5,1,,,,,39
+World,1930,51,9,3,,,,,37
+World,1940,51,12,4,1,,,,32
+World,1950,45,19,7,1,,,,28
+World,1960,38,27,11,2,,,,22
+World,1970,28,38,16,2,,,,16
+World,1980,27,38,18,2,3,,,12
+World,1990,27,33,20,2,6,,,12
+World,2000,25,33,22,2,6,,,12
+World,2010,31,29,23,3,5,,1,8
+World,2015,30,29,24,3,5,,1,8
