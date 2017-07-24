@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "CO2 equivalent from energy sources- IPCC",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>IPCC, 2011: Summary for Policymakers. In: IPCC Special Report on Renewable Energy Sources and Climate Change Mitigation\n[O. Edenhofer, R.\u00a0 Pichs-Madruga, Y. Sokona, K. Seyboth, P. Matschoss, S. Kadner, T. Zwickel, P. Eickemeier, G. Hansen,\nS. Schl\u00f6mer, C. von Stechow (eds)], Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. </td>\n\t</tr>\n\t<tr>\n\t\t\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://www.ipcc.ch/report/srren/</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-05-05</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Data reported as the median grams of carbon dioxide equivalents per kWh (gCO2e per kWh) based on life-cycle analysis of energy production sources.\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Equivalent CO2 emissions",
+            "unit": "gCO2 per kWh",
+            "description": "CO2 equivalent emissions from energy production- IPCC",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
