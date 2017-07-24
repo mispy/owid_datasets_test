@@ -1,0 +1,74 @@
+{
+    "sources": [
+        {
+            "name": "IIASA (Global Projection \u2013 Medium SSP2)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><b>Description:</b>\r\n<table><span><tr><td>Data published by</td>\r\n<td>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p>Wittgenstein Centre for Demography and Global Human Capital (2015). Wittgenstein Centre Data Explorer Version 1.2.</p></td></tr><tr><td>Data publisher's source</td>\r\n<td>Projections published by the Wittgenstein Centre.</td></tr></span><tr><td>Link</td><td>http://www.oeaw.ac.at/vid/dataexplorer/</td></tr><tr><td>Retrieved</td><td>20 May 2016</td></tr></table><div><table><tr><td><b>Additional information</b><br></td></tr><tr><td>Link</td><td>http://www.oeaw.ac.at/vid/dataexplorer/</td></tr><tr><td>Retrieved</td><td>20 May 2016</td></tr></table>This is Medium (SSP2) scenario.</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Under 15",
+            "unit": "people",
+            "description": "Population size by education level.",
+            "code": null,
+            "coverage": "Global",
+            "timespan": "1970 to 2100",
+            "source_id": 0
+        },
+        {
+            "name": "No Education",
+            "unit": "people",
+            "description": "Population size by education level.",
+            "code": null,
+            "coverage": "Global",
+            "timespan": "1970 to 2100",
+            "source_id": 0
+        },
+        {
+            "name": "Incomplete Primary",
+            "unit": "people",
+            "description": "Population size by education level.",
+            "code": null,
+            "coverage": "Global",
+            "timespan": "1970 to 2100",
+            "source_id": 0
+        },
+        {
+            "name": "Primary",
+            "unit": "people",
+            "description": "Population size by education level.",
+            "code": null,
+            "coverage": "Global",
+            "timespan": "1970 to 2100",
+            "source_id": 0
+        },
+        {
+            "name": "Lower Secondary",
+            "unit": "people",
+            "description": "Population size by education level.",
+            "code": null,
+            "coverage": "Global",
+            "timespan": "1970 to 2100",
+            "source_id": 0
+        },
+        {
+            "name": "Upper Secondary",
+            "unit": "people",
+            "description": "Population size by education level.",
+            "code": null,
+            "coverage": "Global",
+            "timespan": "1970 to 2100",
+            "source_id": 0
+        },
+        {
+            "name": "Post Secondary",
+            "unit": "people",
+            "description": "Population size by education level.",
+            "code": null,
+            "coverage": "Global",
+            "timespan": "1970 to 2100",
+            "source_id": 0
+        }
+    ]
+}
