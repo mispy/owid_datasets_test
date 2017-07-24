@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "Office of Health Economics (2012)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>Office of Health Economics&nbsp;</td></tr><tr><td>Data publisher's source</td>\r\n\t\t<td>Official Statistics (see sources in&nbsp;OHE Guide to UK Health and Health Care Statistics)<br></td></tr></span><tr><td>Link</td><td>https://www.ohe.org/publications/ohe-guide-uk-health-and-health-care-statistics</td></tr><tr><td>Retrieved</td><td>31/03/2016</td></tr></table></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "NHS Expenditure %GDP 1950-2012",
+            "unit": "Percent of GDP",
+            "description": "NHS expenditure as percent of GDP",
+            "code": null,
+            "coverage": "UK",
+            "timespan": "1950-2012",
+            "source_id": 0
+        },
+        {
+            "name": "NHS Expenditure per capita",
+            "unit": "GBP (current) per head",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
