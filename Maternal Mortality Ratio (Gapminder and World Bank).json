@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Gapminder and World Bank",
+            "description": "<table>\r\n\t<tr>\r\n\t\t<td>Data published by</td>\r\n\t\t<td>Historical data (up to 1979): Gapminder</br>Recent data (1990 to 2015): World Bank</td>\r\n\t</tr>\r\n\t\r\n\t<tr>\r\n\t\t<td>Data retrieved</td>\r\n\t\t<td>2017-June-04</td>\r\n\t</tr>\r\n</table>\r\n<div class=\"datasource-additional\">\r\n\r\nClaudia Hanson has reconstructed the historical estimates for Gapminder in 2010. The work is documented here: https://www.gapminder.org/documentation/documentation/gapdoc010.pdf\r\nand can be accessed here: https://docs.google.com/spreadsheets/d/14ZtQy9kd0pMRKWg_zKsTg3qKHoGtflj-Ekal9gIPZ4A/pub#</br>\r\n\r\nGapminder has reconstructed the historical data for the following 13 countries: Australia, Belgium, Denmark, Finland, Germany, Ireland, Japan, Malaysia, Netherlands, Sri Lanka, Sweden, the United Kingdom, and the United States.\r\n\r\n</br></br>\r\n\r\n\tThe original source of the World Bank data is: WHO, UNICEF, UNFPA, World Bank Group, and the United Nations Population Division. Trends in Maternal Mortality: 1990 to 2015. Geneva, World Health Organization, 2015\r\n</br></br>\r\nThe two datasets were combined without any adjustments.\r\n</p>\r\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Maternal Mortality Ratio (Gapminder and World Bank)",
+            "unit": "deaths per 100,000 live births",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country and region",
+            "timespan": "1800-2015",
+            "source_id": 0
+        }
+    ]
+}
