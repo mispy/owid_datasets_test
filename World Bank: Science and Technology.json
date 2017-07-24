@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "World Bank: Science and Technology",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>World Bank: World Development Indicators</th></tr><tr><td>Data provider</td><td>World Bank</td></tr><tr><td>Source</td><td>International Telecommunication Union, World Telecommunication/ICT Development Report and database<br></td></tr><tr><td>Description</td><td>Internet and mobile phone data</td></tr></span><tr><td>Link</td><td>http://data.worldbank.org/</td></tr><tr><td>Retrieved</td><td>11/09/2015</td></tr></table><div>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Mobile cellular subscriptions",
+            "unit": "per 100 people",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1980-2014",
+            "source_id": 0
+        }
+    ]
+}
