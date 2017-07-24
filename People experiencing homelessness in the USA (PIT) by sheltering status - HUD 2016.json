@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "People experiencing homelessness in the USA (PIT), by shelter status - HUD 2016.",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>The U.S. Department of Housing and Urban Development (<a href=\"https://www.hudexchange.info/\">HUD Exchange</a>)</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>The Annual Homeless Assessment Report (AHAR), <a href=\"https://www.hudexchange.info/resources/documents/2016-AHAR-Part-1.pdf\">HUD report</a> to the U.S. Congress, November 2016</td>\n</tr>\n<tr>\n<td>Link</td>\n<td><a href=\"https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/\">https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/</a></td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2017-02-20</td>\n</tr>\n</tbody>\n</table>\n<div class=\"datasource-additional\">\n<p><strong>Additional information</strong></p>\n<p>HUD's description of the report:</p>\n<p>\"This report outlines the key findings of the 2016 Point-In-Time (PIT) count and Housing Inventory Count (HIC) conducted in January 2016. Specifically, this report provides 2016 national, state, and CoC-level PIT and HIC estimates of homelessness, as well as estimates of chronically homeless persons, homeless veterans, and homeless children and youth\".</p>\n<p>All HUD reports are available <a href=\"https://www.hudexchange.info/programs/hdx/guides/ahar/#reports\">here</a>.</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Sheltered Homeless",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Unsheltered Homeless",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
