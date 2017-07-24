@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "World Bank",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><tbody><tr><td><span class=\"datasource-property\"><span class=\"datasource-property\">Data published by</span></span></td>\r\n<td>World Bank</td>\r\n</tr><tr><td><span class=\"datasource-property\">Data publisher's source</span></td>\r\n<td>Primary household survey data obtained from government statistical agencies and World Bank country departments</td>\r\n</tr></tbody><tr><td>Link</td><td>http://databank.worldbank.org/data/indicator/SI.POV.GINI?id=af3ce82b&report_name=Popular_indicators&populartype=series&ispopular=y</td></tr><tr><td>Retrieved</td><td>15/08/2016</td></tr></table><div class=\"datasource-additional\">\r\n<p><strong>Additional information: </strong>World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).</p>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Gini coefficient",
+            "unit": "",
+            "description": "1981-2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
