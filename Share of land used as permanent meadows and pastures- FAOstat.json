@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Share of land used as permanent meadows and pastures- FAOstat",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>United Nations Food and Agricultural Organization (FAOstat)</td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>FAO questionaires, estimates and national publications</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://www.fao.org/faostat/en/#home</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-07-24</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Permanent meadows and pastures is defined by the FAO as: \"the land used permanently (five years or more) to grow herbaceous forage crops, either cultivated or growing wild (wild prairie or grazing land).\"\n</p>\n<p>Data here is presented as the share of total land area (with the exclusion of area covered by freshwater bodies) used for permanent meadows and pasture.\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Permanent meadows and pastures",
+            "unit": "%",
+            "description": "Share of land used as permanent meadows and pastures",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1961-2014",
+            "source_id": 0
+        }
+    ]
+}
