@@ -1,0 +1,92 @@
+{
+    "sources": [
+        {
+            "name": "Our World In Data based on NOAA, Lopez Holle and population data",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>Where did you find the data? e.g. World Bank WDI; or Toniolo and Vecchi (1998) ... </td>\n\t</tr>\n\t<tr>\n\t\t<td>Data produced by</td>\n\t\t<td>Our World In Data based on  NOAA, Lopez Holle (1997) and population data from the US census and the World Bank</td>\n\t\n\t<tr>\n\t\t<td>Produced on</td>\n\t\t<td>2017-April-22</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Data on the annual fatalities (since 1940) to various weather events in the US is from the National Oceanic and Atmospheric Administration (NOAA) National Weather Service. This dataset is online here: \nhttp://www.lightningsafety.noaa.gov/victims.shtml</br>\nData on lightning from lightning earlier than 1991 is not from this dataset from NOAA, but from the Lopez and Holle paper cited below. \n</br></br>\nI have calculated the fatality <em>rate</em> based on the NOAA fatality counts and estimates of the US population. These estimates are based on US census data for the period before 1960 and on World Bank data for the period since then.</br></br>\nThe US census data is online here: https://www2.census.gov/programs-surveys/popest/tables/1900-1980/national/totals/popclockest.txt</br>\nThe World Bank estimates are online here: http://data.worldbank.org/indicator/SP.POP.TOTL</br>\n</br></br>\nData on the lightning fatality rate until 1990 is from Ra\u00fal E. Lopez and Ronald L. Holle (1997) \u2013 Changes in the Number of Lightning Deaths in the United States during the Twentieth Century. Journal of Climate; Volume 11.</br> This fatality rate is not calculated for the entire US since in earlier periods not all US states reported the number of annual fatalities. (In the calculation of the fatality rate Lopez and Holle have taken only the population of the reporting states into account so that the population in the numerator and the denominator refer to the same group of people.)\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Lightning",
+            "unit": "deaths per million",
+            "description": "",
+            "code": null,
+            "coverage": "USA",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Tornado",
+            "unit": "deaths per million",
+            "description": "",
+            "code": null,
+            "coverage": "USA",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Flood",
+            "unit": "deaths per million",
+            "description": "",
+            "code": null,
+            "coverage": "USA",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Hurricane",
+            "unit": "deaths per million",
+            "description": "",
+            "code": null,
+            "coverage": "USA",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Heat",
+            "unit": "deaths per million",
+            "description": "",
+            "code": null,
+            "coverage": "USA",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Cold",
+            "unit": "deaths per million",
+            "description": "",
+            "code": null,
+            "coverage": "USA",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Winter",
+            "unit": "deaths per million",
+            "description": "",
+            "code": null,
+            "coverage": "USA",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Rip Current",
+            "unit": "deaths per million",
+            "description": "",
+            "code": null,
+            "coverage": "USA",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Wind",
+            "unit": "deaths per million",
+            "description": "",
+            "code": null,
+            "coverage": "USA",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
