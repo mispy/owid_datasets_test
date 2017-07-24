@@ -1,0 +1,85 @@
+{
+    "sources": [
+        {
+            "name": "Cost per year of closing the poverty gap in int-$ 2011 - PovcalNet (World Bank)",
+            "description": "<table>\r\n<tbody>\r\n<tr>\r\n<td>Data published by</td>\r\n<td>OWID team's own calculations based on\u00a0'<a href=\"http://iresearch.worldbank.org/PovcalNet/home.aspx\">PovcalNet</a>: the on-line tool for poverty measurement developed by the Development Research Group of the World Bank</td>\r\n</tr>\r\n<tr>\r\n<td>Work inspired by</td>\r\n<td>\u00a0Chandy, Ledlie, and Penciakova (<a href=\"https://www.brookings.edu/wp-content/uploads/2016/06/The_Final_Countdown.pdf\">2013</a>) & Zhang, Chandy, and Noe (<a href=\"https://www.brookings.edu/blog/up-front/2016/01/20/the-global-poverty-gap-is-falling-billionaires-could-help-close-it/\">2016</a>)</td>\r\n</tr>\r\n<tr>\r\n<td>Link</td>\r\n<td><a href=\"http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx\">http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx#</a></td>\r\n</tr>\r\n<tr>\r\n<td>Retrieved</td>\r\n<td>2017-02-28</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<div class=\"datasource-additional\">\r\n<p><strong>Additional information:</strong></p>\r\n<p> The cost of closing the poverty gap does not take into account costs and inefficiencies from making the necessary transfers.</p>\r\n<p>The cost of closing the poverty gap is calculated as follows: Poverty Gap Index x Poverty Line (1.9 int-$ per day) x 365 x Population.</p>\r\n<p>The poverty gap index for each country corresponds to the estimates available via the option <em>'Replicate the World Bank's regional aggregation'</em> available in the PovcalNet on-line tool. </p>\r\n<p>The unit of measure is international-$ (2011 PPP), in order to allow cross-country comparisons. This should not be confused with market dollars.\u00a0</p>\r\n<p>The poverty gap index estimates from the World Bank's PovcalNet data cover low and middle income countries, with observations every three years in the period 1981-2013. To achieve this level of granularity, the World Bank relies on interpolation for countries in which survey data are not available in particular years, but are available either before or after (or both). The process of interpolation requires adjusting the mean income or expenditure observed in the survey year by a growth factor to infer the unobserved level in the missing year. You can read more about this process in <a href=\"http://iresearch.worldbank.org/PovcalNet/methodology.aspx\" target=\"_blank\">http://iresearch.worldbank.org/PovcalNet/methodology.aspx</a>.</p>\r\n\r\n</div>",
+            "id": 0
+        },
+        {
+            "name": "World Poverty Absolute Number by Region - PovcalNet (World Bank)",
+            "description": "<table>\r\n\t<tr>\r\n\t\t<td>Data published by</td>\r\n\t\t<td> OWID team's own calculations based on <a href=\"  http://iresearch.worldbank.org/PovcalNet/home.aspx\" target=\"_blank\"><em>PovcalNet </em> </a>\r\n: the on-line tool for poverty measurement developed by the Development Research Group of the World Bank </td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Data publisher's source</td>\r\n<td>World Bank, Development Research Group.\u00a0Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments.</td>\t</tr>\r\n\t<tr>\r\n\t\t<td>Link</td>\r\n\t\t<td><a href=\"  http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx\" target=\"_blank\"><em>http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx</em> </a>\r\n</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Retrieved</td>\r\n\t\t<td>13/03/2017</td>\r\n\t</tr>\r\n</table>\r\n<div class=\"datasource-additional\">\r\n\t<p>\r\n<b> Additional Information:</b> <p>\r\nPovcalNet provides regional aggregation using 2011 PPPs and $1.90/day poverty line for reference years 1987, 1990, 1993, 1996, 1999, 2002, 2005, 2008, 2010, 2011, 2012 and 2013. </p> \r\n<p> Unfortunately, for certain regions and years the data survey coverage is too low and the results are suppressed. Therefore, OWID team calculated the number of the missing variable subtracting the sum of the observed regions from the World Total.\r\nFor example, dis-aggregated data is not available for Middle East and North Africa (MENA) in 2013: </p>\r\n<p> MENA 2013 = World Total - (East Asia and Pacific + Europe and Central Asia + Latin America and the Caribbean + South Asia + Sub-Saharan Africa). \r\n</p>\r\n<b> Warning: </b> <p>\r\nThe most recent figures from the MENA reason do not necessarily reflect the geopolitical turmoil in the region. \r\n</p> <p>\r\nHigh-income countries are not included in PovcalNet tables used for this calculations.\r\n</div>",
+            "id": 1
+        },
+        {
+            "name": "Poverty headcount 1981-2030 - PovcalNet World Bank",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td> Povcalnet World Bank & Ferreira et al. (World Bank, 2015) </td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td> <a href=\"http://iresearch.worldbank.org/PovcalNet/home.aspx\" target=\"_blank\"> <em> PovcalNet <em></a>: the on-line tool for poverty measurement developed by the Development Research Group of the World Bank </td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td> Povcalnet - years 1981-2013: <a href=\"http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx\" target=\"_blank\"><em>http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx </em> </a> <p> Ferreira et al. (World Bank, 2015) - 2030 projection: <a href=\"http://documents.worldbank.org/curated/en/360021468187787070/pdf/WPS7432.pdf\" target=\"_blank\"> <em>http://documents.worldbank.org/curated/en/360021468187787070/pdf/WPS7432.pdf </em> </a> </p>  </td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>10/03/2017</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>\nAdditional information: </p>\n<p>\nThe share of World population living in Absolute poverty corresponds to the poverty headcount at the World Bank poverty line of 1.9$ per day.\n</p>\n<p>\nData between 1981 and 2013 are from 'World Total' in PovcalNet's \"Regional aggregation using 2011 PPP and $1.9/day poverty line\". \n</p>\n<p>\nThe 2030 projection of 4.2% is taken from Ferreira at al. (World Bank, 2015), p.37. This projection is \"based on the country-specific historic average growth rates for the past 10 years\". According to the report, an alternative projection based on the last 20 years would give 5.7%. \n\n</p>\n</div>\n",
+            "id": 2
+        },
+        {
+            "name": "Share of the population living in extreme poverty by world region - PovcalNet World Bank",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td> OWID team's own calculations based on <a href=\"  http://iresearch.worldbank.org/PovcalNet/home.aspx\" target=\"_blank\"><em>PovcalNet </em> </a>\n: the on-line tool for poverty measurement developed by the Development Research Group of the World Bank </td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n<td>World Bank, Development Research Group.\u00a0Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments.</td>\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td><a href=\"  http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx\" target=\"_blank\"><em>http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx</em> </a>\n</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>13/03/2017</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>\n<b> Additional Information:</b> <p>\nThe share of population living in extreme poverty by world region is calculated dividing the absolute number of people living in extreme poverty by the population living in the region. </p>\nTo calculate the share of population living in extreme poverty at world level OWID team uses the total world population, not the sum of the 6 regions. In fact, as explained below, the six world regions do not take into account high-income countries.\n\n\n</p>\nPovcalNet provides regional aggregation using 2011 PPPs and $1.90/day poverty line for reference years 1987, 1990, 1993, 1996, 1999, 2002, 2005, 2008, 2010, 2011, 2012 and 2013. </p> \n<p> Unfortunately, for certain regions and years the data survey coverage is too low and the results are suppressed. Therefore, OWID team calculated the number of the missing variable subtracting the sum of the observed regions from the World Total.\nFor example, dis-aggregated data is not available for Middle East and North Africa (MENA) in 2013: </p>\n<p> MENA 2013 = World Total - (East Asia and Pacific + Europe and Central Asia + Latin America and the Caribbean + South Asia + Sub-Saharan Africa). \n</p>\n\n\n<b> Warning: </b> <p>\nThe most recent figures from the MENA reason do not necessarily reflect the geopolitical turmoil in the region. \n</p> <p>\nHigh-income countries are not included in PovcalNet tables used for this calculations.\n</div>",
+            "id": 3
+        },
+        {
+            "name": "Poverty and consumption groups in developing countries - PovcalNet March2017",
+            "description": "<table>\r\n\t<tr>\r\n\t\t<td>Data published by</td>\r\n\t\t<td> OWID team's own calculations based on <a href=\"  http://iresearch.worldbank.org/PovcalNet/home.aspx\" target=\"_blank\"><em>PovcalNet </em> </a>\r\n: the on-line tool for poverty measurement developed by the Development Research Group of the World Bank </td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Data publisher's source</td>\r\n<td>World Bank, Development Research Group.\u00a0Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments.</td>\t</tr>\r\n\t<tr>\r\n\t\t<td>Link</td>\r\n\t\t<td><a href=\"  http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx\" target=\"_blank\"><em>http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx</em> </a>\r\n</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Retrieved</td>\r\n\t\t<td>14/03/2017</td>\r\n\t</tr>\r\n</table>\r\n<div class=\"datasource-additional\">\r\n\t<p>\r\n<b> Additional Information:</b> <p>\r\n\r\nPovcalNet allows to calculate different poverty lines using 2011 PPPs for several reference years (1981, 1984, 1987, 1990, 1993, 1996, 1999, 2002, 2005, 2008, 2010, 2011, 2012 and 2013). </p> \r\nOWID team calculated different poverty lines to define the consumption groups. For example, consumption group 1.25 - 1.9 is calculated as follows: 'total population living under the poverty line at 1.9 int-$ per day' minus 'total population living under the poverty line at 1.25 int-$ per day'.  \r\n</p>\r\n<p>\r\nConsumption per capita is the preferred welfare indicator for the World Bank\u2019s analysis of global poverty. But not all national statistical agencies report to the World Bank consistent estimates of consumption based on expenditure surveys. For about 25% of the countries, estimates correspond to income, rather than consumption. </p>\r\n\r\n<b> Warning: </b> \r\n<p>\r\n'Rich' countries are not included in the PovcalNet tables used for these calculations. Therefore, people belonging to these consumption groups, but living in rich countries (defined by the World Bank) are not represented in these figures. </p>\r\n<p> 'Non-rich' countries are all countries in the World except: Australia, Austria, Belgium, Canada, Cyprus, Denmark, Finland, France, Germany, Greece, Iceland, Ireland, Israel, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden,  Switzerland, United Kingdom, United States. </p>\r\n</div>",
+            "id": 4
+        }
+    ],
+    "variables": [
+        {
+            "name": "Cost of closing the poverty gap in int-$ 2011 - PovcalNet March2017",
+            "unit": "million int-$",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Closing the poverty gap including/excluding China - PovcalNet March2017",
+            "unit": "million int-$",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "World Poverty in Absolute Number by Region - PovcalNet March2017",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "Share of World Population living in Absolute Poverty 1981-2030 - PovcalNet March2017",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 2
+        },
+        {
+            "name": "Share of population living in extreme poverty by region - PovcalNet March2017",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 3
+        },
+        {
+            "name": "Poverty and income groups in non-rich counties - PovcalNet March2017",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 4
+        }
+    ]
+}
