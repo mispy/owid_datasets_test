@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Penn World Table 9.0",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><p>&nbsp;</p>\n<table><tbody><tr><th>Penn World Table</th>\n</tr><tr><td>Data provider</td>\n<td>University of Groningen</td>\n</tr><tr><td>Source</td>\n<td>Penn World Table 9.0</td>\n</tr><tr><td>Description</td>\n<td>Expenditure-side real GDP at chained PPPs in 2011US$</td>\n</tr></tbody><tr><td>Link</td><td>http://www.rug.nl/research/ggdc/data/pwt/pwt-9.0</td></tr><tr><td>Retrieved</td><td>1 August 2016</td></tr></table><div>\n<h3>Additional information</h3>\n<p>Expenditure-side real GDP at chained PPPs, to compare relative living standards across countries and over time. It is the ratio of the 'rgdpe' and 'pop' series.</p>\n<p>More detailed information about this dataset can be found in the source documentation at: <a href=\"http://www.rug.nl/research/ggdc/data/pwt/v90/what_is_new_in_pwt90.pdf\">http://www.rug.nl/research/ggdc/data/pwt/v90/what_is_new_in_pwt90.pdf</a></p>\n<p>&nbsp;</p>\n</div>\n<p><br><br><br></p></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Penn World Table 9.0 (Real GDP at chained PPPs in 2011US$)",
+            "unit": "US$ (PPP-adjusted; real 2011)",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1950-2011",
+            "source_id": 0
+        }
+    ]
+}
