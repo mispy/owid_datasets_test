@@ -1,0 +1,34 @@
+{
+    "sources": [
+        {
+            "name": "ILO World Employment and Social Outlook (2016)",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td> ILOSTAT  </td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>Various sources, including labour force surveys. More information in the documentation.</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://www.ilo.org/ilostat</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>30/05/2017</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>The documentation provides further information, including limitations and underlying sources: http://www.ilo.org/ilostat-files/Documents/description_ECO_EN.pdf \n</p>\n</div>",
+            "id": 0
+        },
+        {
+            "name": "World Bank WDI (2017)",
+            "description": "<table>\r\n\t<tr>\r\n\t\t<td>Data published by</td>\r\n\t\t<td> World Bank, World Development Indicators</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Data publisher's source</td>\r\n\t\t<td> World Bank national accounts files and Food and Agriculture Organization, Production Yearbook and data files.</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Link</td>\r\n\t\t<td> http://data.worldbank.org/indicator/EA.PRD.AGRI.KD</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Retrieved</td>\r\n\t\t<td>30/05/2017</td>\r\n\t</tr>\r\n</table>\r\n<div class=\"datasource-additional\">\r\n\t<p> The source notes: \"Agriculture value added per worker is a measure of agricultural productivity. Value added in agriculture measures the output of the agricultural sector (ISIC divisions 1-5) less the value of intermediate inputs. Agriculture comprises value added from forestry, hunting, and fishing as well as cultivation of crops and livestock production. Data are in constant 2010 U.S. dollars.\"\r\n</p>\r\n</div>",
+            "id": 1
+        }
+    ],
+    "variables": [
+        {
+            "name": "Agriculture, employment (number of people)",
+            "unit": "persons",
+            "description": "Number of people employed in agriculture. Employment comprises all persons of working age who during a specified brief period, such as one week or one day, were in the following categories: a) paid employment (whether at work or with a job but not at work); or b) self-employment (whether at work or with an enterprise but not at work)",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "2000-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Agriculture value added per worker",
+            "unit": "",
+            "description": "Ratio between value added in agriculture (constant 2010 US$) and number of people employed in agriculture",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1960-2015",
+            "source_id": 1
+        }
+    ]
+}
