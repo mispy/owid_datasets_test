@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Cereal Production Index- WDI",
+            "description": "</table>\n<div class=\"datasource-additional\">\n\t<p>Cereal production index was derived by OurWorldinData based on original data sourced from the World Bank's World Development Indicators (WDI).\n</p>\nThe cereal production index measures annual cereal production as an index to production in 1961, the first year of the original dataset. This index was calculated by dividing cereal production values (which are measured in metric tonnes per year) in any given year by cereal production in 1961. 1961 = 100. Values >100 indicate an increase in production vs. 1961, and values <100 indicate a decrease.\n</p>\nThe original dataset from WDI used in this calculation was \"Cereal production (metric tons)\", which is defined by the World Bank/FAO as:\n\"Production data on cereals relate to crops harvested for dry grain only. Cereal crops harvested for hay or harvested green for food, feed, or silage and those used for grazing are excluded.\"\n</p>\n<p>\nData available at: http://data.worldbank.org/data-catalog/world-development-indicators [accessed 18th July 2017]\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Cereal production index",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1961-2014",
+            "source_id": 0
+        }
+    ]
+}
