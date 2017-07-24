@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Toro et al. (2007) \u2013 Homelessness prevalence",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>Toro, P. A., Tompsett, C. J., Lombardo, S., Philippot, P., Nachtergael, H., Galand, B., ... &amp; MacKay, L. (2007). Homelessness in Europe and the United States: A comparison of prevalence and public opinion. Journal of Social Issues, 63(3), 505-524.</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>Telephone interviews.</td>\n</tr>\n<tr>\n<td>Link</td>\n<td>http://www.uclep.be/wp-content/uploads/pdf/Pub/Toro_JSI_2007.pdf</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2017-02-16</td>\n</tr>\n</tbody>\n</table>\n<div class=\"datasource-additional\">\n<p>Interviews took place at different points in time within and across countries. All interviews took place&nbsp;in the period 1999-2003.&nbsp;</p>\n<p>The source provides the following information regarding the data-collecting process:</p>\n<p><em>\"Random samples of 250&ndash;435 adults were interviewed by telephone in five different nations (N = 1,546): Belgium, Germany, Italy, the UK, and the United States. The interview included questions on respondent attitudes, knowledge, and opinions regarding homelessness; respondents&rsquo; own personal experiences with homelessness and homeless people; and demographic characteristics of the respondents.</em></p>\n<p><em>Respondents&rsquo; personal experiences with homelessness were assessed by querying whether they had ever considered themselves homeless or in another precarious housing situation, following up with items directed at ascertaining the age at which they experienced homelessness, the duration of the episode of homelessness, and whether they were literally homeless&nbsp;(slept in a shelter, in a park) or 'precariously housed' (slept at a friend&rsquo;s house because they had no other place to go).\"</em></p>\n<p><strong>We report estimates only for literal homelessness.</strong></p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Share of population with an episode of homelessness",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
