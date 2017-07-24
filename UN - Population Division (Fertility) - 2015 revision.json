@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "UN \u2013 Population Division (Fertility) \u2013 2015 revision",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><b>Description:</b>\r\n<table><span><tr><td>Data published by</td>\r\n<td>United Nations &ndash; Population Division. Published in the World Population Prospects; 2015 revision.</td>\r\n</tr><tr><td>Data publisher's source</td>\r\n<td>&ndash;</td></tr></span><tr><td>Link</td><td>http://esa.un.org/unpd/wpp/Download/Standard/Fertility/</td></tr><tr><td>Retrieved</td><td>19 May 2016</td></tr></table><div><table><tr><td><b>Additional information</b><br></td></tr><tr><td>Link</td><td>http://esa.un.org/unpd/wpp/Download/Standard/Fertility/</td></tr><tr><td>Retrieved</td><td>19 May 2016</td></tr></table>The data for a particular refers to the 5 years preceding that year. E.g. 2015 refers to 2010-2015 in the original data.<br><br></div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "UN \u2013 Population Division (Fertility) \u2013 2015 revision",
+            "unit": "Children per woman",
+            "description": "Total Fertility Rate. (The average number of children a hypothetical cohort of women would have at the end of their reproductive period if they were subject during their whole lives to the fertility rates of a given period and if they were not subject to ",
+            "code": null,
+            "coverage": "Global by country and world region (world regions are as defined by the source (the UN))",
+            "timespan": "1950 to 2015",
+            "source_id": 0
+        }
+    ]
+}
