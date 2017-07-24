@@ -1,0 +1,74 @@
+{
+    "sources": [
+        {
+            "name": "Natural disasters: incidence, deaths, economic cost- emdat",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>EMDAT: OFDA/CRED International Disaster Database, Universit\u00e9 catholique de Louvain \u2013 Brussels \u2013 Belgium</td>\n\t</tr>\n\t<tr>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://www.emdat.be/</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-07-13</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>The data presented here includes all categories classified as \"natural disasters\" (distinguished from technological disasters, such as oil spills and industrial accidents). This includes those from drought, floods, biological epidemics, extreme weather, extreme temperature, landslides, dry mass movements, extraterrestrial impacts, wildfires, volcanic activity and earthquakes. \n</p>\n<p>The combined set of \"all natural disasters\" also includes disasters defined as \"insect infestations\", however this has not been included as  a discrete dataset due to low impact numbers.\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Number of disasters",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1900-2017",
+            "source_id": 0
+        },
+        {
+            "name": "Total deaths",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1900-2017",
+            "source_id": 0
+        },
+        {
+            "name": "Injured",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1900-2017",
+            "source_id": 0
+        },
+        {
+            "name": "Affected",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1900-2017",
+            "source_id": 0
+        },
+        {
+            "name": "Homeless",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1900-2017",
+            "source_id": 0
+        },
+        {
+            "name": "Total affected",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1900-2017",
+            "source_id": 0
+        },
+        {
+            "name": "Total economic damage",
+            "unit": "thousand US$",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1900-2017",
+            "source_id": 0
+        }
+    ]
+}
