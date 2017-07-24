@@ -1,0 +1,91 @@
+Entity,Year,Household income
+France,1475,3.2
+France,1525,29.9
+France,1575,33.7
+France,1625,52.2
+France,1675,70.1
+France,1725,58.7
+France,1775,117.9
+Belgium,1475,4.7
+Belgium,1525,17.7
+Belgium,1575,48.2
+Belgium,1625,33.2
+Belgium,1675,73.6
+Belgium,1725,30.7
+Belgium,1775,44.5
+Germany,1475,4.1
+Germany,1525,21.2
+Germany,1575,43.4
+Germany,1625,54
+Germany,1675,78.7
+Germany,1725,99.7
+Germany,1775,122.4
+Ireland,1575,0.1
+Ireland,1625,3.8
+Ireland,1675,14.2
+Ireland,1725,61.7
+Ireland,1775,77.7
+Italy,1475,6.8
+Italy,1525,21.3
+Italy,1575,51
+Italy,1625,42.1
+Italy,1675,56.3
+Italy,1725,48.4
+Italy,1775,86.5
+Great Britain,1475,2
+Great Britain,1525,14.6
+Great Britain,1575,27.3
+Great Britain,1625,80
+Great Britain,1675,191.8
+Great Britain,1725,168.3
+Great Britain,1775,192
+Netherlands,1475,7.9
+Netherlands,1525,14.2
+Netherlands,1575,33.5
+Netherlands,1625,139
+Netherlands,1675,259.4
+Netherlands,1725,391.3
+Netherlands,1775,488.3
+Poland,1525,0.2
+Poland,1575,0.5
+Poland,1625,5.7
+Poland,1675,6.2
+Poland,1725,9.9
+Poland,1775,22.5
+Rest (a),1525,1.1
+Rest (a),1575,1.5
+Rest (a),1625,2
+Rest (a),1675,4.5
+Rest (a),1725,4.8
+Rest (a),1775,17.5
+Spain,1475,0.9
+Spain,1525,4.2
+Spain,1575,4.3
+Spain,1625,8.8
+Spain,1675,14.3
+Spain,1725,18.5
+Spain,1775,28.3
+Sweden,1475,0.2
+Sweden,1525,0.8
+Sweden,1575,1.1
+Sweden,1625,39.7
+Sweden,1675,58.5
+Sweden,1725,83.8
+Sweden,1775,208.9
+Russia,1675,0.1
+Russia,1725,0.8
+Russia,1775,5.8
+Switzerland,1475,9.3
+Switzerland,1525,48.1
+Switzerland,1575,78.5
+Switzerland,1625,9.3
+Switzerland,1675,14.6
+Switzerland,1725,14.2
+Switzerland,1775,32.3
+Western Europe (b),1475,3.1
+Western Europe (b),1525,17.5
+Western Europe (b),1575,29.1
+Western Europe (b),1625,40.6
+Western Europe (b),1675,66.7
+Western Europe (b),1725,66.7
+Western Europe (b),1775,122.4
