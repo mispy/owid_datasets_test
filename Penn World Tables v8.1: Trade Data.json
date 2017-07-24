@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Penn World Tables v8.1",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>Penn World Tables v8.1</th></tr><tr><td>Data provider</td><td>Penn World Tables</td></tr><tr><td>Source</td><td>Penn World Tables v8.1</td></tr><tr><td>Description</td><td>purchasing power parity and national income accounts converted to international prices<br></td></tr></span><tr><td>Link</td><td>http://www.rug.nl/research/ggdc/data/pwt/pwt-8.1</td></tr><tr><td>Retrieved</td><td>06/07/2015</td></tr></table><br><br><br></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Ratio of exports and imports to GDP (PWT v8.1)",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country (189 countries)",
+            "timespan": "1950-2010",
+            "source_id": 0
+        }
+    ]
+}
