@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "World Bank: Science and Technology",
+            "description": "<p>&nbsp;</p>\n<table>\n<tbody>\n<tr>\n<th>World Bank: World Development Indicators</th>\n</tr>\n<tr>\n<td>Data provider</td>\n<td>World Bank</td>\n</tr>\n<tr>\n<td>Original data source</td>\n<td>International Telecommunication Union, World Telecommunication/ICT Development Report and database</td>\n</tr>\n<tr>\n<td>Description</td>\n<td>I have multiplied the population in each region with the variable&nbsp;Internet users (per 100 people). Both variables are obtianed from the World Bank. The second measure is originally from the International Telecommunication Union, World Telecommunication/ICT Development Report and database, and World Bank estimates.</td>\n</tr>\n<tr>\n<td>Link</td>\n<td>http://data.worldbank.org/</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>9 Oct 2016</td>\n</tr>\n</tbody>\n</table>\n<div>&nbsp;</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Internet Users by World Region",
+            "unit": "people",
+            "description": "1990-2015",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1980-2014",
+            "source_id": 0
+        }
+    ]
+}
