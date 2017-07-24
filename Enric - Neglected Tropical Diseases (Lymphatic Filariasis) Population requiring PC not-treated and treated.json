@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "Lymphatic Filariasis data from Enric Jan\u00e9",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data obtained from</td>\n\t\t<td>Enric Jan\u00e9 </td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td></td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td></td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>e.g. 2016-02-15</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Any additional information should be placed here. Helpful information here would include</br>\n\u2013 details of any transformations made to produce the variable if it is not a direct download from the data provider.</br>\n\u2013 information when the data publisher published the original dataset.\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Reported number of people treated",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Population requiring PC for LF but NOT treated",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
