@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Guinea Worm Cases (Carter Center)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>Carter Center<br></td>\r\n\t</tr><tr><td>Data publisher's source</td>\r\n\t\t<td><br></td>\r\n\t</tr></span><tr><td>Link</td><td>http://www.cartercenter.org/resources/pdfs/news/health_publications/guinea_worm/guinea-worm-cases-by-year-from-1989.pdf</td></tr><tr><td>Retrieved</td><td>2 May 2016</td></tr></table><div>\r\n\t<h3>Additional information</h3>Up to date data is available at the Carter Center:<br><a target=\"_blank\" rel=\"nofollow\" href=\"http://www.cartercenter.org/resources/gallery/images/highres/guinea-worm-current-case-count-chart.pdf\">http://www.cartercenter.org/resources/gallery/images/highres/guinea-worm-current-case-count-chart.pdf</a><br></div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Guinea Worm Cases (Carter Center)",
+            "unit": "Individual cases",
+            "description": "Individual cases",
+            "code": null,
+            "coverage": "Global",
+            "timespan": "1989-2015",
+            "source_id": 0
+        }
+    ]
+}
