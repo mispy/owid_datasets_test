@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "World Bank WDI",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td><td>World Bank</td></tr><tr><td>Data publisher's source</td><td>Estimates Developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF, WHO, World Bank, UN DESA Population Division)&nbsp;<br></td></tr><tr><td><br></td><td><br></td></tr></span><tr><td>Link</td><td>http://data.worldbank.org/indicator/SH.DYN.MORT</td></tr></table><div>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Child mortality by income level (1960-2012)",
+            "unit": "",
+            "description": "Mortality rate, under-5 (per 1,000)",
+            "code": null,
+            "coverage": "Global by country income level",
+            "timespan": "1960-2012",
+            "source_id": 0
+        }
+    ]
+}
