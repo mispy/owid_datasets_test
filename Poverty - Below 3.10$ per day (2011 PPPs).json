@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Poverty \u2013 Below 3.10$ per day (2011 PPPs)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>World Bank &ndash; World Development Indicator<br></td>\r\n\t</tr><tr><td>Data publisher's source</td>\r\n\t\t<td>Data from the World Bank Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (<a href=\"http://iresearch.worldbank.org/PovcalNet/index.htm\" rel=\"nofollow\" target=\"_blank\">http://iresearch.worldbank.org/PovcalNet/index.htm</a>).</td>\r\n\t</tr></span><tr><td>Link</td><td>http://data.worldbank.org/indicator/SI.POV.2DAY</td></tr><tr><td>Retrieved</td><td>27 February 2016</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>The World Bank explains: \"<span>Poverty headcount ratio at $3.10 a day is the percentage of the population living on less than $3.10 a day at 2011 international prices. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions. Note: five countries -- Bangladesh, Cabo Verde, Cambodia, Jordan, and Lao PDR -- use the 2005 PPP conversion factors and corresponding $1.25 a day and $2 a day poverty lines. This is due to the large deviations in the rate of change in PPP factors relative to the rate of change in domestic consumer price indexes. See Box 1.1 in the Global Monitoring Report 2015/2016 (<a href=\"http://www.worldbank.org/en/publication/global-monitoring-report\" rel=\"nofollow\" target=\"_blank\">http://www.worldbank.org/en/publication/global-monitoring-report</a>) for a detailed explanation.\"</span></p>\r\n</div><br><br><br><br></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Poverty \u2013 Below 3.10$ per day (2011 PPPs)",
+            "unit": "%",
+            "description": "Poverty headcount ratio at $3.10 a day (2011 PPP) (% of population)",
+            "code": null,
+            "coverage": "Global by country and world region",
+            "timespan": "1981-2013",
+            "source_id": 0
+        }
+    ]
+}
