@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Child Mortality Estimates (CME Info)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data provider</td>\r\n\t\t<td>Child Mortality Estimates (CME Info)</td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>Child Mortality (per 1,000 live births)<br></td>\r\n\t</tr></span><tr><td>Link</td><td>http://childmortality.org/</td></tr><tr><td>Retrieved</td><td>29 January 2016</td></tr></table><div>\r\n\t<h3>Additional information</h3>The UN Inter-agency Group for Child Mortality Estimation (IGME). <br>The IGME, led by the United Nations Children's Fund (UNICEF) and the World Health Organization (WHO), also includes the World Bank and the United Nations Population Division of the Department of Economic and Social Affairs as full members.</div><br><br><br></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Child Mortality Estimates (CME Info)",
+            "unit": "per 1,000",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1970-2015",
+            "source_id": 0
+        }
+    ]
+}
