@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Access to electricity (% population)- World Bank",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>The World Bank</td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>Sustainable Energy for All ( SE4ALL ) database from the SE4ALL Global Tracking Framework led jointly by the World Bank, International Energy Agency, and the Energy Sector Management Assistance Program</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://data.worldbank.org/</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-05-10</td>\n\t</tr>\n</table>\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Access to electricity (% population)- World Bank",
+            "unit": "% of population",
+            "description": "Percentage of the population with access to electricity- World Bank",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1990-2014",
+            "source_id": 0
+        }
+    ]
+}
