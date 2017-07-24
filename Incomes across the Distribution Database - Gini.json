@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "Incomes across the Distribution Database \u2013 Gini",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>Incomes across the Distribution Database</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>The data source for the Incomes Across the Distribution Database is LIS microdata: Luxembourg Income Study (LIS) Database, http://www.lisdatacenter.org (multiple countries; Micro data runs for multiple countries completed in September 2015.). Luxembourg: LIS.</td>\n</tr>\n<tr>\n<td>Link</td>\n<td><a href=\"../incomes-across-the-distribution/\">https://ourworldindata.org/incomes-across-the-distribution/</a></td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2016-11-01</td>\n</tr>\n</tbody>\n</table>\n<div class=\"datasource-additional\">\n<p>&nbsp;</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Gini equivalised disposable household income entire pop",
+            "unit": "",
+            "description": "1978-2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Gini equivalised market household income entire pop",
+            "unit": "",
+            "description": "1978-2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
