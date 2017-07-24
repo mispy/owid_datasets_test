@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Fragile States Index (Human Rights Dimension)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data provider</td>\r\n\t\t<td>Fund for Peace<br></td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>Fragile States Index (Human Rights Dimension)</td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>Human Rights Dimension<br></td>\r\n\t</tr></span><tr><td>Link</td><td>http://fsi.fundforpeace.org/</td></tr><tr><td>Retrieved</td><td>23 January 2016</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>The Human Rights &amp; Rule of Law dimension. In their 2015 the authors write &ldquo;When human rights are violated or unevenly protected, the state is failing in its ultimate responsibility.<br>Includes pressures and measures related to:<br>&ndash; Press Freedom<br>&ndash; Civil Liberties<br>&ndash; Political Freedoms<br>&ndash; Human Trafficking<br>&ndash; Political Prisoners<br>&ndash; Incarceration<br>&ndash; Religious Persecution<br>&ndash; Torture<br>&ndash; Executions<br><br></p>\r\n</div><br><br><br><br><br><br><br><br><br><br><br><br></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Fund for Peace \u2013 Fragile States Index (Human Rights Dimension)",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "2006 to 2014",
+            "source_id": 0
+        }
+    ]
+}
