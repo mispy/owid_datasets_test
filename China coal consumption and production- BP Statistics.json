@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "China coal consumption and production- BP Statistics",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>BP Statistical Review of World Energy 2016 </td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>Government sources and publicly-available data</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-06-02</td>\n\t</tr>\n</table>\n\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Coal consumption",
+            "unit": "million tonnes oil equivalent",
+            "description": "",
+            "code": null,
+            "coverage": "China",
+            "timespan": "1965-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Coal production",
+            "unit": "million tonnes oil equivalent",
+            "description": "",
+            "code": null,
+            "coverage": "China",
+            "timespan": "1981-2015",
+            "source_id": 0
+        }
+    ]
+}
