@@ -1,0 +1,34 @@
+{
+    "sources": [
+        {
+            "name": "Oil&Gas Employment - US Bureau of Labor Statistics",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>United States Bureau of Labor Statistics (BLS)</td>\n\t</tr>\n\t<tr>\n\t\t\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>https://data.bls.gov/timeseries/CES1021100001?data_tool=XGtable</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-07-11</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Dataset from BLS includes all employees working in oil & gas extraction in the United States.\n</p>\n</div>",
+            "id": 0
+        },
+        {
+            "name": "Oil & Gas Rig Count- Baker Hughes",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>Baker Hughes- General Electric (GE) company </td>\n\t</tr>\n\t\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://phx.corporate-ir.net/phoenix.zhtml?c=79687&p=irol-rigcountsintl</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-07-11</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Baker Hughes publish historical and current statistics on international and regional count on oil & gas rigs. Here we have included only statistics on oil & gas rigs in the United States.\n</p>\n</div>",
+            "id": 1
+        }
+    ],
+    "variables": [
+        {
+            "name": "Oil & Gas Employees",
+            "unit": "thousands",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1975-2017",
+            "source_id": 0
+        },
+        {
+            "name": "Rig Count",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1975-2017",
+            "source_id": 1
+        }
+    ]
+}
