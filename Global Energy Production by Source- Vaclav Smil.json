@@ -1,0 +1,83 @@
+{
+    "sources": [
+        {
+            "name": "Global Energy Production by Source- Vaclav Smil",
+            "description": "<div class=\"datasource-additional\">\n\t<p>This data has been sourced from Appendix A of Vaclav Smil's Updated and Revised Edition of his book, 'Energy Transitions: Global and National Perspectives' (2017).\n</p>\n<p> This book can be found on Smil's website at: http://vaclavsmil.com/2016/12/14/energy-transitions-global-and-national-perspectives-second-expanded-and-updated-edition/\n</p>\n<p> Energy data is reported in exajoules (EJ), rounded to the nearest 0.01EJ. For reference, this is approximately 240,000 tonnes of oil equivalent.\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Coal",
+            "unit": "exajoules",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1800-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Crude oil",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Natural gas",
+            "unit": "exajoules",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1800-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Hydroelectricity",
+            "unit": "exajoules",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1800-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Nuclear electricity",
+            "unit": "exajoules",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1800-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Wind and solar",
+            "unit": "exajoules",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1800-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Modern biofuels",
+            "unit": "exajoules",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1800-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Traditional biofuels",
+            "unit": "exajoules",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1800-2015",
+            "source_id": 0
+        }
+    ]
+}
