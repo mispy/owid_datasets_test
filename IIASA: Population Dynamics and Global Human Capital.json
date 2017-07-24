@@ -1,0 +1,97 @@
+{
+    "sources": [
+        {
+            "name": "International Institute for Applied Systems Analysis (IIASA): World Population and Human Capital in the Twenty-First Century",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>International Institute for Applied Systems Analysis</th></tr><tr><td>Data provider</td><td>IIASA</td></tr><tr><td>Source</td><td>Wolfgang Lutz, William P. Butz, and Samir KC<br></td></tr><tr><td>Description</td><td>World population and human capital in the 21st century</td></tr></span><tr><td>Link</td><td>http://www.oeaw.ac.at/vid/dataexplorer/</td></tr><tr><td>Retrieved</td><td>10/08/2015</td></tr></table><div><h3>Additional information</h3><p>Citation:&nbsp;Lutz, Wolfgang, William P. Butz, and Samir. <i>World population and human capital in the twenty-first century</i>. Oxford: Oxford University Press, 2014.</p></div>\r\n\r\n\r\nThe data on past and projected rates of educational attainment comes from the International Institute for Applied Systems Analysis (IIASA) and can be found here. These projections are constructed using current Global Economic Trends (GET). There are other scenarios available, including a best and worst case.</body></html>\n",
+            "id": 0
+        },
+        {
+            "name": "International Institute for Applied Systems Analysis (IIASA): World Population and Human Capital in the Twenty-First Century (Population)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><div><div><table><span><tr><th>International Institute for Applied Systems Analysis</th></tr><tr><td>Data provider</td><td>IIASA</td></tr><tr><td>Source</td><td>Wolfgang Lutz, William P. Butz, and Samir KC<br></td></tr><tr><td>Description</td><td>World population and human capital in the 21st century</td></tr></span><tr><td>Link</td><td>http://www.oeaw.ac.at/vid/dataexplorer/</td></tr><tr><td>Retrieved</td><td>10/08/2015</td></tr></table><div><h3>Additional information</h3><p>Citation:&nbsp;Lutz, Wolfgang, William P. Butz, and Samir.&nbsp;<i>World population and human capital in the twenty-first century</i>. Oxford: Oxford University Press, 2014.</p></div></div></div><div><h3>Link</h3><div><a target=\"_blank\" rel=\"nofollow\" href=\"http://www.oeaw.ac.at/vid/dataexplorer/\">http://www.oeaw.ac.at/vid/dataexplorer/</a></div></div><div>\r\n</div></body></html>\n",
+            "id": 1
+        }
+    ],
+    "variables": [
+        {
+            "name": "IIASA rates of no education projections",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1970-2100",
+            "source_id": 0
+        },
+        {
+            "name": "Total number of people aged 15+ with no education (millions) - IIASA",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1970-2100",
+            "source_id": 0
+        },
+        {
+            "name": "No education, 1970-2050",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1970-2100",
+            "source_id": 0
+        },
+        {
+            "name": "Primary education, 1970-2050",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1970-2100",
+            "source_id": 0
+        },
+        {
+            "name": "Secondary education, 1970-2050",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1970-2100",
+            "source_id": 0
+        },
+        {
+            "name": "Tertiary education, 1970-2050",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1970-2100",
+            "source_id": 0
+        },
+        {
+            "name": "Aged 0-14, 1970-2050",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1970-2100",
+            "source_id": 0
+        },
+        {
+            "name": "Tertiary education for those aged 15+ (proportion), 1970-2050",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1970-2100",
+            "source_id": 0
+        },
+        {
+            "name": "Total population estimates, 1970-2100",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1970-2100",
+            "source_id": 1
+        }
+    ]
+}
