@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "Prevalence of vitamin-A deficiency in pregnant women- WHO",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>WHO. Global prevalence of vitamin A deficiency in populations at risk 1995\u20132005. WHO Global Database\non Vitamin A Deficiency. Geneva, World Health Organization, 2009.</td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>National and household survey data extending 1995-2005.</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://apps.who.int/iris/bitstream/10665/44110/1/9789241598019_eng.pdf</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-07-23</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Data on vitamin-A deficiency is based on the reported prevalence of risk by the World Health Organization, which has collated national and household level survey data on indicators extending the period 1995-2005. Note that data on vitamin-A deficiency is typically not measured on an annual basis, therefore the year of measurement will vary by country, but lie within the period 1995-2005.\n<p>All countries with a 2005 gross domestic product (GDP)\n\u2265US$ 15 000 were assumed to be free from VAD of a public\nhealth significance and were therefore excluded. None\nof these 37 countries had retinol or night blindness data\nreported for either preschool-age children or pregnant\nwomen.\n<p>\nTwo sets of indicators of VAD are commonly used for\npopulation surveys: clinically assessed eye signs and biochemically determined concentrations of retinol in plasma or serum. The incidence of night blindness in individuals indicates moderate-to-severe systemic\nVAD. VAD can also be identified when serum retinol concentrations fall below below a cut-off value of\n0.70 \u00b5mol/l. \n<p>\nVitamin A deficiency (VAD) is a major nutritional concern\nin poor societies, especially in lower income countries. Its\npresence as a public health problem is assessed by measuring\nthe prevalence of deficiency in a population, represented by\nspecific biochemical and clinical indicators of status. The\nmain underlying cause of VAD as a public health problem\nis a diet that is chronically insufficient in vitamin A that can\nlead to lower body stores and fail to meet physiologic needs\n(e.g. support tissue growth, normal metabolism, resistance\nto infection). Deficiency of sufficient duration or severity\ncan lead to disorders that are common in vitamin A deficient\npopulations such as xerophthalmia (xeros = dryness;\n-ophthalmia = pertaining to the eye), the leading cause of\npreventable childhood blindness, anaemia, and weakened\nhost resistance to infection, which can increase the severity\nof infectious diseases and risk of death.\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Prevalence of vitamin-A deficiency",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "2005",
+            "source_id": 0
+        },
+        {
+            "name": "Prevalence of night blindness",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "2005",
+            "source_id": 0
+        }
+    ]
+}
