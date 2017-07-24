@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Per capita energy use- World Bank",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>The World Bank </td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>Data derived from the International Energy Agency (IEA)</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://data.worldbank.org/</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-04-25</td>\n\t</tr>\n</table>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Per capita energy use- World Bank",
+            "unit": "kg oil equivalent",
+            "description": "Per capita energy use by country- World Bank",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1960-2014",
+            "source_id": 0
+        }
+    ]
+}
