@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "United Nations Population Division (Rev 2015) \u2013 Population Growth",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data provider</td>\r\n\t\t<td>United Nations Population Division<br></td>\r\n\t</tr><tr><td><br></td>\r\n\t\t<td><br></td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>Population Growth in % (average over 5 year interval ending with the given year). Values post 2015 are the UN projections from the Mid-Variant<br></td>\r\n\t</tr></span><tr><td>Link</td><td>http://www.un.org/en/development/desa/population/publications/dataset/index.shtml</td></tr><tr><td>Retrieved</td><td>4 Feb </td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>Years refer to the average over the preceding 5 year interval (1955 refers to the period 1950 to 1955 etc.)<br></p>\r\n</div><br></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "United Nations Population Division (Rev 2015) \u2013 Population Growth",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country and region",
+            "timespan": "1950-2100",
+            "source_id": 0
+        }
+    ]
+}
