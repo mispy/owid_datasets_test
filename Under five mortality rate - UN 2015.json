@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "UN World Population Prospects (2015)",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>United Nations, Department of Economic and Social Affairs, Population Division (2015). World Population Prospects: The 2015 Revision, custom data acquired via website.</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>Various, including censuses, vital registrations and maternity histories. Full source information can be found here: https://esa.un.org/unpd/wpp/DataSources/</td>\n</tr>\n<tr>\n<td>Link</td>\n<td>https://esa.un.org/unpd/wpp/DataQuery/</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2017-02-10</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Additional information:</strong></p>\n<p>&ndash; The original data is presented in deaths per 1,000 live births. Here it is changed to&nbsp;percentages by dividing the original estimates by 100.</p>\n<p>&ndash; Importantly data refer to 5 year intervals preceding the indicated year. E.g. 1955 refers to 1950-1955 in the original dataset.</p>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Under five mortality rate - UN 2015",
+            "unit": "%",
+            "description": "1950-2015",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
