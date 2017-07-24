@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Daily caloric supply- FAOstat",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>United Nations Food and Agricultural Organization (FAO)</td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>Household survey and census data</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://www.fao.org/faostat/en/#data/FBS</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-07-18</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Daily caloric supply is defined as the average per capita caloric availability. Note that this indicates the caloric availability delivered to households but does not necessarily indicate the number of calories actually consumed (food may be wasted at the consumer level).\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Daily caloric supply",
+            "unit": "kcal/person/day",
+            "description": "",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1961-2013",
+            "source_id": 0
+        }
+    ]
+}
