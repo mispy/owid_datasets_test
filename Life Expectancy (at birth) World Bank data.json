@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "World Bank \u2013 World Development Indicators (Life Expectancy at birth)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th><br></th></tr><tr><td>Data provider</td>\r\n\t\t<td>World Bank<br></td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td><br></td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>Life expectancy at birth, total (years)</td>\r\n\t</tr></span><tr><td>Link</td><td>http://data.worldbank.org/indicator/SP.DYN.LE00.IN</td></tr><tr><td>Retrieved</td><td>20 December 2015</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>Life expectancy at birth indicates the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life.</p><p>The source notes that male and female life expectancy at birth is from sources such as: (1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Report (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database.<br></p>\r\n</div><br><br><br><br></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Life Expectancy (at birth) World Bank data",
+            "unit": "years",
+            "description": "",
+            "code": null,
+            "coverage": "Global, by country",
+            "timespan": "1960-2013",
+            "source_id": 0
+        }
+    ]
+}
