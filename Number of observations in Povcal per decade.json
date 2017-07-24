@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Number of survey observations in Povcal per decade",
+            "description": "<p>\u00a0</p>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td><span class=\"datasource-property\"><span class=\"datasource-property\">Data published by</span></span></td>\r\n<td>Our World in Data team's own calculation based on Povcal by the World Bank</td>\r\n</tr>\r\n<tr>\r\n<td><span class=\"datasource-property\">Calculated</span></td>\r\n<td>09 February 2017</td>\r\n</tr>\r\n</tbody>\r\n<tbody>\r\n<tr>\r\n<td>Link</td>\r\n<td><a href=\"http://iresearch.worldbank.org/PovcalNet/\">http://iresearch.worldbank.org/PovcalNet/</a></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<div class=\"datasource-additional\">\r\n<p>This\u00a0is the number of available survey data on poverty measures in Povcal by decade. 2014 refers to the available surveys in the period 2005-2014; 2004 refers to 1995-2004; 1994 refers to 1985-1994.</p>\r\n<p>The\u00a0idea for this measure is inspired by Serajuddin, Uematsu, Wieser, Yoshida, and Dabalen (2015) \u2013 \u2018Data deprivation: another deprivation to end\u2019, World Bank Policy Research Working Paper no. WPS 7252</p>\r\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Observations in PovcalNet per decade",
+            "unit": "survey observations per decade",
+            "description": "Number of available survey data on poverty measures in PovcalNet by decade.",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
