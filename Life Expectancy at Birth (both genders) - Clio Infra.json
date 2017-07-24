@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Clio Infra (life expectancy, both genders)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><p>The data are from Clio Infra and the author of the data set is Richard Zijdeman.</p></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Life Expectancy at Birth (both genders)",
+            "unit": "years",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
