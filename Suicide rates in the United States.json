@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Suicide rates in the United States- AFSP",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>American Foundation for Suicide Prevention (AFSP)</td>\n\t</tr>\n\t\t<tr>\n\t\t<td>Link</td>\n\t\t<td>https://afsp.org/about-suicide/suicide-statistics/</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-07-12</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Data presented here are representative of the average across US states.\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Suicide Rate",
+            "unit": "per 100,000 individuals",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "2006-2015",
+            "source_id": 0
+        }
+    ]
+}
