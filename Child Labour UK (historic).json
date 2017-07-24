@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "Cunningham, H. and Viazzo, P.P. (1996)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data provider</td>\r\n\t\t<td>Cunningham, H. and Viazzo, P.P. (1996), Child labor in historical perspective, 1800-1985: case studies from Europe, Japan and Colombia, Unicef, Firenze.</td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>Census of England and Wales</td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>Incidence of Child Labour in the United Kingdom<br></td>\r\n\t</tr><tr><td></td><td><br></td></tr></span><tr><td>Link</td><td>http://www.unicef-irc.org/publications/pdf/hisper_childlabour_low.pdf</td></tr></table><div>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Child Labour UK (boys, historic)",
+            "unit": "% of boys ages 10-14",
+            "description": "",
+            "code": null,
+            "coverage": "United Kingdom",
+            "timespan": "1851-1911",
+            "source_id": 0
+        },
+        {
+            "name": "Child Labour UK (girls, historic)",
+            "unit": "% of girls ages 10-14",
+            "description": "",
+            "code": null,
+            "coverage": "United Kingdom",
+            "timespan": "1851-1911",
+            "source_id": 0
+        }
+    ]
+}
