@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "Global education (OECD + IIASA)",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>Our World in Data based on IIASA and OECD</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>Calculated</td>\n<td>2016-12-14</td>\n</tr>\n</tbody>\n</table>\n<div class=\"datasource-additional\">\n<p class=\"p1\">&nbsp;</p>\n<p class=\"p1\">The series shows the share of the global population (older than 15) with&nbsp;at least basic education</p>\n<p class=\"p2\">&nbsp;</p>\n<p class=\"p1\">The data for 1820 to 1960 is taken from the OECD (2014). The series measures the percentage of population aged over 15 enrolled in formal education.</p>\n<p class=\"p1\">The estimate for 1820 is labelled a &rsquo;Best Guess' in the OECD publication and should be considered as such.</p>\n<p class=\"p2\">&nbsp;</p>\n<p class=\"p1\">The data for 1970 and later is taken from the Wittgenstein Centre for Demography and Global Human Capital (2015).&nbsp;</p>\n<p class=\"p1\">It shows the share of the population (older than 15 years) that has attained at least some basic education.</p>\n<p class=\"p2\">&nbsp;</p>\n<p class=\"p2\">&nbsp;</p>\n<p class=\"p1\">OECD (2014) &ndash; How Was Life? - Global Well-being since 1820</p>\n<p class=\"p1\">Published on October 02, 2014</p>\n<p class=\"p3\"><a href=\"http://www.oecd.org/statistics/how-was-life-9789264214262-en.htm\">http://www.oecd.org/statistics/how-was-life-9789264214262-en.htm</a></p>\n<p class=\"p2\">&nbsp;</p>\n<p class=\"p1\">The Wittgenstein Centre data was obtained through the &lsquo;Wittgenstein Centre Data Explorer Version 1.2.&rsquo; The data for 2015 is a projection (Medium projection).</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Share that has at least some formal basic education",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Share without any formal education",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
