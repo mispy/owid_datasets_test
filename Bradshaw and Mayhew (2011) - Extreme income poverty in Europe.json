@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "Bradshaw and Mayhew (2011) - Extreme income poverty in Europe",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>Bradshaw, J., &amp; Mayhew, E. (2011). The measurement of extreme poverty in the European Union.</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>EU SILC 2008</td>\n</tr>\n<tr>\n<td>Link</td>\n<td>http://ec.europa.eu/social/BlobServlet?docId=6462&amp;langId=en</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2017-02-16</td>\n</tr>\n</tbody>\n</table>\n<div class=\"datasource-additional\">\n<p>Estimates correspond to&nbsp;individuals living in households with per capita disposable income below the corresponding poverty line.</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "$1 Poverty rate",
+            "unit": "%",
+            "description": "2008",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "$2.15 Poverty Rate",
+            "unit": "%",
+            "description": "2008",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
