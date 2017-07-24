@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "The Conference Board Total Economy Database (2016) Labour Productivity",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><b>Description:</b>\r\n<table><span><tr><td>Data published by</td>\r\n<td>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p>The Conference Board Total Economy Database (2016)</p></td></tr><tr><td>Data publisher's source</td>\r\n<td>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p>In detail described by the publisher at&nbsp;<a target=\"_blank\" rel=\"nofollow\" href=\"https://www.conference-board.org/data/economydatabase/\">https://www.conference-board.org/data/economydatabase/</a></p></td></tr></span><tr><td>Link</td><td>https://www.conference-board.org/data/economydatabase/</td></tr><tr><td>Retrieved</td><td>May 27, 2016</td></tr></table><div><p><b>Additional information</b><br></p><p><br></p></div>\r\n\r\nShown is the data series \"LP-Hour EKS\" from the original source. As the alternative series \"LP-Hour GK\" this series is series is expressed in PPP adjusted currency. The PPP adjustment is based on the 2011 PPPs and updated to 2015 prices.\t\t\t\t\t\t\t\t\t\t\t</body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Select your dataset",
+            "unit": "",
+            "description": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nLabor productivity per hour worked in 2015 US$ (converted to 2015 price level with updated 2011 PPPs)",
+            "code": null,
+            "coverage": "70 economies",
+            "timespan": "1950 to 2016 (the database is\u00a0regularly updated)",
+            "source_id": 0
+        }
+    ]
+}
