@@ -1,0 +1,146 @@
+{
+    "sources": [
+        {
+            "name": "USA Consumer Price Index Goods and Services- Bureau of Labor Statistics",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>United States Bureau of Labor Statistics (BLS)</td>\n\t</tr>\n\t\t<tr>\n\t\t<td>Link</td>\n\t\t<td>https://beta.bls.gov/dataQuery/search</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-07-11</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>The Bureau of Labor Statistics report on the monthly Consumer Price Index (CPI) of individual goods and services for urban consumers at a national, city and state level. \n</p>\n<p>Data used in this sequence are based on the USA national average of urban consumers, relative to December 1997 (which has been given the value of zero). CPI is presented on an annual basis, which we have derived as the average of the monthly CPIs in a given year.\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Household furnishings",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1997-2017",
+            "source_id": 0
+        },
+        {
+            "name": "Household energy",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1997-2017",
+            "source_id": 0
+        },
+        {
+            "name": "Childcare",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1997-2017",
+            "source_id": 0
+        },
+        {
+            "name": "College tuition fees",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1997-2017",
+            "source_id": 0
+        },
+        {
+            "name": "Education",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1997-2017",
+            "source_id": 0
+        },
+        {
+            "name": "Toys",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1997-2017",
+            "source_id": 0
+        },
+        {
+            "name": "Food & Beverages",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1997-2017",
+            "source_id": 0
+        },
+        {
+            "name": "Housing",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1997-2017",
+            "source_id": 0
+        },
+        {
+            "name": "Medical care",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1997-2017",
+            "source_id": 0
+        },
+        {
+            "name": "New cars",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1997-2017",
+            "source_id": 0
+        },
+        {
+            "name": "Clothing",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1997-2017",
+            "source_id": 0
+        },
+        {
+            "name": "TVs",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1997-2017",
+            "source_id": 0
+        },
+        {
+            "name": "Software",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1997-2017",
+            "source_id": 0
+        },
+        {
+            "name": "All items",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1997-2017",
+            "source_id": 0
+        },
+        {
+            "name": "Public transportation",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1997-2017",
+            "source_id": 0
+        }
+    ]
+}
