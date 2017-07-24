@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "OECD - Gallup",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><tbody><tr><td><span class=\"datasource-property\"><span class=\"datasource-property\">Data published by</span></span></td>\r\n<td>OECD How's Life? 2015\r\n<h1 style=\"margin: 0px; padding: 3px 0px 5px; font-size: 18px; color: #505050; font-family: arial, sans-serif;\">&nbsp;</h1>\r\n</td>\r\n</tr><tr><td><span class=\"datasource-property\">Data publisher's source</span></td>\r\n<td>\r\n<p style=\"margin: 0px; font-size: 12px; line-height: normal; font-family: 'Lucida Grande';\">Gallup World Pol</p>\r\n</td>\r\n</tr></tbody><tr><td>Link</td><td>http://www.oecd-ilibrary.org/</td></tr><tr><td>Retrieved</td><td>e.g. 09/08/2016</td></tr></table><div class=\"datasource-additional\">\r\nNOTE: The source reports that the OECD average is based on 28 countries, as it excludes countries with more than two consecutive time-points missing in the series (i.e. Iceland, Luxembourg, Norway, the Slovak Republic, Slovenia and Switzerland). Among countries where a single time point is missing in the time series, the average of the two adjacent years is taken. The OECD 28 average is population-weighted.\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "OECD average trust in governments",
+            "unit": "%",
+            "description": "2006-2014",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
