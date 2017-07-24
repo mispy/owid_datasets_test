@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Proportion of seats held by women in national parliaments (%)- World Bank",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>World Bank- World Development Indicators (WDI) </td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>Inter-Parliamentary Union ( IPU )</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://data.worldbank.org/indicator/SG.GEN.PARL.ZS?view=chart</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-06-14</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>\nThe 'proportion of seats held by women in national parliaments' is defined as the parliamentary seats in a single or lower chamber held by women \n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Proportion of seats held by women in national parliaments",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1990-2016",
+            "source_id": 0
+        }
+    ]
+}
