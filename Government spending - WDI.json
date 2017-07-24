@@ -1,0 +1,38 @@
+{
+    "sources": [
+        {
+            "name": "Government spending \u2013 WDI",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>World Bank, World Development Indicators</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.</td>\n</tr>\n<tr>\n<td>Link</td>\n<td>http://data.worldbank.org/</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2016-10-19</td>\n</tr>\n</tbody>\n</table>\n<div class=\"datasource-additional\">\n<p>The source notes: \"For most countries central government finance data have been consolidated into one account, but for others only budgetary central government accounts are available. Countries reporting budgetary data are noted in the country metadata. Because budgetary accounts may not include all central government units (such as social security funds), they usually provide an incomplete picture. In federal states the central government accounts provide an incomplete view of total public finance. Data on government revenue and expense are collected by the IMF through questionnaires to member countries and by the Organisation for Economic Co-operation and Development (OECD). Despite IMF efforts to standardize data collection, statistics are often incomplete, untimely, and not comparable across countries.\"</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Government spending (%GDP)",
+            "unit": "% GDP",
+            "description": "1972-2015",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Government spending - employee compensation",
+            "unit": "% of government spending",
+            "description": "1972-2014",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Government spending on interests",
+            "unit": "% of government spending",
+            "description": "1972-2014",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
