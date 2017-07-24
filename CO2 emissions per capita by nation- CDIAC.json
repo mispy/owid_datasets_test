@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "CO2 emissions per capita by nation- CDIAC",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>Carbon Dioxide Information Analysis Center </td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>Tom Boden and Bob Andres (Oak Ridge National Laboratory); Gregg Marland (Appalachian State University)</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://cdiac.ornl.gov/CO2_Emission/</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-04-24</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Data based on per capita carbon emissions converted to per capita carbon dioxide emissions using a conversion factor of 3.67.\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "CO2 emissions per capita by nation- CDIAC",
+            "unit": "tonnes per year",
+            "description": "CO2 emissions per capita per year- CDIAC",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1950-2014",
+            "source_id": 0
+        }
+    ]
+}
