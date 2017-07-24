@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "International Historical Statistics (Brian Mitchell)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>International Historical Statistics</th></tr><tr><td>Data provider</td><td>International Historical Statistics</td></tr><tr><td>Source</td><td>Brian Mitchell</td></tr><tr><td>Description</td><td>National accounts and trade (GDP, imports and exports)</td></tr></span><tr><td>Link</td><td>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nhttp://www.palgraveconnect.com/pc/doifinder/10.1057/9781137305688</td></tr><tr><td>Retrieved</td><td>07/07/2015</td></tr></table><div><h3>Additional information</h3><p>The ratio is computed as the sum of imports and exports divided by GDP.</p></div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Historical European trade",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1815-1949",
+            "source_id": 0
+        }
+    ]
+}
