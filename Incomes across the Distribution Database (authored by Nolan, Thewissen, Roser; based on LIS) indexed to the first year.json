@@ -1,0 +1,101 @@
+{
+    "sources": [
+        {
+            "name": "Incomes across the Distribution Database (authored by Nolan, Thewissen, Roser; based on LIS) indexed to the first year",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><b>Description:</b>\r\n<table><span><tr><td>Data published by</td>\r\n<td>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p>Incomes across the Distribution Database</p></td></tr><tr><td>Data publisher's source</td>\r\n<td>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p>Based on microdata from the Luxembourg Income Study Database</p></td></tr></span><tr><td>Link</td><td>The entire database was published by Brian Nolan, Stefan Thewissen here\u00a0https://ourworldindata.org/incomes-across-the-distribution/</td></tr><tr><td>Retrieved</td><td>May 26, 2016</td></tr></table><div><p><b>Additional information</b><br></p><p>The decile cut-offs &nbsp;are calculated on the basis of disposable household income. The measure of disposable household income employed in the Luxembourg Income Study is paid employment and self-employment income, capital income, transfer income, which includes social security transfers (work-related insurance transfers, universal benefits, and assistance benefits) and private transfers, minus income taxes and social security contributions. This follows the definitions of the Canberra Group.</p></div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "1st",
+            "unit": "",
+            "description": "Household disposable income by income decile for the entire population. Indexed to the first year for which data is available for each country.",
+            "code": null,
+            "coverage": "27 rich countries (most OECD countries)",
+            "timespan": "Data coverage differs by country \u2013 for some countries data goes back to 1978 while coverage is shorter for some other countries. Data is currently available until 2013.",
+            "source_id": 0
+        },
+        {
+            "name": "2nd",
+            "unit": "",
+            "description": "Household disposable income by income decile for the entire population. Indexed to the first year for which data is available for each country.",
+            "code": null,
+            "coverage": "27 rich countries (most OECD countries)",
+            "timespan": "Data coverage differs by country \u2013 for some countries data goes back to 1978 while coverage is shorter for some other countries. Data is currently available until 2013.",
+            "source_id": 0
+        },
+        {
+            "name": "3rd",
+            "unit": "",
+            "description": "Household disposable income by income decile for the entire population. Indexed to the first year for which data is available for each country.",
+            "code": null,
+            "coverage": "27 rich countries (most OECD countries)",
+            "timespan": "Data coverage differs by country \u2013 for some countries data goes back to 1978 while coverage is shorter for some other countries. Data is currently available until 2013.",
+            "source_id": 0
+        },
+        {
+            "name": "4th",
+            "unit": "",
+            "description": "Household disposable income by income decile for the entire population. Indexed to the first year for which data is available for each country.",
+            "code": null,
+            "coverage": "27 rich countries (most OECD countries)",
+            "timespan": "Data coverage differs by country \u2013 for some countries data goes back to 1978 while coverage is shorter for some other countries. Data is currently available until 2013.",
+            "source_id": 0
+        },
+        {
+            "name": "5th",
+            "unit": "",
+            "description": "Household disposable income by income decile for the entire population. Indexed to the first year for which data is available for each country.",
+            "code": null,
+            "coverage": "27 rich countries (most OECD countries)",
+            "timespan": "Data coverage differs by country \u2013 for some countries data goes back to 1978 while coverage is shorter for some other countries. Data is currently available until 2013.",
+            "source_id": 0
+        },
+        {
+            "name": "6th",
+            "unit": "",
+            "description": "Household disposable income by income decile for the entire population. Indexed to the first year for which data is available for each country.",
+            "code": null,
+            "coverage": "27 rich countries (most OECD countries)",
+            "timespan": "Data coverage differs by country \u2013 for some countries data goes back to 1978 while coverage is shorter for some other countries. Data is currently available until 2013.",
+            "source_id": 0
+        },
+        {
+            "name": "7th",
+            "unit": "",
+            "description": "Household disposable income by income decile for the entire population. Indexed to the first year for which data is available for each country.",
+            "code": null,
+            "coverage": "27 rich countries (most OECD countries)",
+            "timespan": "Data coverage differs by country \u2013 for some countries data goes back to 1978 while coverage is shorter for some other countries. Data is currently available until 2013.",
+            "source_id": 0
+        },
+        {
+            "name": "8th",
+            "unit": "",
+            "description": "Household disposable income by income decile for the entire population. Indexed to the first year for which data is available for each country.",
+            "code": null,
+            "coverage": "27 rich countries (most OECD countries)",
+            "timespan": "Data coverage differs by country \u2013 for some countries data goes back to 1978 while coverage is shorter for some other countries. Data is currently available until 2013.",
+            "source_id": 0
+        },
+        {
+            "name": "9th",
+            "unit": "",
+            "description": "Household disposable income by income decile for the entire population. Indexed to the first year for which data is available for each country.",
+            "code": null,
+            "coverage": "27 rich countries (most OECD countries)",
+            "timespan": "Data coverage differs by country \u2013 for some countries data goes back to 1978 while coverage is shorter for some other countries. Data is currently available until 2013.",
+            "source_id": 0
+        },
+        {
+            "name": "mean",
+            "unit": "",
+            "description": "Household disposable income by income decile for the entire population. Indexed to the first year for which data is available for each country.",
+            "code": null,
+            "coverage": "27 rich countries (most OECD countries)",
+            "timespan": "Data coverage differs by country \u2013 for some countries data goes back to 1978 while coverage is shorter for some other countries. Data is currently available until 2013.",
+            "source_id": 0
+        }
+    ]
+}
