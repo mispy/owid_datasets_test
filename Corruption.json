@@ -1,0 +1,202 @@
+{
+    "sources": [
+        {
+            "name": "Transparency International - CPI",
+            "description": "<table>\r\n<tbody>\r\n<tr>\r\n<td>Data published by</td>\r\n<td>Transparency\u00a0International</td>\r\n</tr>\r\n<tr>\r\n<td>Data publisher's source</td>\r\n<td>Various expert surveys including (as available for each country):\u00a0\r\n<p class=\"p1\">African Development Bank Governance Ratings, Bertelsmann Foundation Sustainable Governance Indicators, Bertelsmann Foundation Transformation Index, Economist Intelligence Unit Country Risk Ratings, Freedom House Nations in Transit, Global Insight Country Risk Ratings, IMD World Competitiveness Yearbook, Political and Economic Risk Consultancy Asian Intelligence, Political Risk Services International Country Risk Guide, World Bank - Country Policy and Institutional Assessment, World Economic Forum Executive Opinion Survey, World Justice Project Rule of Law Index \u00a0</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>Link</td>\r\n<td>http://www.transparency.org/cpi2015</td>\r\n</tr>\r\n<tr>\r\n<td>Retrieved</td>\r\n<td>2016-10-10</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+            "id": 0
+        },
+        {
+            "name": "Transparency International - GCB 2013",
+            "description": "<table>\r\n<tbody>\r\n<tr>\r\n<td>Data published by</td>\r\n<td>Transparency International - Global Corruption Barometer</td>\r\n</tr>\r\n<tr>\r\n<td>Data publisher's source</td>\r\n<td>Population surveys</td>\r\n</tr>\r\n<tr>\r\n<td>Link</td>\r\n<td>http://www.transparency.org/gcb2013/</td>\r\n</tr>\r\n<tr>\r\n<td>Retrieved</td>\r\n<td>2016-10-11</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+            "id": 1
+        },
+        {
+            "name": "Transparency International \u2013 BPI",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>Transparency International &ndash; Bribe Payers Index &nbsp;</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>Surveys among business executives</td>\n</tr>\n<tr>\n<td>Link</td>\n<td>http://www.transparency.org/research/bpi/overview</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2016-10-11</td>\n</tr>\n</tbody>\n</table>\n<div class=\"datasource-additional\">\n<p>&nbsp;</p>\n<p class=\"p1\">Data for the Bribe Payers Index is drawn from the Bribe Payers Survey. The survey asked business executives: \"In your principal lines of business in this country, do you have business relationships (for example as a supplier, client, partner or competitor) with companies whose headquarters are located in any of the following countries?\".</p>\n<p class=\"p1\">&nbsp;</p>\n<p class=\"p1\">Respondents were presented a list of 28 countries. For each instance where the respondent answered that they do have business relationships with companies headquartered in a country, the respondents were then asked: \"How often do firms headquartered in (country name) engage in bribery in this country?\"</p>\n<p class=\"p1\">&nbsp;</p>\n<p class=\"p1\">Answers were given on a 5-point scale where 1 corresponded to &lsquo;never&rsquo; and 5 to &lsquo;always&rsquo;. This was then converted into a 10-point scale system, where 10 corresponds to &lsquo;never&rsquo; and 0 to &lsquo;always&rsquo;. Since the index reflects views on foreign bribery, assessments of companies from the respondents&rsquo; own countries were excluded.</p>\n</div>",
+            "id": 2
+        },
+        {
+            "name": "World Bank \u2013 Enterprise Survey",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>World Bank &ndash; Enterprise Survey</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>\n<p class=\"p1\">&nbsp;Firm-level surveys of a representative sample of an economy's private sector</p>\n</td>\n</tr>\n<tr>\n<td>Link</td>\n<td>http://www.enterprisesurveys.org/data/exploretopics/corruption#--1</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2016-10-11</td>\n</tr>\n</tbody>\n</table>\n<div class=\"datasource-additional\">\n<p>The source notes: \"most surveys were administered using the Enterprise Surveys Global Methodology as outlined in the Methodology page, while some others did not strictly adhere to the Enterprise Surveys Global Methodology. For example, for surveys which do not follow the Global Methodology, the Universe under consideration may have consisted of only manufacturing firms or the questionnaire used may have been different from the standard global questionnaire.\"</p>\n</div>",
+            "id": 3
+        },
+        {
+            "name": "Fisman and Miguel (2007)",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>Fisman, R., &amp; Miguel, E. (2007). Corruption, norms, and legal enforcement: Evidence from diplomatic parking tickets. Journal of Political economy, 115(6), 1020-1048.</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>Official records&nbsp;complied by the New York City Department of Finance</td>\n</tr>\n<tr>\n<td>Link</td>\n<td>http://projects.iq.harvard.edu/gov2126/files/fisman_miguel_parkingtickets.pdf</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2016-10-13</td>\n</tr>\n</tbody>\n</table>\n<div class=\"datasource-additional\">\n<p>&nbsp;</p>\n</div>",
+            "id": 4
+        }
+    ],
+    "variables": [
+        {
+            "name": "Corruption Perception Index",
+            "unit": "",
+            "description": "2012-2015",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Corruption Perception Rating",
+            "unit": "",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "Incidence of perceived corruption in political parties",
+            "unit": "%",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "Corruption in Parliament/Legislature",
+            "unit": "%",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "Corruption in Military",
+            "unit": "%",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "Corruption in NGOs",
+            "unit": "%",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "Corruption in Media",
+            "unit": "%",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "Corruption in Religious Bodies",
+            "unit": "%",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "Corruption in Business/Private Sector",
+            "unit": "%",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "Corruption in Education system",
+            "unit": "%",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "Corruption in Judiciary",
+            "unit": "%",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "Corruption in Medical and health",
+            "unit": "%",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "Corruption in Police",
+            "unit": "%",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "Corruption in Public officials/Civil servants",
+            "unit": "%",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "Diplomatic parking violations",
+            "unit": "Scofflaws per dipolomat",
+            "description": "2002",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 4
+        },
+        {
+            "name": "Share of people who have bribed",
+            "unit": "%",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "Bribe payers index",
+            "unit": "",
+            "description": "2008; 2011",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 2
+        },
+        {
+            "name": "Firm bribery incidence",
+            "unit": "%",
+            "description": "2007-2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 3
+        },
+        {
+            "name": "Global corruption perception by institutions",
+            "unit": "%",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        }
+    ]
+}
