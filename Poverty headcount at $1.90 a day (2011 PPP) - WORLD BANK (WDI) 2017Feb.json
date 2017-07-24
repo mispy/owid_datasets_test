@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "World Bank \u2013 WDI Poverty Headcount (1.9$; 2011PPPs)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><p>Data provider: World Bank\r\n\r\nSource: World Development Indicators\r\n\r\nDescription :\tPoverty headcount ratio at $1.90 a day is the percentage of the population living on less than $1.90 a day at 2011 international prices. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions.\r\n\r\nTime span: \t1981-2013\r\nGeographic coverage :\tGlobal by country and by world region\r\n\r\nLink:\thttp://data.worldbank.org/indicator/SI.POV.DDAY\r\n\r\nRetrieved: \tDecember 2015\r\n\r\nAdditional information\r\n&#65279;The source notes: \"five countries -- Bangladesh, Cabo Verde, Cambodia, Jordan, and Lao PDR -- use the 2005 PPP conversion factors and corresponding $1.25 a day and $2 a day poverty lines. This is due to the large deviations in the rate of change in PPP factors relative to the rate of change in domestic consumer price indexes. See Box 1.1 in the Global Monitoring Report 2015/2016 (http://www.worldbank.org/en/publication/global-monitoring-report) for a detailed explanation.\"\r\ne.g. Any additional information should be placed here. In particular, details of any transformations made to produce the variable if it is not a direct download from the data provider.\r\n\r\ne.g. Any additional information should be placed here. In particular, details of any transformations made to produce the variable if it is not a direct download from the data provider.</p></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Poverty headcount at $1.90 a day (2011 PPP)",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
