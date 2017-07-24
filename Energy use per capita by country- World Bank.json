@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Energy use per capita by country- World Bank",
+            "description": "<table>\r\n\t<tr>\r\n\t\t<td>Data published by</td>\r\n\t\t<td>World Bank, World Development Indicators </td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Data publisher's source</td>\r\n\t\t<td>IEA Statistics. OECD/IEA 2014 (http://www.iea.org/stats/index.asp)</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Link</td>\r\n\t\t<td>http://databank.worldbank.org/data/</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Retrieved</td>\r\n\t\t<td>2017-05-08</td>\r\n\t</tr>\r\n</table>\r\nEnergy use refers to use of primary energy before transformation to other end-use fuels, which is equal to indigenous production plus imports and stock changes, minus exports and fuels supplied to ships and aircraft engaged in international transport\r\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Energy use per capita by country- World Bank",
+            "unit": "kilograms oil equivalent per year",
+            "description": "Energy use per capita (kg oil equivalent per year) by country 1960-2014- World Bank",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1960-2014",
+            "source_id": 0
+        }
+    ]
+}
