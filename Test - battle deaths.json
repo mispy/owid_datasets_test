@@ -1,0 +1,70 @@
+{
+    "sources": [
+        {
+            "name": "Test battle deaths source",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>Source 1</th>\r\n\t</tr><tr><td>Data provider</td>\r\n\t\t<td>World Bank</td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>Author(s) or original sources</td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>Mean school years</td>\r\n\t</tr></span><tr><td>Link</td><td>http://www.blahblah.com</td></tr><tr><td>Retrieved</td><td>18/08/2015</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>Any additional information should be placed here. In particular, details of any transformations made to produce the variable if it is not a direct download from the data provider.</p>\r\n</div></body></html>\n",
+            "id": 0
+        },
+        {
+            "name": "test",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><br><div>\r\n</div></body></html>\n",
+            "id": 1
+        }
+    ],
+    "variables": [
+        {
+            "name": "Colonial war",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1970-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Wars between states",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1970-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Civil war",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1970-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Civil war with foreign intervention",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1970-2015",
+            "source_id": 0
+        },
+        {
+            "name": "All wars (for period 2011-13 wars are not distinguished by type)",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1970-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Test - battle deaths",
+            "unit": "test",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        }
+    ]
+}
