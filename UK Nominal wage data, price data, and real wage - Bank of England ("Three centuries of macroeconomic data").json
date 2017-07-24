@@ -1,0 +1,38 @@
+{
+    "sources": [
+        {
+            "name": "Bank of England (\"Three centuries of macroeconomic data\")",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>Bank of England in the \"Three centuries of macroeconomic data\" database</td>\n\t</tr>\n\t\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://www.bankofengland.co.uk/research/Pages/datasets/default.aspx</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>18 April 2017</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>\nData on nominal weekly wages was spliced by the Bank of England and is based on the following sources:</br>\nN. Crafts and T. Mills Trends in Real Wages in Britain, 1750-1913, Explorations in Economic History (1994)</br>\nFeinstein (1998)</br>\nC. H. Feinstein New Estimates of Average Earnings in the United Kingdom, Economic History Review (1990)</br>\nC.H. Feinstein, National Income Expenditure and Output of the United Kingdom 1855-1965</br>\nONS: Series code LNMQ</br>\nONS: Series code KAB9</br>\n</br>\nThe cost of living index is referred to by the Bank of England as \"Headline Consumer Price Index (CPI) - original method in version 1.0\" and is indexed to 2015. It is spliced by the BoE based on the following sources:\n\nFeinstein (1998), Allen (2007), Feinstein (1991), Capie and Collins (1983),  Ministry of Labour, ONS retail prices 1919-1990, O'Donoghue et al (2004), and the ONS website.\n</br>\nThe real weekly wage was calculated based on these two series.\n</br></br>\nFor all details see the original source.\n\n\n\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Nominal Average Weekly Wages",
+            "unit": "\u00a3 (nominal)",
+            "description": "",
+            "code": null,
+            "coverage": "UK",
+            "timespan": "1750-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Spliced Consumer Price index 2015=100",
+            "unit": "2015=100",
+            "description": "",
+            "code": null,
+            "coverage": "UK",
+            "timespan": "1750-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Real Average Weekly Wages",
+            "unit": "\u00a3 (real)",
+            "description": "",
+            "code": null,
+            "coverage": "UK",
+            "timespan": "1750-2015",
+            "source_id": 0
+        }
+    ]
+}
