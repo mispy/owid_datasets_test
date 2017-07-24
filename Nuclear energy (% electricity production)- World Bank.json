@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Nuclear energy (% electricity production)- World Bank",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>World Bank- World Development Indicators (WDI)</td>\n\t</tr>\n\t<tr>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://data.worldbank.org/indicator/EG.ELC.NUCL.ZS?end=2015&name_desc=true&start=1960&view=chart&year=2015</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-05-18</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>World Bank sourced nuclear production data from IEA Statistics \u00a9 OECD/IEA 2014. Available at: http://www.iea.org/stats/index.asp\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Nuclear energy (% electricity production)",
+            "unit": "% electricity production",
+            "description": "Percentage of electricity produce from nuclear sources- World Bank",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1960-2015",
+            "source_id": 0
+        }
+    ]
+}
