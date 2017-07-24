@@ -1,0 +1,38 @@
+{
+    "sources": [
+        {
+            "name": "Solar PV Systems Costs- Barbose & Darghouth",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>Barbose & Darghouth (2016). Tracking the Sun IX: The Installed Price of Residential and Non-Residential Photovoltaic Systems in the United States</td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>State\nagencies, utilities, and other organizations that\nadminister PV incentive programs, solar\nrenewable energy credit (SREC) registration\nsystems, and interconnection processes. </td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>https://emp.lbl.gov/sites/default/files/tracking_the_sun_ix_report.pdf</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-06-19</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Data is based on median residential solar photovolatic (PV) prices in the United States only. \n</p>\n<p>\nInstalled non-module prices include hardware costs, such as inverters and racking equipment; and the wide assortment of soft costs, including such things as marketing and customer acquisition, system design, installation labor, permitting and inspection costs, and installer margins.\n</p>\nNon-module costs have been assumed to be the total solar PV system price minus the solar module price.\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Total Installed Price",
+            "unit": "2015 US$",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "2000-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Module Price",
+            "unit": "2015 US$",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "2000-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Non-Module Costs",
+            "unit": "2015 US$",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "2000-2015",
+            "source_id": 0
+        }
+    ]
+}
