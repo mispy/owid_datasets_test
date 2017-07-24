@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "NIHCM",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>Schoenman, Julie A. \"The concentration of health care spending.\" NIHCM Foundation Data Brief, National Institute of Health Care Management, Washington, DC (2012)</td></tr><tr><td>Data publisher's source</td>\r\n\t\t<td>NIHCM using data from the 2009 U.S.&nbsp;Medical Expenditure Panel Survey</td></tr></span></table><div>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Cumulative Healthcare Spending",
+            "unit": "%",
+            "description": "Cumulative Healthcare Spending vs\u00a0Population Ranked by Healthcare Spending",
+            "code": null,
+            "coverage": "U.S.",
+            "timespan": "2009",
+            "source_id": 0
+        },
+        {
+            "name": "Population Ranked by Healthcare Spending",
+            "unit": "%",
+            "description": "Cumulative Healthcare Spending vs\u00a0Population Ranked by Healthcare Spending",
+            "code": null,
+            "coverage": "U.S.",
+            "timespan": "2009",
+            "source_id": 0
+        }
+    ]
+}
