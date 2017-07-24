@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Green Climate Fund Pledges- GCF",
+            "description": "<div class=\"datasource-additional\">\n\t<p>This dataset presents Green Climate Fund (GCF) pledges, normalised to USD equivalents per capita of the donor country to date.\n</p>\n<p>Advanced economies have formally agreed to jointly mobilize USD 100 billion per year by 2020, from a variety of sources, to address the pressing mitigation and adaptation needs of developing countries.\n</p>\n<p> Data sourced from the Green Climate Fund (GCF) datasets, available at: http://www.greenclimate.fund/partners/contributors/resources-mobilized \n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Green Climate Fund Pledges (USD per capita)",
+            "unit": "USD pledged per capita",
+            "description": "",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "2016",
+            "source_id": 0
+        }
+    ]
+}
