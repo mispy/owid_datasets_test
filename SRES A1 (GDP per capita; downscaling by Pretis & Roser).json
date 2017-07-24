@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "SRES A1 (GDP per capita; downscaling by Pretis & Roser)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th><br></th>\r\n\t</tr><tr><td>Data provider</td>\r\n\t\t<td>SRES</td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>Pretis &amp; Roser</td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>GDP per capita in $<br></td>\r\n\t</tr><tr><td>Calculated</td>\r\n\t\t<td>summer 2014</td>\r\n\t</tr></span></table></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "SRES A1 (GDP per capita; downscaling by Pretis & Roser)",
+            "unit": "$",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1990-2100",
+            "source_id": 0
+        }
+    ]
+}
