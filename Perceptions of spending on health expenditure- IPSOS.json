@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "Perceptions of spending on health expenditure- IPSOS",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>Ipsos MORI Perils of Perception Study 2016</td>\n\t</tr>\n\t<tr>\n\t\t<tr>\n\t\t<td>Link</td>\n\t\t<td>https://www.ipsos.com/ipsos-mori/en-uk/perceptions-are-not-reality-what-world-gets-wrong</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-06-15</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Ipsos MORI conducted 27,250 interviews across 50 countries between September-November 2016 via the Ipsos MORI Online Panel system. In the Czech Republic, Montenegro, Netherlands, Norway and Serbia, interviews were carried out through a combination of the online system and face-to-face methodologies.\n</p>\n<p>\nData are weighted to match the profile of the population.\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "How much we think we spend on health expenditure",
+            "unit": "% of gross domestic product (GDP)",
+            "description": "Percentage of GDP the average person thinks its country spends on health expenditure per year",
+            "code": null,
+            "coverage": "country",
+            "timespan": "2016",
+            "source_id": 0
+        },
+        {
+            "name": "How much we actually spend on health expenditure",
+            "unit": "% of gross domestic product (GDP)",
+            "description": "Percentage of GDP we actually spend on health expenditure per year",
+            "code": null,
+            "coverage": "country",
+            "timespan": "2016",
+            "source_id": 0
+        }
+    ]
+}
