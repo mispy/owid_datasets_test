@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "Our World In Data based on Wrigley and Schofield (1981), Mitchell (2010), and UK ONS (2016)",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>Wrigley and Schofield (1981) \"The Population History of England: A Reconstruction\"; Brian Mitchell - International Historical Statistics (2010); UK ONS (2016)</td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>See individual sources for more detail</td>\n\t</tr>\n\t<tr>\n\t\t<td>Links</td>\n\t\t<td>Brian Mitchell: http://www.eui.eu/Research/Library/ResearchGuides/Economics/Statistics/DataPortal/IHS.aspx#Access; UK ONS: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>June 2017</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>*Note: Our World In Data compiled the data from the above sources as follows: for the years 1541-1861: Wrigley and Schofield (1981);\nfor the years 1862-2003: Brian Mitchell (2010); for the years 2004-2015: UK Office for National Statistics (2016).\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Crude Birth Rate",
+            "unit": "per 1,000",
+            "description": "Birth rate per 1,000 people",
+            "code": null,
+            "coverage": "England and Wales",
+            "timespan": "1541-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Crude Death Rate",
+            "unit": "per 1,000",
+            "description": "Death rate per 1,000 people",
+            "code": null,
+            "coverage": "England and Wales",
+            "timespan": "1541-2015",
+            "source_id": 0
+        }
+    ]
+}
