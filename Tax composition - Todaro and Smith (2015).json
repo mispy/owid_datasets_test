@@ -1,0 +1,65 @@
+{
+    "sources": [
+        {
+            "name": "Todaro and Smith (2014)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><tbody><tr><td><span class=\"datasource-property\"><span class=\"datasource-property\">Data published by</span></span></td>\n<td>\n<p class=\"p1\">Todaro, M. and Smith, S. (2014) Economic Development, 12th Edition. Pearson. ISBN: 1292002972</p>\n</td>\n</tr><tr><td><span class=\"datasource-property\">Data publisher's source</span></td>\n<td>\n<p class=\"p1\">National Tax Journal by National Tax Association.</p>\n</td>\n</tr></tbody><tr><td>Link</td><td>\u00a0</td></tr><tr><td>Retrieved</td><td>22/09/2016</td></tr></table><div class=\"datasource-additional\">\n<p>&nbsp;Estimates are provided by the source in&nbsp;two windows of time: 1985-1987 and 1995-1997. We report the estimates&nbsp;for the year in the middle of the corresponding estimates (i.e. 1986 and 1996)</p>\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Corporate income taxes",
+            "unit": "% GDP",
+            "description": "1986; 1996",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Personal Income taxes",
+            "unit": "% GDP",
+            "description": "1986; 1996",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "General consumption taxes",
+            "unit": "% GDP",
+            "description": "1986; 1996",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Excise taxes",
+            "unit": "% GDP",
+            "description": "1986; 1996",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Trade taxes",
+            "unit": "% GDP",
+            "description": "1986; 1996",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Social security",
+            "unit": "% GDP",
+            "description": "1986; 1996",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
