@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "University of Tuebingen: Height datahub",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>University of Tuebingen<br></th></tr><tr><td>Data provider</td><td>University of Tuebingen</td></tr><tr><td>Source</td><td>Several sources (see website)</td></tr><tr><td>Description</td><td>Historical heights of soldiers, conscripts,&nbsp;prisoners and others. Please consult the sources&nbsp;for details for each country.</td></tr></span><tr><td>Link</td><td>http://www.uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/wirtschaftswissenschaft/lehrstuehle/volkswirtschaftslehre/wirtschaftsgeschichte/data-hub-height.html</td></tr><tr><td>Retrieved</td><td>01/07/2015</td></tr></table></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Human Height",
+            "unit": "cm",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "17th-20th Century",
+            "source_id": 0
+        }
+    ]
+}
