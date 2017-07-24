@@ -1,0 +1,47 @@
+{
+    "sources": [
+        {
+            "name": "Arroyo-Abad and Lindert (2016)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><tbody><tr><td><span class=\"datasource-property\"><span class=\"datasource-property\">Data published by</span></span></td>\r\n<td>\r\n<p class=\"p1\"><span class=\"s1\">Arroyo Abad, L. and P. Lindert. \"Fiscal Redistribution in the Americas since the Mid-Nineteenth Century\" in<em> Latin American Inequality in the Long Run</em>, edited by L. Bertola and J. Williamson, forthcoming.&nbsp;</span></p>\r\n</td>\r\n</tr><tr><td><span class=\"datasource-property\">Data publisher's source</span></td>\r\n<td>Various sources.</td>\r\n</tr></tbody><tr><td>Link</td><td>http://gpih.ucdavis.edu</td></tr><tr><td>Retrieved</td><td>21/09/2016</td></tr></table><div class=\"datasource-additional\">\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Income and wealth",
+            "unit": "% GDP",
+            "description": "1901-2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Consumption",
+            "unit": "% GDP",
+            "description": "1901-2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Trade ",
+            "unit": "% GDP",
+            "description": "1901-2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Resources",
+            "unit": "% GDP",
+            "description": "1901-2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
