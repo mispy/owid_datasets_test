@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "FAS Nuclear Notebook",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>FAS Nuclear Notebook<br></th></tr><tr><td>Data provider</td><td>Federation of American Scientists</td></tr><tr><td>Source</td><td>Hans M. Kristensen and Robert S. Norris<br></td></tr><tr><td>Description</td><td>Nuclear weapons inventory by country</td></tr></span><tr><td>Link</td><td>http://thebulletin.org/nuclear-notebook-multimedia</td></tr><tr><td>Retrieved</td><td>08/09/2015</td></tr></table><div>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Nuclear weapons inventory by country",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Nuclear powers",
+            "timespan": "1945-2014",
+            "source_id": 0
+        }
+    ]
+}
