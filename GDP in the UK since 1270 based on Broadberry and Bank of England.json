@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "Broadberry et al. and Bank of England",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>Our World In Data combined the data published by Broadberry et al. and Bank of England</td>\n\t</tr>\n\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>The two datasets are available online.</br>\nBank of England data: http://www.bankofengland.co.uk/research/Pages/onebank/threecenturies.aspx</br>\nBroadberry's website: https://www.nuffield.ox.ac.uk/People/sites/stephen.broadberry/SitePages/Biography.aspx</td>\n\t</tr>\n\t<tr>\n\t\t<td>Sources retrieved and series calculated</td>\n\t\t<td>2017-April-02</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>\nWe have combined real GDP and population data published in Broadberry et al and Bank of England:</br>\n\n1270 to 1700 \u2013 Based on absolute value from BoE for 1700 and then backwards using the indexed time-series (indexed to 1700) from Broadberry et al</br>\n1700 to 2015 \u2013 Bank of England\nReal GDP per capita is the ratio of the two series.\n</br></br>\nBroadberry Stephen, Bruce Campbell, Alexander Klein, Mark Overton and Bas van Leeuwen \u2013 \"British Economic Growth, 1270-1870: An Output-based Approach\"</br></br>\nThe BoE combines several data sets from 1700 onwards:\nBroadberry et al (2015);\nEstimates based on Mitchell (1988);\nSolomou and Weale (1991);\nSefton and Weale (1995);\nand for the recent period data from the Office for National Statistics (ONS).\nAll details are in Bank of England \u2013 Three centuries of macroeconomic data.\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Total Real GDP",
+            "unit": "\u00a3 (in 2013 prices)",
+            "description": "",
+            "code": null,
+            "coverage": "United Kingdom",
+            "timespan": "1270-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Real GDP per capita",
+            "unit": "\u00a3 (in 2013 prices)",
+            "description": "",
+            "code": null,
+            "coverage": "United Kingdom",
+            "timespan": "1270-2015",
+            "source_id": 0
+        }
+    ]
+}
