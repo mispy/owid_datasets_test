@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Brian Mitchell \u2013 International Historical Statistics (Births per 1,000)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>Brian Mitchell &ndash; International Historical Statistics (Births per 1,000)<br></td>\r\n\t</tr><tr><td>Data publisher's source</td>\r\n\t\t<td>-</td></tr></span><tr><td>Link</td><td>http://www.palgraveconnect.com/pc/doifinder/10.1057/9781137305688.0001</td></tr><tr><td>Retrieved</td><td>\u2013</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n</p><span>Edited by&nbsp;Palgrave Macmillan Ltd\t. (April 2013).&nbsp;<em>International Historical Statistics .</em>&nbsp;[Online] Available at: <a target=\"_blank\" rel=\"nofollow\" href=\"http://www.palgraveconnect.com/pc/doifinder/10.1057/9781137305688.0001\">http://www.palgraveconnect.com/pc/doifinder/10.1057/9781137305688.0001</a></span><div>These statistics &ndash; orignally published under the editorial leadership of Brian Mitchell (since 1983) &ndash; are a collection of data sets taken from many primary sources, including both official national and international abstracts dating back to 1750. The books are published in three volumes covering more than 5000 pages.<br></div>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Brian Mitchell \u2013 International Historical Statistics (Births per 1,000)",
+            "unit": "per 1,000 (in the entire population)",
+            "description": "Birth Rate",
+            "code": null,
+            "coverage": "Global by country (and in few countries disaggregated by race)",
+            "timespan": "1749-2010",
+            "source_id": 0
+        }
+    ]
+}
