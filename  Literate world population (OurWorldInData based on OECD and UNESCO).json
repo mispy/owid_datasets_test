@@ -1,0 +1,43 @@
+{
+    "sources": [
+        {
+            "name": "CIA Factbook",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><tbody><tr><td><span class=\"datasource-property\"><span class=\"datasource-property\">Data published by</span></span></td>\n<td>\n<p>&nbsp;</p>\nCIA Factbook</td>\n</tr><tr><td><span class=\"datasource-property\">Data publisher's source</span></td>\n<td>\n<p class=\"p1\"><span class=\"s1\">Data from censuses, surveys, and registration systems</span></p>\n</td>\n</tr></tbody><tr><td>Link</td><td>\u00a0https://www.cia.gov/library/publications/the-world-factbook/rankorder/2103rank.html</td></tr><tr><td>Retrieved</td><td>26/08/2016</td></tr></table><div class=\"datasource-additional\">\n<p>NOTE: The year for estimates corresponds to the estimated dates directly reported by the CIA Factbook. For those countries for which the year was reported by the source as NA, we have assigned 2011 (the most common year in the dataset). The countries where this imputation took place are: Andorra, Vatican, Liechtenstein, Norway, Austria, San Marino, Cook Islands, Niue, Solomon Islands, Gibraltar.</p>\n<p>The source also notes: <em>\"This entry includes a definition of literacy and Census Bureau percentages for the total population, males, and females. There are no universal definitions and standards of literacy. Unless otherwise specified, all rates are based on the most common definition - the ability to read and write at a specified age. Detailing the standards that individual countries use to assess the ability to read and write is beyond the scope of the Factbook. Information on literacy, while not a perfect measure of educational results, is probably the most easily available and valid for international comparisons. Low levels of literacy, and education in general, can impede the economic development of a country in the current rapidly changing, technology-driven world.\"</em></p>\n</div></body></html>\n",
+            "id": 0
+        },
+        {
+            "name": "Literate World Population (Our World In Data based on OECD and UNESCO)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><tbody><tr><td><span class=\"datasource-property\"><span class=\"datasource-property\">Data published by</span></span></td>\r\n<td>\r\n<p>This data was calculated by Max Roser for Our World In Data using the following source:</p>\r\n<p>&ndash; World population from&nbsp;https://ourworldindata.org/world-population-growth/ (based on HYDE and UN)</p>\r\n<p>&ndash; Literacy rates for 1800 to 1990 from&nbsp;OECD (2014) &ndash; How Was Life? &ndash; Global Well-being since 1820. The observation for 1820 is used for 1800 and 1820.</p>\r\n<p>&ndash; Literacy for 2004 to 2014 from UNESCO (this is adult (15 and older) literacy rate for both sexes). Online here:&nbsp;http://data.uis.unesco.org/index.aspx?queryid=166&amp;lang=en</p>\r\n</td>\r\n</tr><tr><td><span class=\"datasource-property\">Data publisher's source</span></td>\r\n<td>&nbsp;</td>\r\n</tr></tbody><tr><td>Link</td><td>\u00a0</td></tr><tr><td>Retrieved</td><td>3/08/2016</td></tr></table><div class=\"datasource-additional\">\r\n<p>&nbsp;</p>\r\n</div></body></html>\n",
+            "id": 1
+        }
+    ],
+    "variables": [
+        {
+            "name": "Literate World Population",
+            "unit": "people",
+            "description": "1800-2014",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "Illiterate World Population",
+            "unit": "people",
+            "description": "1800-2014",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "Literacy rate",
+            "unit": "%",
+            "description": "2011 (or most recent earlier estimate)",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
