@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "HYDE Global Population by Region",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>HYDE Database</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>Calculations by the HYDE team</td>\n</tr>\n<tr>\n<td>Link</td>\n<td>ftp://ftp.pbl.nl/hyde/supplementary/Klein_Goldewijk_et_al_2016_HYDE32_paper/</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2016-12-14</td>\n</tr>\n</tbody>\n</table>\n<div class=\"datasource-additional\">\n<p>&nbsp;</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "HYDE Global Population by Region",
+            "unit": "people",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
