@@ -1,0 +1,38 @@
+{
+    "sources": [
+        {
+            "name": "China share of World Poverty - World Bank (WDI) 2017Feb",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>World Bank (World Development Indicators)</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>World Bank (Development Research Group). <a href=\"http://iresearch.worldbank.org/PovcalNet/home.aspx\">PovcalNet</a></td>\n</tr>\n<tr>\n<td>Link</td>\n<td><a href=\"http://data.worldbank.org/?name_desc=false\">http://data.worldbank.org/?name_desc=false</a></td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2017-02-16</td>\n</tr>\n</tbody>\n</table>\n<div class=\"datasource-additional\">\n<p><strong>Definitions:&nbsp;</strong></p>\n<p>Our definition of poverty is defined using World Bank's poverty headcount. People are considered poor if they live with less than 1.90$ per day (2011 int $ PPP). For more information on how the OurWorldInData team defines poverty following the World Bank's definitions see our entry on \"<a href=\"../extreme-poverty/\">Global Extreme Poverty</a>\".</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "World ",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "China",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "World not including China\t",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
