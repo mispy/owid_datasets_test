@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Costa, Palma and Reis (2015)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>Costa, Palma and Reis (2015)<br></th>\r\n\t</tr><tr><td>Data provider</td>\r\n\t\t<td>Nuno Palma</td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>Costa, Palma and Reis (2015)<br></td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>Intercontinental trade, &nbsp;&pound; per capita in constant prices of 1700</td>\r\n\t</tr></span><tr><td>Link</td><td>http://ereh.oxfordjournals.org/content/19/1/1.abstract</td></tr><tr><td>Retrieved</td><td>12/09/2015</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>Citation:&nbsp;Costa, Palma and Reis (2015). The Great Escape? The Contribution of the Empire to Portugal's Economic Growth, 1500-1800. European Review of Economic History (2015) 19 (1): 1-22</p>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Intercontinental trade, 1500-1800",
+            "unit": "\u00a3 per capita",
+            "description": "Intercontinental trade, 1500-1800 in \u00a3 per capita in constant prices of 1700",
+            "code": null,
+            "coverage": "Selected European countries",
+            "timespan": "1500-1800",
+            "source_id": 0
+        }
+    ]
+}
