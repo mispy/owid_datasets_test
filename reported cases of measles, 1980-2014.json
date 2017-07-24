@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "World Health Organization",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><p><b>Source</b></p>\r\n\r\n<table><span><tr><td>\r\n<p><b>Data provider</b></p>\r\n</td>\r\n<td>\r\n<p><b>World Health Organization</b></p>\r\n</td>\r\n</tr><tr><td>\r\n<p><b>Source</b></p>\r\n</td>\r\n<td>\r\n<p><b>World Health Organization Joint Reporting Form</b></p>\r\n</td>\r\n</tr><tr><td>\r\n<p><b>Description</b></p>\r\n</td>\r\n<td>\r\n<p><b>Number of reported cases of measles</b></p>\r\n</td>\r\n</tr></span><tr><td>Link</td><td>\r\nhttp://apps.who.int/immunization_monitoring/globalsummary/timeseries/tsincidencemeasles.html\r\n</td></tr><tr><td>Retrieved</td><td>\r\ne.g. 09/09/2015\r\n</td></tr></table><p><b>Additional information</b></p>\r\n<p><span><b>Information about the WHO Joint Reporting Form can be found at&nbsp;</b><a target=\"_blank\" rel=\"nofollow\" href=\"http://www.who.int/immunization/monitoring_surveillance/routine/reporting/en/\"><b>http://www.who.int/immunization/monitoring_surveillance/routine/reporting/en/</b></a></span></p><div>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "reported cases of measles",
+            "unit": "number of cases",
+            "description": "",
+            "code": null,
+            "coverage": "\r\nWHO member countries\r\n",
+            "timespan": "\r\n1980-2014\r\n",
+            "source_id": 0
+        }
+    ]
+}
