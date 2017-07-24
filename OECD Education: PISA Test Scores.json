@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "OECD Programme for International Student Assessment (PISA)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>Organisation for Economic&nbsp;Cooperation and Development</th></tr><tr><td>Data provider</td><td>OECD</td></tr><tr><td>Source</td><td>OECD</td></tr><tr><td>Description</td><td>PISA education test scores (reading, mathematics, and&nbsp;science)</td></tr></span><tr><td>Link</td><td>http://www.oecd.org/pisa/home/</td></tr><tr><td>Retrieved</td><td>06/08/2015</td></tr></table><div><h3>Additional information</h3><p>OECD PISA average variable is the mean average taken over the mathematics, reading and sciences scores to create an overall ranking. Note also that a&nbsp;problem solving test was included in 2003 and also used to calculate the average. Data is missing for US Reading in 2006 as it was&nbsp;disqualified.</p><p>Method of averaging over different tests is not endorsed by OECD<br></p></div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "OECD PISA education score",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global, selected countries",
+            "timespan": "1997-2012",
+            "source_id": 0
+        },
+        {
+            "name": "OECD PISA Reading Score, 2000-2012 - OECD",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global, selected countries",
+            "timespan": "1997-2012",
+            "source_id": 0
+        }
+    ]
+}
