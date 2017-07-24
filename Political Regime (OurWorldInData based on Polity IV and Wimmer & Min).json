@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Political Regime (OurWorldInData based on Polity IV and Wimmer & Min)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\r\n<html><body><p>\u00a0</p>\r\n<table><tbody><tr><td><span class=\"datasource-property\"><span class=\"datasource-property\">Data published by</span></span></td>\r\n<td>Our World In Data combined two datasets: Wimmer and Min (2006) for information on whether a country was colonized;\u00a0Center for Systemic Peace for a measure of the political regime.</td>\r\n</tr><tr><td><span class=\"datasource-property\">Colonial regime data</span></td>\r\n<td>Wimmer and Min (2006) \u2013 <strong><a target=\"_blank\" rel=\"nofollow\" href=\"https://www.jstor.org/stable/25472435?seq=1#page_scan_tab_contents\">\u201cFrom empire to nation-state: Explaining war in the modern world, 1816-2001\u201d</a></strong>, American Sociological Review 71(6):867-897, 2006.</td>\r\n</tr><tr><td><span class=\"datasource-property\">Democracy measure</span></td>\r\n<td>Polity 2 Measure that ranges from -10 (autocracy) to +10 (full democracy). This data is published by the <strong><a target=\"_blank\" rel=\"nofollow\" href=\"http://www.systemicpeace.org/\">Center for Systemic Peace</a></strong></td>\r\n</tr><tr><td>Dataset built by Max Roser on</td>\r\n<td>3 August 2016</td>\r\n</tr></tbody><tr></table>\r\n<div class=\"datasource-additional\">\r\nPolity 2 Measure ranges from -10 (autocracy) to +10 (full democracy). If a country was colonized\u00a0in a given year is encoded as -20. In cases in which there was data from both Min and Wimmer and also Polity IV the Polity IV data is shown.</p>\r\n</div></body></html>\r\n\r\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Political Regime (OurWorldInData based on Polity IV and Wimmer & Min)",
+            "unit": "Score",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
