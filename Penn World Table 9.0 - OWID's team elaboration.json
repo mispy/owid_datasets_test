@@ -1,0 +1,214 @@
+{
+    "sources": [
+        {
+            "name": "Penn World Table 9.0 - OWID's team elaboration",
+            "description": "<table>\r\n\t<tr>\r\n\t\t<td>Data published by</td>\r\n\t\t<td>Where did you find the data? e.g. World Bank WDI; or Toniolo and Vecchi (1998) ... </td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Data publisher's source</td>\r\n\t\t<td>How was the data produced in the first place? E.g. Author(s) or original sources; Census Data...</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Link</td>\r\n\t\t<td>e.g. http://www.example.org</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Retrieved</td>\r\n\t\t<td>e.g. 2016-02-15</td>\r\n\t</tr>\r\n</table>\r\n<div class=\"datasource-additional\">\r\n\t<p>Any additional information should be placed here. Helpful information here would include</br>\r\n\u2013 details of any transformations made to produce the variable if it is not a direct download from the data provider.</br>\r\n\u2013 information when the data publisher published the original dataset.\r\n</p>\r\n</div>",
+            "id": 0
+        },
+        {
+            "name": "Penn World Table 9.0 - OWID's team calculations",
+            "description": "<table>\r\n\t<tr>\r\n\t\t<td>Data published by</td>\r\n\t\t<td>Penn World Table 9.0 </td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Data publisher's source</td>\r\n\t\t<td>Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), \"The Next Generation of the Penn World Table\" American Economic Review, 105(10), 3150-3182, available for download at <a href=\"http://www.ggdc.net/pwt\" target=\"_blank\"><em>http://www.ggdc.net/pwt </em> </a> </td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Link</td>\r\n\t\t<td> <a href=\"  http://www.rug.nl/ggdc/productivity/pwt/\" target=\"_blank\"><em>http://www.rug.nl/ggdc/productivity/pwt/</em> </a></td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Retrieved</td>\r\n\t\t<td> 03/02/2017 </td>\r\n\t</tr>\r\n</table>\r\n<div class=\"datasource-additional\">\r\n\t<p>Penn World Table is a database with information on relative levels of income, output, input and productivity, covering 182 countries between 1950 and 2014. A brief presentation on the project is available on <a href=\"  voxeu.org http://voxeu.org/article/recasting-international-income-differences-next-generation-penn-world-table\" target=\"_blank\"><em>voxeu.org http://voxeu.org/article/recasting-international-income-differences-next-generation-penn-world-table</em> </a>  . New versions of the Penn World Table are updated regularly. The most recent one, employed to build this dataset, was published in 2015. </p>\r\n<p>\r\nList of variables and how these were manipulated:\r\n</p>\r\n<p>\r\nPWT's country names were modified according to OWID standardized country names.\r\n</p>\r\n<p>\r\nTotal GDP (output):Output-side real GDP at chained PPPs (in unit 2011US$). Calculated multiplying PWT(9.0)'s variable \"rgdpo\" by 1.000.000.\r\n </p>\r\n<p>\r\nTotal GDP (expenditure): Expenditure-side real GDP at chained PPPs (in unit 2011US$). Calculated multiplying PWT(9.0)'s variable \"rgdpe\" by 1.000.000.\r\n </p>\r\n<p>\r\nPopulation: Population. Calculated multiplying PWT(9.0)'s variable \"pop\" by 1.000.000.\r\n </p>\r\n<p>\r\nLiving Standard GDP per Capita: Per Capita expenditure-side real GDP at chained PPPs. Calculated dividing Total GDP (expenditure) by Population.\r\n </p>\r\n<p>\r\nPersons Engaged: Number of persons engaged. Calculated multiplying PWT(9.0)'s variable \"emp\" by 1.000.000.\r\n </p>\r\n<p>\r\nWork Hours Per Person: Average annual hours worked by persons engaged. Present in PWT(9.0)'s as \"avh\".\r\n </p>\r\n<p>\r\nWork Hours: Total number of work hours. Calculated multiplying \"Work Hours per Person\" by \"Persons Engaged\".\r\n </p>\r\n<p>\r\nLabour Productivity: Labour Productivity. Calculated dividing \"Total GDP (output)\" by \"Total number of work hours\".\r\n </p>\r\n<p>\r\nShare Of Labour Compensation: Share of labour compensation in GDP at current national prices. Present in PWT(9.0) as \"labsh\".\r\n </p>\r\n<p>\r\nGDP Price Level: Price level of CCON (PPP/XR), price level of USA GDPo in 2011=1. Present in PWT(9.0) as \"pl_con\".\r\n </p>\r\n<p>\r\nrgdpe: Expenditure-side real GDP at chained PPPs (in mil. 2011US$). Present in PWT(9.0) as \"rgdpe\".\r\n </p>\r\n<p>\r\nrgdpo: Output-side real GDP at chained PPPs (in mil. 2011US$). Present in PWT(9.0) as \"rgdpo\".\r\n </p>\r\n<p>\r\npop: Population (in millions). Present in PWT(9.0) as \"pop\".\r\n </p>\r\n<p>\r\nemp: Number of persons engaged (in millions). Present in PWT(9.0) as \"emp\".\r\n </p>\r\n<p>\r\nctfp: TFP level at current PPPs (USA=1). Present in PWT(9.0) as \"ctfp\".\r\n </p>\r\n<p>\r\ncwtfp: Welfare-relevant TFP levels at current PPPs (USA=1). Present in PWT(9.0) as \"cwtfp\".\r\n </p>\r\n<p>\r\nrtfpna: TFP at constant national prices (2011=1). Present in PWT(9.0) as \"rtfpna\".\r\n </p>\r\n<p>\r\nrwtfpna: Welfare-relevant TFP at constant national prices (2011=1). Present in PWT(9.0) as \"rwtfpna\".\r\n </p>\r\n<p>\r\nStatcap: Statistical capacity indicator (source: World Bank, developing countries only). Present in PWT(9.0) as \"Statcap\".\r\n</p>\r\n</div>",
+            "id": 1
+        }
+    ],
+    "variables": [
+        {
+            "name": "TotalGDP_output",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "TotalGDP_exp",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "Population",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "LivingStandardGDPperCapita",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "PersonsEngaged",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "WorkHoursPerPerson",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "WorkHours",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "LaboutProductivity",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "ShareOfLabourCompensation",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "GDP_PriceLevel",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "rgdpe",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "rgdpo",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "pop",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "emp",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "ctfp",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "cwtfp",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "rtfpna",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "rwtfpna",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "statcap",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "avh",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "labsh",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "pl_con",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        }
+    ]
+}
