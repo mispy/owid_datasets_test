@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Child deaths \u2013 United Nations Population Division",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>United Nations, Department of Economic and Social Affairs, Population Division (2015). World Population Prospects: The 2015 Revision, custom data acquired via website.</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>Various, including censuses, vital registrations and maternity histories. Full source information can be found here: https://esa.un.org/unpd/wpp/DataSources/</td>\n</tr>\n<tr>\n<td>Link</td>\n<td>https://esa.un.org/unpd/wpp/Download/Standard/Mortality/</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2017-02-13</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Additional information:</strong></p>\n<p>&ndash; The original data is presented in 1,000s live births. Here it was multiplied by 1,000 for this reason.</p>\n<p>&ndash; Importantly data refer to 5 year intervals around&nbsp;the indicated year. E.g. 1952 refers to 1950-1954 in the original dataset. Here the&nbsp;value for the 5 year interval is divided by 5 and attributed to the mid-year of the interval.</p>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Child deaths \u2013 United Nations Population Division",
+            "unit": "children",
+            "description": "1950-2015",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
