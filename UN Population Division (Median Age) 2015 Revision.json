@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "UN Population Division (Median Age) 2015 Revision",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><b>Description:</b>\r\n<table><span><tr><td>Data published by</td>\r\n<td>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p>UN Population Division, World Population Prospects&nbsp;</p></td></tr><tr><td><br></td><td>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p></p></td></tr></span><tr><td>Retrieved</td><td>1 June\u00a02016</td></tr></table><div><p><b>Additional information</b><br></p><p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n</p><p>Median age is the age that divides the population in two parts of equal size, that is, there are as many persons with ages above the median as there are with ages below the median. It is expressed as years.</p></div><div><br></div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "UN Population Division (Median Age) 2015 Revision",
+            "unit": "years",
+            "description": "Median age of the population. Historical estimates until 2015. UN Projections for 2020 and later (medium variant of the UN projections)",
+            "code": null,
+            "coverage": "Globally, by country and by world region",
+            "timespan": "1950 - 2015 (historical estimates)2020-2100 (UN medium variant projections)",
+            "source_id": 0
+        }
+    ]
+}
