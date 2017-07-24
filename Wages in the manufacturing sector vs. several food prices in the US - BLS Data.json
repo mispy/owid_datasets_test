@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "U.S. Bureau of Labor Statistics",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p>U.S. Bureau of Labor Statistics, Consumer&nbsp;Expenditure Survey</p></th>\r\n\t</tr><tr><td>Data provider</td>\r\n\t\t<td>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p>U.S. Bureau of Labor Statistics, Consumer Expenditure Survey</p></td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td><br></td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p>Wages in the Manufacturing Sector vs. Several Food Prices USA &nbsp;&ndash; BLS Data</p></td>\r\n\t</tr></span><tr><td>Link</td><td>http://www.bls.gov/opub/uscs/2002-03.pdf</td></tr><tr><td>Retrieved</td><td>2013</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p><br></p>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Wage and Food Prices",
+            "unit": "US$",
+            "description": "",
+            "code": null,
+            "coverage": "USA",
+            "timespan": "1901-2002",
+            "source_id": 0
+        }
+    ]
+}
