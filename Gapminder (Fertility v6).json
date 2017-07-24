@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Gapminder (Fertility v6)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>Gapminder</td>\r\n\t</tr><tr><td>Data publisher's source</td>\r\n\t\t<td>The data set was authored by&nbsp; Ferenc Ajus and&nbsp;edited by Mattias Lindgren. The long list of&nbsp;original data sources is presented in the documentation.</td></tr></span><tr><td>Link</td><td>http://www.gapminder.org/documentation/documentation/gapdoc008_v2.pdf</td></tr><tr><td>Retrieved</td><td>3 May 2016</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>This is version 6 that was updated by Gapminder in January 2015.</p><p>Projections are mostly from the UN's&nbsp;World Population Prospects: The 2012 Revision.</p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Gapminder (Fertility v6)",
+            "unit": "Children per woman",
+            "description": "Total Fertility Rate",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "Mostly 1800 and later; Projections until 2100",
+            "source_id": 0
+        }
+    ]
+}
