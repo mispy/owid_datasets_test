@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Renewable Energy Investment by Region- IRENA",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>International Renewable Energy Agency (IRENA)</td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>Frankfurt School- UNEP Centre/Bloomberg New Energy Finance (2016), Global Trends in Renewable Energy Finance</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://resourceirena.irena.org/gateway/dashboard/</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-05-02</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Data on investment is included for the following renewable energy projects: all biomass, waste-to-energy, geothermal and wind projects more than 1MW in capacity; all wave and tidal; hydropower projects between 1MW and 50MW; biofuel projects of more than one million litres per year; and all solar projects (with estimates of rooftop installations less than 1MW). Hydropower projects greater than 50MW have not been included in this data, since this technology has been mature for decades and is at a different stage of development versus more recent technologies.\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Investment in Renewables by Region- IRENA",
+            "unit": "billion int-$",
+            "description": "Investment in Renewable Energy by Region- IRENA",
+            "code": null,
+            "coverage": "global by region",
+            "timespan": "2004-2015",
+            "source_id": 0
+        }
+    ]
+}
