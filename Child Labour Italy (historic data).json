@@ -1,0 +1,38 @@
+{
+    "sources": [
+        {
+            "name": "Toniolo, G., & Vecchi, G. (2007)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data provider</td>\r\n\t\t<td>Toniolo, Gianni, and Giovanni Vecchi. \"<i>ITALIAN CHILDREN AT WORK, 1881&mdash;1961</i>.\"&nbsp;Giornale degli economisti e Annali di economia&nbsp;(2007): 401-427.&nbsp;</td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>&nbsp;Toniolo, G., &amp; Vecchi, G. (2007) using&nbsp;estimates from population census data&nbsp;</td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>&nbsp;Incidence of Child Labour in Italy&nbsp;</td>\r\n\t</tr></span><tr><td>Link</td><td>http://www.jstor.org/stable/23248256</td></tr><tr><td>Retrieved</td><td>18/02/2016</td></tr></table><div>\r\n\t<h3><br></h3>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Child Labour Italy (all, historic)",
+            "unit": "%  of children ages 10-14",
+            "description": "",
+            "code": null,
+            "coverage": "Italy",
+            "timespan": "1981-1961",
+            "source_id": 0
+        },
+        {
+            "name": "Child Labour Italy (boys, historic)",
+            "unit": "% boys ages 10-14",
+            "description": "",
+            "code": null,
+            "coverage": "Italy",
+            "timespan": "1981-1961",
+            "source_id": 0
+        },
+        {
+            "name": "Child Labour Italy (girls, historic)",
+            "unit": "% girls ages 10-14",
+            "description": "",
+            "code": null,
+            "coverage": "Italy",
+            "timespan": "1981-1961",
+            "source_id": 0
+        }
+    ]
+}
