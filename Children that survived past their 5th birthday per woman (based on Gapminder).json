@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Children that survived past their 5th birthday per woman",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><b>Description:</b>\r\n<table><span><tr><td>Data published by</td>\r\n<td>\r\n\r\n<p>This data was calculated by Max Roser based on fertility and child mortality&nbsp;estimates from 1800 to 2015 published by&nbsp;Gapminder.org</p></td></tr><tr><td>Data publisher's source</td>\r\n<td>The two Gapminder.org datasets used were:<br><span>Gapminder child mortality estimates version 8<br></span>Gapminder Total Fertility Rate estimates&nbsp;version 6<br></td></tr></span><tr><td>Retrieved</td><td>30 July 2016</td></tr></table><div><table><tr><td><b>Additional information</b><br></td></tr><tr><td>Retrieved</td><td>30 July 2016</td></tr></table><table><span><tr><td>The child mortality rate is&nbsp;the probability that a child born in a specific year will die before reaching the age of five if subject to current age-specific mortality rates.<br>The child survival rate is 1-child mortality rate<br>Child survival rate&nbsp;was multiplied by fertility to obtain the data on how many children died on average per woman.<br></td>\r\n\r\n </tr></span><tr><td>Retrieved</td><td>30 July 2016</td></tr></table><div></div></div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Children that survived past their 5th birthday per woman (based on Gapminder)",
+            "unit": "children",
+            "description": "Children that survived past their 5th birthday per woman",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1800 to 2015",
+            "source_id": 0
+        }
+    ]
+}
