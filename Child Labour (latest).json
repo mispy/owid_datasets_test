@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "Understanding Children's Work project based on data from ILO, UNICEF and the World Bank",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><br><div>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Child Labour (boys, latest)",
+            "unit": "% boys ages 10-14",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Child Labour (girls, latest)",
+            "unit": "% girls ages 7-14",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
