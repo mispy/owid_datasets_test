@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Basu (1999) ",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data provider</td>\r\n\t\t<td>Basu, Kaushik. <em>Child labor: cause, consequence, and cure, with remarks on international labor standards.</em> Journal of Economic literature 37.3 (1999): 1083-1119</td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>ILO Programme on Estimates and Projections of the Economically Active Population (EPEAP)&nbsp;</td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>Labour Force Participation Rates for Children 10-14</td>\r\n\t</tr><tr><td><br></td><td><br></td></tr></span></table><div>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Child Labour (World, ILO-EPEAP, 1950-1995)",
+            "unit": "% children ages 10-14",
+            "description": "",
+            "code": null,
+            "coverage": "Global",
+            "timespan": "1950-1990",
+            "source_id": 0
+        }
+    ]
+}
