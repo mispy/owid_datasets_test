@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "International Agency for Research on Cancer (IARC)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><p>Mortality data was compiled by Gapminder using data from IARC&nbsp;GLOBOCAN 2002 (estimates for 2002) and&nbsp;WHO-IARC time series data.</p></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "male lung cancer deaths per 100,000",
+            "unit": "deaths per 100,000",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
