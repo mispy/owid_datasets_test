@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Immunization rate against measles (% of children ages 12-23 months) \u2013 via the World Development Indicators published by the World Bank",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><tbody><tr><td><span class=\"datasource-property\"><span class=\"datasource-property\">Data published by</span></span></td>\n<td>World Development Indicators published by the World Bank</td>\n</tr><tr><td><span class=\"datasource-property\">Data publisher's source</span></td>\n<td>&ndash;</td>\n</tr></tbody><tr><td>Link</td><td>http://data.worldbank.org/indicator/SH.IMM.MEAS</td></tr><tr><td>Retrieved</td><td>1/08/2016</td></tr></table><div class=\"datasource-additional\">\n<p>The definition&nbsp;given by the source is \"Child immunization measures the percentage of children ages 12-23 months who received vaccinations before 12 months or at any time before the survey. A child is considered adequately immunized against measles after receiving one dose of vaccine.\"</p>\n<p>Data is displayed as presented in the source, only country names are standardized to the conventions of Our World In Data.</p>\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Immunization rate against measles (% of children ages 12-23 months) \u2013 via the World Development Indicators published by the World Bank",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
