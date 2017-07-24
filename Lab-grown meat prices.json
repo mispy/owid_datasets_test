@@ -1,0 +1,34 @@
+{
+    "sources": [
+        {
+            "name": "Lab-grown beef prices- NextBigFuture",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>Next Big Future (2017). \"Lab grown meat prices have dropped 30,000 times in less than four years and are about 3-4 times more expensive than regular ground beef\" </td>\n\t</tr>\n\t<tr>\n\t\t\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>https://www.nextbigfuture.com/2017/02/lab-grown-meat-prices-have-dropped.html</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-07-11</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Data is based on industry and company reports from lab-scale (not commercial-scale) production of in-vitro beef.\n</p>\nPrices have been reported in US$ per pound (lb) of lab-grown beef. We have converted this to US$ per kilogram using a conversion factor of 0.454.\n</div>",
+            "id": 0
+        },
+        {
+            "name": "Retail Beef Prices- US Bureau of Labor Statistics",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>United States Bureau of Labor Statistics (BLS)</td>\n\t</tr>\n\t<tr>\n\t\t\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>https://data.bls.gov/timeseries/APU0000703112</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-07-11</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Data taken as the US national average retail prices of 100% ground beef. Monthly averages have been converted to an annual average.\n</p>\nPrices by BLS are reported in US$ per pound (lb) of beef. We have converted this to US$ per kilogram using a conversion factor of 0.454.\n</div>",
+            "id": 1
+        }
+    ],
+    "variables": [
+        {
+            "name": "Lab-grown beef",
+            "unit": "US$ per kilograms",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "2013-2017",
+            "source_id": 0
+        },
+        {
+            "name": "Retail, 100% ground beef",
+            "unit": "US$ per kilogram",
+            "description": "",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "2013-2017",
+            "source_id": 1
+        }
+    ]
+}
