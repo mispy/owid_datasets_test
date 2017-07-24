@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "IHME, GBD",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>Institute for Health Metrics and Evaluation,\n Global Burden of Disease</td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>Global epidemiological research records,\n and national statistics</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://www.healthdata.org/gbd</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>e.g. 2017-04-17</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Age-standardised death rates from air pollution (per 100,000)- IHME GBD SDG indicators",
+            "unit": "",
+            "description": "Age-standardised death rates from air pollution (per 100,000) by country- IHME GBD SDG indicators",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1990-2015",
+            "source_id": 0
+        }
+    ]
+}
