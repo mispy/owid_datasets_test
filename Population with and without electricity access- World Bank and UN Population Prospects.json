@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "Population with and without electricity access- World Bank and UN Population Prospects",
+            "description": "<div class=\"datasource-additional\">\n\t<p>Dataset derived through the combination of percentage electricity access statistics and UN population figures.\n</p>\n<p> The absolute number of people with and without access to electricity was derived by multiplying the percentage of the global population with access to electricity (from World Bank, World Development Indicators) by United Nations figures on global population in any given year.\n</p>\n<p>Access to electricity (%) data was derived from World Bank World Development Indicators (WDI). Available at: http://data.worldbank.org/ [accessed 2017-05-29].\n</p>\n<p> Global population figures were sourced from the United Nations Population Prospects Division. Available at: https://esa.un.org/unpd/wpp/Download/Standard/Population/ [accessed 2017-05-29]\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Number of people with access to electricity",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1990-2014",
+            "source_id": 0
+        },
+        {
+            "name": "Number of people without access to electricity",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1990-2014",
+            "source_id": 0
+        }
+    ]
+}
