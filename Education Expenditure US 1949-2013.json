@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "NCES (2014)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data Source: </td>\r\n\t\t<td>  U.S. Department of Education, National Center for Education Statistics, Digest of Education Statistics (2015)</td>\r\n\t</tr></span></table></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Private Education Expenditure in the US",
+            "unit": "% of GDP",
+            "description": " Expenditures of educational institutions, by control of institution (public and private), expressed as share of GDP",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1949-2014",
+            "source_id": 0
+        },
+        {
+            "name": "Public Education Expenditure in the US",
+            "unit": "% of GDP",
+            "description": " Expenditures of educational institutions, by control of institution (public and private), expressed as share of GDP",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1949-2014",
+            "source_id": 0
+        }
+    ]
+}
