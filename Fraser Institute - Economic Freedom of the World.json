@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Fraser Institute \u2013 Economic Freedom of the World",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data provider</td>\r\n\t\t<td>Fraser Institute<br></td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td><b>Economic Freedom of the World: 2015 Annual Report </b><br></td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>(Chain-Linked) Economic Freedom of the World Summary Index</td>\r\n\t</tr></span><tr><td>Link</td><td>http://www.freetheworld.com/release.html</td></tr><tr><td>Retrieved</td><td>23 January 2016</td></tr></table><div>\r\n\t<h3>Additional information</h3>From the <a href=\"http://www.freetheworld.com/2015/economic-freedom-of-the-world-2015.pdf\" rel=\"nofollow\" target=\"_blank\">2015 report</a>: The cornerstones of economic freedom are (1) personal choice, (2) voluntary exchange coordinated by markets, (3) freedom to enter and compete in markets,<br>and (4) protection of persons and their property from aggression by others.<br>Economic freedom is present when individuals are permitted to choose for themselves and engage in voluntary transactions as long as they do not harm the person or property of others.<br></div><br><br><br><br><br><br></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Fraser Institute \u2013 Economic Freedom of the World",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1970-2013",
+            "source_id": 0
+        }
+    ]
+}
