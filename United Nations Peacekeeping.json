@@ -1,0 +1,56 @@
+{
+    "sources": [
+        {
+            "name": "United Nations Peacekeeping",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>United Nations Peacekeeping</th></tr><tr><td>Data provider</td><td>United Nations</td></tr><tr><td>Source</td><td>United Nations</td></tr><tr><td>Description</td><td>Peacekeeping data from the UN; number of conflicts, size and breakdown&nbsp;of peacekeeping force</td></tr></span><tr><td>Link</td><td>https://www.globalpolicy.org/security-council/peacekeeping/peacekeeping-data.html</td></tr><tr><td>Retrieved</td><td>07/09/2015</td></tr></table><div><h3>Additional information</h3><p>All data is taken&nbsp;directly from the United Nations except for the historical size of the peacekeeping force (1947-1991), which is instead taken from the Global Policy Forum. The data for the&nbsp;size and breakdown of the peacekeeping force&nbsp;for the remaining years is taken as&nbsp;the value reported in the December report&nbsp;at the end of the year&nbsp;(Nov in 1998).</p><table><span><tr><th>Global Policy Forum</th></tr><tr><td>Data provider</td><td>Global Policy Forum</td></tr><tr><td>Source</td><td>United Nations</td></tr><tr><td>Description</td><td>Total size of peacekeeping force</td></tr></span><tr><td>Link</td><td>https://www.globalpolicy.org/security-council/peacekeeping/peacekeeping-data.html</td></tr><tr><td>Retrieved</td><td>07/09/2015</td></tr></table><p></p><div><h3>Additional information</h3><p>Data on the total size of the peacekeeping force for the years 1947 to 1991 is taken&nbsp;from the Global Policy Forum. The source of this data is the United Nations historical reports and can be accessed directly from the United Nations website.</p></div></div><div>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Number of peacekeeping missions",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "World",
+            "timespan": "1947-1991",
+            "source_id": 0
+        },
+        {
+            "name": "Size of total peacekeeping force",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "World",
+            "timespan": "1947-1991",
+            "source_id": 0
+        },
+        {
+            "name": "Civilian police (peacekeepers)",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "World",
+            "timespan": "1947-1991",
+            "source_id": 0
+        },
+        {
+            "name": "Military Observers (peacekeepers)",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "World",
+            "timespan": "1947-1991",
+            "source_id": 0
+        },
+        {
+            "name": "Troops (peacekeepers)",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "World",
+            "timespan": "1947-1991",
+            "source_id": 0
+        }
+    ]
+}
