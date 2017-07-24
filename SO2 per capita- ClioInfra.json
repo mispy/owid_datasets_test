@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "SO2 emissions per capita- ClioInfra",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by ClioInfra</td>\n\t</tr>\n\t\t<tr>\n\t\t<td>Datasets retrieved: April 16, 2017</td>\n\t</tr>\n<tr>\n<td>https://www.clio-infra.eu/</td>\n</tr>\n</table>\n\n<p>\n<div class=\"datasource-additional\">\n</p>\n<p>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "SO2 emissions per capita- ClioInfra",
+            "unit": "tonnes",
+            "description": "SO2 emissions per capita (tonnes per year)- ClioInfra",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1850-2000",
+            "source_id": 0
+        }
+    ]
+}
