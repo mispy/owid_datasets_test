@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "World Bank WDI \u2013 Tax Revenue",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th><br></th></tr><tr><td>Data provider</td>\r\n\t\t<td>World Bank</td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>World Development Indicators (WDI)<br></td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td> Tax revenue (% of GDP)<br></td>\r\n\t</tr></span><tr><td>Link</td><td>  http://databank.worldbank.org/ </td></tr><tr><td>Retrieved</td><td>18 July 2016</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>The World Bank describes the data set as follows: <br></p><div>Tax revenue refers to compulsory transfers to the central government for public purposes. Certain compulsory transfers such as fines, penalties, and most social security contributions are excluded. Refunds and corrections of erroneously collected tax revenue are treated as negative revenue.</div><br></div><br><br><br><br></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Tax Revenue",
+            "unit": "% GDP",
+            "description": "1990-2014",
+            "code": null,
+            "coverage": "Global by country and by world region",
+            "timespan": "2006-2014 (earlier years also available)",
+            "source_id": 0
+        }
+    ]
+}
