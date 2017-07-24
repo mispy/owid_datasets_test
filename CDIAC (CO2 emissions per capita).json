@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "CDIAC (CO2 emissions per capita)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\r\n\t\t<td>CDIAC</td>\r\n\r\n\t</tr><tr><td>Data publisher's source</td>\r\n\r\n\t\t<td><br></td>\r\n\r\n\t</tr></span><tr><td>Link</td><td>http://cdiac.ornl.gov/trends/emis/tre_coun.html</td></tr><tr><td>Retrieved</td><td>25/4/2016</td></tr></table><div>\r\n\r\n\t<h3>Additional information</h3>\r\n\r\n\t<p>China only refers to Mainland China; France is including Monaco.</p>\r\n\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "CDIAC (CO2 emissions per capita)",
+            "unit": "metric tons of carbon per capita",
+            "description": "CO2 emissions per capita",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1950-2013",
+            "source_id": 0
+        }
+    ]
+}
