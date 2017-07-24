@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "People experiencing homelessness in the USA as % of total population - HUD 2016 and U.S. Census Bureau",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>OWID team own calculations based on data from The U.S. Department of Housing and Urban Development (<a href=\"https://www.hudexchange.info/\">HUD Exchange</a>) and the U.S. Census Bureau Population Estimate Programme (<a href=\"https://www.census.gov/programs-surveys/popest.html\">U.S. Census PEP</a>).</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>\n<p>The Annual Homeless Assessment Report (AHAR), <a href=\"https://www.hudexchange.info/resources/documents/2016-AHAR-Part-1.pdf\">HUD report</a> to the U.S. Congress, November 2016.</p>\n<p>The U.S. Census Bureau's Population and Housing Unit Estimates <a href=\"https://www.census.gov/programs-surveys/popest/data/tables.html\">Tables</a>, various years.&nbsp;</p>\n</td>\n</tr>\n<tr>\n<td>Link</td>\n<td>Homelessness:&nbsp;<a href=\"https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/\">https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/</a>; Pop 2011-2016: <a href=\"https://www.census.gov/data/tables/2016/demo/popest/nation-total.html\">https://www.census.gov/data/tables/2016/demo/popest/nation-total.html</a>; Pop 2007-2010: <a href=\"https://www.census.gov/data/tables/time-series/demo/popest/intercensal-2000-2010-national.html\">https://www.census.gov/data/tables/time-series/demo/popest/intercensal-2000-2010-national.html</a></td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2017-02-24</td>\n</tr>\n</tbody>\n</table>\n<div class=\"datasource-additional\">\n<p><strong>Additional info on Homelessness data:</strong></p>\n<p>HUD's description of the report:</p>\n<p>\"The Annual Homeless Assessment Report (AHAR) is a HUD report to the U.S. Congress that provides nationwide estimates of homelessness, including information about the demographic characteristics of homeless persons, service use patterns, and the capacity to house homeless persons. The report is based primarily on Homeless Management Information Systems (HMIS) data about persons who experience homelessness during a 12-month period\".</p>\n<p>All HUD reports are available <a href=\"https://www.hudexchange.info/programs/hdx/guides/ahar/#reports\">here</a>.</p>\n<p>&nbsp;</p>\n<p><strong>Additional info on Population&nbsp;data:</strong></p>\n<p>As explained by their <a href=\"https://www.census.gov/programs-surveys/popest/guidance.html#par_textimage_2\">Guidance for Data</a>: \"the Census Bureau&rsquo;s Population Estimates Program (PEP) releases several different data series over the course of each decade\".&nbsp;</p>\n<p>Total U.S. population figures for the period 2007-2010 are taken from the 'Intercensal Estimates 2000-2010'. Each decade, PEP releases these 'Intercensal Estimates' which constitutes the preferred data series for the decade. &nbsp;</p>\n<p>Total U.S. population figures for the period 2011-2016 are taken from the 'National Population Totals Tables: 2010-2016'. These estimates \"are produced using a similar procedure to that used for our current postcensal estimates series, and with no knowledge of the Census count at the end of the decade.\"</p>\n<p>&nbsp;</p>\n<p><strong>&nbsp;</strong></p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Sheltered Homeless",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Unsheltered Homeless",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
