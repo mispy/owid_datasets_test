@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Solar PV Cumulative Capacity-ITRPV",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>International Technology Roadmap for Photovoltaic (ITRPV) 2016 Results</td>\n\t</tr>\n\t<tr>\n\t\t\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://www.itrpv.net/Reports/Downloads/</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-04-23</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n</br>\nGlobal cumulative installed solar PV capacity provided in megawatts (MW).\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Solar PV Cumulative Capacity-ITRPV",
+            "unit": "megawatts (MW)",
+            "description": "Solar PV Global Cumulative Installed Capacity (MW)- ITRPV",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1976-2016",
+            "source_id": 0
+        }
+    ]
+}
