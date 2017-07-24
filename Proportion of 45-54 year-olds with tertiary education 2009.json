@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "OECD: Education at a Glance 2012",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><p>Education at a Glance: OECD Indicators is the authoritative source for accurate and relevant information on the state of education around the world.</p></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Proportion of 45-54 year-olds with tertiary education 2009",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
