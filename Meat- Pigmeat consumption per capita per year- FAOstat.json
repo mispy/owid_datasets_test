@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Pigmeat consumption per capita per year- FAOstat",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>Food and Agricultural Organization of the United Nations (FAO) </td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>FAO aggregates data from national country statistics, census data and household surveys</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://www.fao.org/faostat/en/#home</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-04-18</td>\n\t</tr>\n</table>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Pigmeat ",
+            "unit": "kilograms per year",
+            "description": "Average pigmeat consumption per capita (kg/year)- FAOstat",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1961-2013",
+            "source_id": 0
+        }
+    ]
+}
