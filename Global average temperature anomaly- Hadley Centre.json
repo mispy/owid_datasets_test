@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Global average temperature anomaly- Hadley Centre",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>Met Office (UK) Hadley Centre </td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>Aggregation of global datasets compiled across scientific and meteorological organisations</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://www.metoffice.gov.uk/hadobs/index.html</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-05-01</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>The temperature anomaly is measured relative to the 1961-1990 global average temperature. Temperatures at this baseline represent an increase of 0.3-0.4 degrees celcius since pre-Industrial (1850) global average temperatures. \n</p>\n<p> The data presented here is a combined land-surface air temperature and sea-surface temperature series. Upper and lower bounds represent the 95% confidence intervals.\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Global average temperature anomaly- Hadley Centre",
+            "unit": "degrees celcius",
+            "description": "Global average (land and sea) temperature anomaly- Hadley Centre",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1948-2017",
+            "source_id": 0
+        }
+    ]
+}
