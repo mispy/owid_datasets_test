@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "CO2 intensity- (kgCO2/2011-$ PPP)- World Bank",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>The World Bank </td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>Carbon Dioxide Information Analysis Center, Environmental Sciences Division, Oak Ridge National Laboratory, Tennessee, United States.</td>\n\t</tr>\n\t<tr>\n\t<td>Link</td>\n\t\t\n<td>http://data.worldbank.org/indicator</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-04-19</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>GDP measured in real 2011 int-$ PPP (Purchasing Power Parity) terms </br>\n\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "CO2 intensity- (kgCO2/2011-$ PPP)- World Bank",
+            "unit": "kgCO2 per 2011 PPP int-$ GDP",
+            "description": "CO2 intensity of economy, given as kilograms CO2 emitted per unit GDP (2011 int-$ PPP)- World Bank",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1990-2013",
+            "source_id": 0
+        }
+    ]
+}
