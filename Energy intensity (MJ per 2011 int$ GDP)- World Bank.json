@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Energy intensity (World Development Indicators)",
+            "description": "<table>\r\n\t<tr>\r\n\t\t<td>Data published by</td>\r\n\t\t<td>World Bank, World Development Indicators (WDI)</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Link</td>\r\n\t\t<td>http://data.worldbank.org/indicator/EG.EGY.PRIM.PP.KD?view=chart</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Retrieved</td>\r\n\t\t<td>2017-05-18</td>\r\n\t</tr>\r\n</table>\r\n<td>Data collated by World Bank from Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking Framework led jointly by the World Bank, International Energy Agency, and the Energy Sector Management Assistance Program.\r\n</td>\r\n<td>\r\nIncome groupings are allocated based on the World Bank's own income country classifications\r\n</td>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Energy intensity (World Bank)",
+            "unit": "MJ per 2011 int-$ GDP",
+            "description": "Energy intensity of production (MJ per 2011 int-$ GDP)",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1990-2014",
+            "source_id": 0
+        }
+    ]
+}
