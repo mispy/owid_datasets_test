@@ -1,0 +1,74 @@
+{
+    "sources": [
+        {
+            "name": "World Development Indicators",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>World Bank</td></tr><tr><td>Data publisher's source</td>\r\n\t\t<td><p>World Health Organization Global Health Expenditure database&nbsp;</p></td></tr></span><tr><td>Link</td><td>world bank databank</td></tr><tr><td>Retrieved</td><td>05/04/2016</td></tr></table><div>\r\n\t<h3><br></h3>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Health Expenditure, Total (WDI)",
+            "unit": "% of GDP",
+            "description": "Health Expenditure",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1995-2013",
+            "source_id": 0
+        },
+        {
+            "name": "World Health Expenditure, Private (WDI)",
+            "unit": "% of GDP",
+            "description": "World Health Expenditure, Private",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1995-2013",
+            "source_id": 0
+        },
+        {
+            "name": "World Health Expenditure, Public (WDI)",
+            "unit": "% of GDP",
+            "description": "World Health Expenditure, Public",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1995-2013",
+            "source_id": 0
+        },
+        {
+            "name": "Health Expenditure, Public Share (WDI)",
+            "unit": "% of total health expenditure",
+            "description": "World Health Expenditure, Public Share",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1995-2013",
+            "source_id": 0
+        },
+        {
+            "name": "Health Expenditure, Out-of-Pocket Share (WDI)",
+            "unit": "% of total expenditure on health",
+            "description": "World Health Expenditure, Public Share",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1995-2013",
+            "source_id": 0
+        },
+        {
+            "name": "Health Expenditure, Public Share (WDI by region)",
+            "unit": "% of total health expenditure",
+            "description": "World Health Expenditure, Public Share",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1995-2013",
+            "source_id": 0
+        },
+        {
+            "name": "Health Expenditure per capita (WDI)",
+            "unit": "PPP (constant 2011 international $)",
+            "description": "Total Health Expenditure per capita PPP (constant 2011 international $) ",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1995-2013",
+            "source_id": 0
+        }
+    ]
+}
