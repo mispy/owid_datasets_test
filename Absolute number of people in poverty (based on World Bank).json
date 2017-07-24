@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "World Bank (Povcal)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><p>Max Roser has calculated the number of people in extreme poverty (living with less than 1.25$ in 2005 International Dollar) based on the World Bank (Povcal data).\r\n\r\nI have downloaded the poverty headcount for each year and multiplied it with the population in each region to arrive at the total number of people in poverty.\r\n\r\nBoth data sets come from Povcal and were downloaded on 1 August 2015. Data is PPP-adjusted and expressed in 2005 International Dollars.</p></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "People in extreme poverty (living with less than 1.25$ in 2005 International Dollar)",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
