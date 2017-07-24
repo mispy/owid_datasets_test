@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Tanzi & Schuktnecht (2000)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data Source: </td>\r\n\t\t<td>Table II.5 in Tanzi, Vito, and Ludger Schuknecht. Public spending in the 20th century: A global perspective. Cambridge University Press, 2000. Page 34.</td>\r\n\t</tr><tr><td>NOTE:</td><td>The underlying sources for Tanzi &amp; Schuktnecht (2000) include:  League of Nations Statistical Yearbook (various years), Mitchell (1962), OECD Education at a Glance (1996), UNESCO World Education Report (1993), UNDP Human Development Report (1996), UN World Economics Survey (various years). To the extent that the authors do not specify which sources were prioritised for each year/country, it is not possible for us to reliably extend the time series with newer data. For instance, the OECD Education at a Glance report (1998), which presents estimates for the years 1990 and 1995, suggests discrepancies with the values reported by Tanzi &amp; Schuktnecht (2000) for 1993.</td>  </tr></span></table></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Public Expenditure on Education",
+            "unit": "percent of GDP",
+            "description": " Public Expenditure on Education (% GDP)",
+            "code": null,
+            "coverage": "Selected OECD countries",
+            "timespan": "1870-1993",
+            "source_id": 0
+        }
+    ]
+}
