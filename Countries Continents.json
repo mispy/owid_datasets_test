@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Our World In Data",
+            "description": "",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Countries Continents",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
