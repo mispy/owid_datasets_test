@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Child Labour (% children recorded as working)",
+            "description": "<table>\r\n\t<p>Data on the incidence of child labour has been collated across four key sources.\r\n</p>\r\n<p> England: Cunningham, H. and Viazzo, P.P. (1996)\r\n</p>\r\n<p> Italy: Tonioli and Vecchi (2007)\r\n</p> \r\n<p> United States: Whaples, Robert (2005)\r\n</p>\r\n<p> World (1950-1995): International Labor Organisation Programme on Estimates and Projections on the Elimination of of Child Labor (ILO-EPEAP). Basu, 1999.\r\n</p>\r\n<p>\r\nWorld (2000-2012): International Labor Organisation Programme on the Elimination of Child Labor (ILO-IPEC). ILO, 2013.\r\n</p>\r\n<p>Incidence of child labour in datasets for England and Italy is based on the percentage of children (aged 10-14) recorded as working at least one hour of work per week (thus defined as \"children in employment\"). Data for the United States is inclusive of 15-year-olds (10-15 years). Figures for the US have been calculated as the weighted-average of gender-specific incidences of labour, based on the male:female ratio (10-14 year-olds) from historical census data.\r\n</p>\r\n<p> Data for the global level is based on the definition of full-time child labour (which excludes children participating in light part-time work). World ILO-EPEAP data from 1950-1995 is based on children aged 10-14. World ILO-IPEC data from 2000-2012 broadens this definition to those aged 5-17. Estimates are based on census and national survey data.\r\n</p>\r\n<p>References:\r\n</p>\r\n<p> Cunningham, H. and Viazzo, P.P. (1996), Child labor in historical perspective, 1800-1985: case studies from Europe, Japan and Colombia, Unicef, Firenze. Available at: http://www.unicef-irc.org/publications/pdf/hisper_childlabour_low.pdf\r\n</p>\r\n<p>Toniolo, G., & Vecchi, G. (2007). Italian Children at Work, 1881\u20141961. Giornale Degli Economisti E Annali Di Economia, 66 (Anno 120)(3), nuova serie, 401-427. Available at: http://www.jstor.org/stable/23248256</p>\r\n<p>Whaples, Robert. \u201cChild Labor in the United States\u201d. EH.Net Encyclopedia, edited by Robert Whaples. October 7, 2005. Available at: http://eh.net/encyclopedia/child-labor-in-the-united-states/\r\n</p>\r\n<p> Historical Statistics of the United States Colonial Times to 1970 (1790-1970). Available at: https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html\r\n</p>\r\n<p>Basu, Kaushik. Child labor: cause, consequence, and cure, with remarks on international labor standards. Journal of Economic literature 37.3 (1999): 1083-1119. Available at: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.25.651&rep=rep1&type=pdf</p>\r\n<p>ILO-IPEC, Marking progress against child labour \u2013 Global estimates and trends 2000-2012 / International Labour Office, International Programme on the Elimination of Child Labour (IPEC) \u2013 Geneva: ILO, 2013. Available at: http://www.ilo.org/wcmsp5/groups/public/---ed_norm/---ipec/documents/publication/wcms_221513.pdf</p>\r\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Child Labour (% children recorded as working)",
+            "unit": "%",
+            "description": "Percentage of children recorded as working",
+            "code": null,
+            "coverage": "England, Italy, US Global",
+            "timespan": "1851-2012",
+            "source_id": 0
+        }
+    ]
+}
