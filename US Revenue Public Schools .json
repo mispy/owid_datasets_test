@@ -1,0 +1,47 @@
+{
+    "sources": [
+        {
+            "name": "U.S. Bureau of the Census and NCES",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n</p><p><b>Revenue Data:</b></p><p>(a) <i>Historical Statistics of the United\r\nStates Colonial Times to 1970</i> (1890-1970)</p>\r\n\r\n<p><span>(b) <i>NCES Digest of Education Statistics\r\n2015</i>  (1970-2010) </span></p>\r\n\r\n<p><b>GDP Data:</b></p>\r\n\r\n<p>(c) <i>Historical Statistics of the United\r\nStates Colonial Times to 1970</i> (1890-1930)</p>\r\n\r\n<p><span>(d)  <i>US\r\nCensus Bureau. Statistical Abstract of the United States: 2012</i> (1930-2010) from </span></p>\r\n\r\n</td></tr></span></table><div>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Total",
+            "unit": "% of GDP",
+            "description": " Revenues\r\nfor public elementary and secondary schools, by source of funds, as share of GDP\r\n\r\n",
+            "code": null,
+            "coverage": "United States",
+            "timespan": " 1890-2010 ",
+            "source_id": 0
+        },
+        {
+            "name": "Federal/Unassigend",
+            "unit": "% of GDP",
+            "description": " Revenues\r\nfor public elementary and secondary schools, by source of funds, as share of GDP\r\n\r\n",
+            "code": null,
+            "coverage": "United States",
+            "timespan": " 1890-2010 ",
+            "source_id": 0
+        },
+        {
+            "name": "State",
+            "unit": "% of GDP",
+            "description": " Revenues\r\nfor public elementary and secondary schools, by source of funds, as share of GDP\r\n\r\n",
+            "code": null,
+            "coverage": "United States",
+            "timespan": " 1890-2010 ",
+            "source_id": 0
+        },
+        {
+            "name": "Local",
+            "unit": "% of GDP",
+            "description": " Revenues\r\nfor public elementary and secondary schools, by source of funds, as share of GDP\r\n\r\n",
+            "code": null,
+            "coverage": "United States",
+            "timespan": " 1890-2010 ",
+            "source_id": 0
+        }
+    ]
+}
