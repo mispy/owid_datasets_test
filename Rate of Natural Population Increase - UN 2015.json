@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Rate of Natural Population Increase \u2013 UN 2015",
+            "description": "<table>\r\n<tbody>\r\n<tr>\r\n<td>Data published by</td>\r\n<td>UN Population Division \u2013 2015 revision</td>\r\n</tr>\r\n<tr>\r\n<td>\u00a0</td>\r\n<td>\u00a0</td>\r\n</tr>\r\n<tr>\r\n<td>Link</td>\r\n<td>https://esa.un.org/unpd/wpp/Download/Standard/Population/</td>\r\n</tr>\r\n<tr>\r\n<td>Retrieved</td>\r\n<td>2016-12-20</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<div class=\"datasource-additional\">\r\n<p>The Rate of Natural Population Increase is the\u00a0crude birth rate minus the crude death rate. Represents the portion of population growth (or decline) determined exclusively by births and deaths.</p>\r\n<p>\u00a0The data refers to the 5 year interval preceding the shown year (e.g. 1955 is '1950 to 1955')</p>\r\n<p>In the original dataset it is\u00a0expressed per 1,000 population annually. Here it is expressed in percentage terms (original value divided by 10).</p>\r\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Rate of Natural Population Increase \u2013 UN 2015",
+            "unit": "%",
+            "description": "1950-2015",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
