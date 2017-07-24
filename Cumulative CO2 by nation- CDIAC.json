@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Cumulative CO2 by nation- CDIAC",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>Carbon Dioxide Information Analysis Centre (CDIAC) </td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>Tom Boden and Bob Andres (Oak Ridge National Laboratory); Gregg Marland (Appalachian State University)</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://cdiac.ornl.gov/</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-04-25</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Data converted from carbon into carbon dioxide (using conversion factor of 3.67). Raw data converted from thousand tonnes to million tonnes. Data for Australia appears to be negative from 1851-1858; for clarity, these figures have been renormalised to zero.\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Cumulative CO2 by nation- CDIAC",
+            "unit": "million tonnes",
+            "description": "Cumulative CO2 by nation (million tonnes) since 1751-CDIAC",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1751-2014",
+            "source_id": 0
+        }
+    ]
+}
