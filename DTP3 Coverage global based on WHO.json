@@ -1,0 +1,38 @@
+{
+    "sources": [
+        {
+            "name": "DTP3 Coverage global based on WHO",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>own calculations based on WHO data and Our World in Data global population series</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>Link</td>\n<td>http://www.who.int/immunization/monitoring_surveillance/data/en/</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2016-12-14</td>\n</tr>\n</tbody>\n</table>\n<div class=\"datasource-additional\">\n<p>The WHO published this data set in the presentation \"The Summary presentation of routine immunization key indicators pptx\"</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Not vaccinated",
+            "unit": "people",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Vaccinated",
+            "unit": "people",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "World Population",
+            "unit": "people",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
