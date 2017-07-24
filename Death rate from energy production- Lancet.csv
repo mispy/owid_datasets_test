@@ -1,0 +1,13 @@
+Entity,Year,Deaths from accidents related to energy production,Deaths from air pollution,Deaths from air pollution and accidents,Equivalent CO2 emissions,Hypothetical number of deaths from energy production
+Coal,2005,0.12,24.5,,,
+Coal,2014,,,24.62,1000,3914580
+Biomass,2005,4.63,,,,
+Biomass,2014,,,4.63,18,736170
+Brown coal,2014,,,32.72,1100,5202480
+Lignite,2005,0.12,32.6,,,
+Gas,2005,0.021,2.8,,,
+Gas,2014,,,2.821,469,448539
+Nuclear,2005,0.022,0.052,,,
+Nuclear,2014,,,0.074,12,11766
+Oil,2005,0.03,18.4,,,
+Oil,2014,,,18.43,840,2930370

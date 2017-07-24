@@ -1,0 +1,56 @@
+{
+    "sources": [
+        {
+            "name": "Death rate from energy production- Lancet",
+            "description": "<div class=\"datasource-additional\">\n\t<p>Data was derived from Table 2 in Markandya, A., & Wilkinson, P. (2007). Electricity generation and health. The Lancet, 370(9591), 979-990. Available at: doi.org/10.1016/S0140-6736(07)61253-7 (accessed 2017-05-05).\n</p>\n<p>\nThis data was originally derived by the authors based on methodology developed by the European Commission's ExternE report.  European Commission. ExternE: Externalities of Energy: Methodology 2005 Update. EUR 21951. Brussels: European Commission, 2005. Available at: https://ec.europa.eu/research/energy/pdf/kina_en.pdf (accessed 2017-05-05)\n</p>\n<p>\nThis data is based on European energy production standards and practices. Data includes both acute and chronic effects (chronic effects account for between 88% and 99% of total deaths). Figures for nuclear include all cancer-related deaths.</p>\n<p>We have estimated the hypothetical number of deaths which would have occurred globally in 2014 if the world's energy demand was met through a given source. This was calculated by multiplying the death rate per energy source by the IEA's estimate of global energy production in 2014 of 159,000TWh (Available at: https://www.iea.org/publications/freepublications/publication/KeyWorld2016.pdf)\n</div>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Deaths from accidents related to energy production",
+            "unit": "deaths per TWh production",
+            "description": "Death rate from accidents related to energy production (cases per TWh)",
+            "code": null,
+            "coverage": "Europe",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Deaths from air pollution",
+            "unit": "deaths per TWh",
+            "description": "Death rate from air pollution related to energy production (cases per TWh)",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Deaths from air pollution and accidents",
+            "unit": "deaths per TWh",
+            "description": "Deaths from air pollution and accidents related to energy production (cases per TWh)",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Equivalent CO2 emissions",
+            "unit": "gCO2/kWh",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Hypothetical number of deaths from energy production",
+            "unit": "deaths per year",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "2014",
+            "source_id": 0
+        }
+    ]
+}
