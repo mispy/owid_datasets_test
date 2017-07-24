@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "Number of people with and without access to improved water sources- World Bank and UN",
+            "description": "<div class=\"datasource-additional\">\n\t<p>Dataset derived through the combination of percentage electricity access statistics and UN population figures.</p>\n<p>\nThe absolute number of people with and without access to improved water sources was derived by multiplying the percentage of the global population with access to improved water sources (from World Bank, World Development Indicators) by United Nations figures on global population in any given year.</p>\n<p>\nAs defined by the World Bank: \"improved drinking water source includes piped water on premises (piped household water connection located inside the user\u2019s dwelling, plot or yard), and other improved drinking water sources (public taps or standpipes, tube wells or boreholes, protected dug wells, protected springs, and rainwater collection).\"</p>\n<p>\nAccess to improved water sources (%) data was derived from World Bank World Development Indicators (WDI). Available at: http://data.worldbank.org/ [accessed 2017-06-12].</p>\n<p>\nGlobal population figures were sourced from the United Nations Population Prospects Division. Available at: https://esa.un.org/unpd/wpp/Download/Standard/Population/ [accessed 2017-06-12]\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Number of people with improved water sources",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1990-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Number of people without improved water sources",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1990-2015",
+            "source_id": 0
+        }
+    ]
+}
