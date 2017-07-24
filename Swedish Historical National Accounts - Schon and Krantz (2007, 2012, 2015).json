@@ -1,0 +1,83 @@
+{
+    "sources": [
+        {
+            "name": "Scho\u0308n and Krantz (2007, 2012, 2015)",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td> <p> (i) Sch\u00f6n, L. & Krantz, O.  (2015), \"New Swedish Historical National Accounts since the 16th Century in Constant and Current Prices.\" Lund Papers in Economic History 140, Lund University. </p>\n<p>(ii) Sch\u00f6n, L. & Krantz, O. (2012), \u201cSwedish Historical National Accounts 1560\u20132010.\u201d Lund Papers in Economic History 123, Lund University.</p> \n<p>(iii) Krantz, O. & Sch\u00f6n, L. (2007), Swedish Historical National Accounts 1800\u20132000, Lund Studies in Economic History 41, Lund.</p></td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td> Various sources (see papers for details)</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>https://www.ekh.lu.se/en/research/economic-history-data/shna</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>12 May 2017</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n<p></p>\n<p> <strong>Additional Information</strong></p>\n\t<p>The source notes: \"One should note that present time levels of GDP and sector value added in these series differ from data in contemporary official national accounts. It is natural that a number of shifts and redefinitions are performed in contemporary statistics in relation to structural and technological changes, but it is also reasonable that\nlevels in the short contemporary series are adjusted to the long historical series rather than the other way around. \"\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Agriculture GDP (SEK, constant prices, 1910/12 price level)",
+            "unit": "Swedish Krona (1910/12 price level) (1910/12 price level)",
+            "description": "Value added by main economic sectors, constant prices (1910/12 price level)",
+            "code": null,
+            "coverage": "Sweden",
+            "timespan": "1800-2010",
+            "source_id": 0
+        },
+        {
+            "name": "Manufacturing & Industry GDP (SEK, constant prices, 1910/12 price level)",
+            "unit": "Swedish Krona (1910/12 price level)",
+            "description": "Value added by main economic sectors, constant prices (1910/12 price level)",
+            "code": null,
+            "coverage": "Sweden",
+            "timespan": "1800-210",
+            "source_id": 0
+        },
+        {
+            "name": "Building & Construction GDP (SEK, constant prices, 1910/12 price level)",
+            "unit": "Swedish Krona (1910/12 price level)",
+            "description": "Value added by main economic sectors, constant prices (1910/12 price level)",
+            "code": null,
+            "coverage": "Sweden",
+            "timespan": "1800-2010",
+            "source_id": 0
+        },
+        {
+            "name": "Transport & Comunications GDP (SEK, constant prices, 1910/12 price level)",
+            "unit": "Swedish Krona (1910/12 price level)",
+            "description": "Value added by main economic sectors, constant prices (1910/12 price level)",
+            "code": null,
+            "coverage": "Sweden",
+            "timespan": "1800-2010",
+            "source_id": 0
+        },
+        {
+            "name": "Private services GDP (SEK, constant prices, 1910/12 price level)",
+            "unit": "",
+            "description": "Value added by main economic sectors, constant prices (1910/12 price level)",
+            "code": null,
+            "coverage": "Sweden",
+            "timespan": "1800-2010",
+            "source_id": 0
+        },
+        {
+            "name": "Public services GDP (SEK, constant prices, 1910/12 price level)",
+            "unit": "Swedish Krona (1910/12 price level)",
+            "description": "Value added by main economic sectors, constant prices (1910/12 price level)",
+            "code": null,
+            "coverage": "Sweden",
+            "timespan": "1800-2010",
+            "source_id": 0
+        },
+        {
+            "name": "Services of dwellings GDP (SEK, constant prices, 1910/12 price level)",
+            "unit": "Swedish Krona (1910/12 price level)",
+            "description": "Value added by main economic sectors, constant prices (1910/12 price level)",
+            "code": null,
+            "coverage": "Sweden",
+            "timespan": "1800-2010",
+            "source_id": 0
+        },
+        {
+            "name": "Labor Productivity (GDP/worker)",
+            "unit": "",
+            "description": "Ratio of value added in agriculture (SEK, constant prices, 1910/12 price level), by number of people employed in agriculture",
+            "code": null,
+            "coverage": "Sweden",
+            "timespan": "1850-2010",
+            "source_id": 0
+        }
+    ]
+}
