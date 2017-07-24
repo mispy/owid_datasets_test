@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Deaths by World Region (WHO)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>World Health Organization -&nbsp;Global Health Observatory</td>\r\n\t</tr><tr><td>Data publisher's source</td>\r\n\t\t<td>&ndash;</td>\r\n\t</tr></span><tr><td>Link</td><td>http://apps.who.int/gho/data/view.main.14117?lang=en</td></tr><tr><td>Retrieved</td><td>14/04/2016</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>The original dataset is published with confidence intervals.</p>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Malaria Deaths by World Region (WHO)",
+            "unit": "",
+            "description": "Absolute number of deaths",
+            "code": null,
+            "coverage": "Global by world region",
+            "timespan": "2000-2015",
+            "source_id": 0
+        }
+    ]
+}
