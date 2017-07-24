@@ -1,0 +1,65 @@
+{
+    "sources": [
+        {
+            "name": "OECD: Education Statistics",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>OECD</td></tr></span><tr><td>Link</td><td>http://www.oecd-ilibrary.org/education/data/education-at-a-glance_eag-data-en</td></tr><tr><td>Retrieved</td><td>29/06/2016</td></tr></table></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Share Public Education Expenditure",
+            "unit": "% Education Expenditure",
+            "description": "Education Finance and Attainment Indicators (as per analysis and definitions in the OECD's\u00a0report\u00a0Education at a Glance)",
+            "code": null,
+            "coverage": "OECD countries",
+            "timespan": "Mainly 2012, but some tables include earlier years",
+            "source_id": 0
+        },
+        {
+            "name": "Private Expenditure on Education",
+            "unit": "% of GDP",
+            "description": "Education Finance and Attainment Indicators (as per analysis and definitions in the OECD's\u00a0report\u00a0Education at a Glance)",
+            "code": null,
+            "coverage": "OECD countries",
+            "timespan": "Mainly 2012, but some tables include earlier years",
+            "source_id": 0
+        },
+        {
+            "name": "Public Expenditure on Education",
+            "unit": "% of GDP",
+            "description": "Education Finance and Attainment Indicators (as per analysis and definitions in the OECD's\u00a0report\u00a0Education at a Glance)",
+            "code": null,
+            "coverage": "OECD countries",
+            "timespan": "Mainly 2012, but some tables include earlier years",
+            "source_id": 0
+        },
+        {
+            "name": "Capital Expnditure",
+            "unit": "% of GDP",
+            "description": "Education Finance and Attainment Indicators (as per analysis and definitions in the OECD's\u00a0report\u00a0Education at a Glance)",
+            "code": null,
+            "coverage": "OECD countries",
+            "timespan": "Comparable tables across each year's report",
+            "source_id": 0
+        },
+        {
+            "name": "Current Expenditure Staff ",
+            "unit": "% of GDP",
+            "description": "Education Finance and Attainment Indicators (as per analysis and definitions in the OECD's\u00a0report\u00a0Education at a Glance)",
+            "code": null,
+            "coverage": "OECD countries",
+            "timespan": "Comparable tables across each year's report",
+            "source_id": 0
+        },
+        {
+            "name": "Current Expenditure Non-staff",
+            "unit": "% of GDP",
+            "description": "Education Finance and Attainment Indicators (as per analysis and definitions in the OECD's\u00a0report\u00a0Education at a Glance)",
+            "code": null,
+            "coverage": "OECD countries",
+            "timespan": "Comparable tables across each year's report",
+            "source_id": 0
+        }
+    ]
+}
