@@ -1,0 +1,38 @@
+{
+    "sources": [
+        {
+            "name": "RAND Database of Worldwide Terrorism Incidents",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>RAND Database of Worldwide Terrorism Incidents<br></th>\r\n\t</tr><tr><td>Data provider</td>\r\n\t\t<td>RAND Corporation</td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>RAND Corporation</td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>Terrorist incidents, city, perpetrators, injuries and fatalities</td>\r\n\t</tr></span><tr><td>Link</td><td>http://www.rand.org/nsrd/projects/terrorism-incidents.html</td></tr><tr><td>Retrieved</td><td>21/09/2015</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>Several changes were made to the coding of terrorist incidents:</p><ul><li>Azores added to Portugal</li><li>Canary Islands added to Spain</li><li>Chechnya added to Russia</li><li>Croatians added to Croatia</li><li>Northern Ireland added to United Kingdom</li><li>Sri Lanka (Ceylon) added to Sri Lanka</li><li>South Vietnam added to Vietnam</li><li>Transkei added to South Africa</li><li>Trucial Oman States added to United Arab Emirates</li><li>Zimbabwe (Rhodesia) added to Zimbabwe</li><li>West Bank/Gaza coded to Palestine</li></ul></div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Count of terrorist incidents",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1968-2009",
+            "source_id": 0
+        },
+        {
+            "name": "Injuries due to terrorism",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1968-2009",
+            "source_id": 0
+        },
+        {
+            "name": "Fatalities due to terrorism",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1968-2009",
+            "source_id": 0
+        }
+    ]
+}
