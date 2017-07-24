@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "IMF Fiscal Affairs Departmental Data, based on Mauro et al. (2015)",
+            "description": "<table>\r\n<tbody>\r\n<tr>\r\n<td>Data published by</td>\r\n<td>\r\n<p class=\"MsoNormal\"><span lang=\"EN-US\">IMF Data, Fiscal Affairs Departmental Data, Public Finances in Modern History</span></p>\r\n<!--EndFragment--></td>\r\n</tr>\r\n<tr>\r\n<td>Data publisher's source</td>\r\n<td>Mauro, P., Romeu, R., Binder, A., & Zaman, A. (2015). A modern history of fiscal prudence and profligacy. Journal of Monetary Economics, 76, 55-70.</td>\r\n</tr>\r\n<tr>\r\n<td>Link</td>\r\n<td>http://www.imf.org/external/datamapper/datasets/FPP/1</td>\r\n</tr>\r\n<tr>\r\n<td>Retrieved</td>\r\n<td>2017-05-15</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<div class=\"datasource-additional\">\r\n<p>Government expenditure estimates correspond to non-interest government expenditures. The authors als note: \"The database covers an unbalanced panel of 55 countries (24 advanced economies\u2014by present day definition from the IMF\u2019s World Economic Outlook classification\u2014and 31 nonadvanced) over 1800\u20132011. The data consist of government revenue, non-interest government expenditure, and the interest bill (and thus also the overall fiscal balance and the primary balance), as well as gross public debt, all expressed as a share of GDP...About half of the observations for the fiscal variables in our dataset are drawn from various cross-country sources, including the IMF\u2019s World Economic Outlook (WEO) and International Financial Statistics (IFS) and the OECD Analytical Database...We hand-collected the other half of the data from country-specific sources, such as official government publications or economic histories that included public finance statistics.\"</p>\r\n<p>IMF data on government expenditure does not include interest paid on debt payments. In order to derive government expenditure with interest paid on debt included, the datasets \"government expenditure, percent of GDP\" and \"interest paid on public debt, percent of GDP\" from the IMF database.</p>\r\n<p> This data is therefore inclusive of interest on debt payments.</p>\r\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Government Expenditure ",
+            "unit": "% of GDP",
+            "description": "",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1800-2011",
+            "source_id": 0
+        }
+    ]
+}
