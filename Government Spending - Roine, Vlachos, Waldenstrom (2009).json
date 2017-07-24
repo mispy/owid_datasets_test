@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Roine, Vlachos, Waldenstr\u00f6m (2009) and US Historical Tables (2016)",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>\n<p>(a) All countries except United States: Roine, J., Vlachos, J., &amp; Waldenstr&ouml;m, D. (2007). What Determines Top Income Shares? Evidence from the Twentieth Century (No. 2007: 17). Stockholm University, Department of Economics.</p>\n<p>(b) United States: United States. Office of Management and Budget.&nbsp;\"Fiscal Year 2017,\" Historical Tables, Budget of the United States Government (February 9, 2016).</p>\n</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>\n<p>(a) Rousseau, Peter and Richard Sylla (2003), &ldquo;Financial Systems, Economic Growth, and Globalization&rdquo;. In Bordo, M., A. Taylor, and J. Williamson, eds., Globalization in Historical Perspective, Chicago: University of Chicago Press for the National Bureau of Economic Research.</p>\n<p>(b) United States: United States. Office of Management and Budget.&nbsp;\"Fiscal Year 2017,\" Historical Tables, Budget of the United States Government (February 9, 2016).</p>\n</td>\n</tr>\n<tr>\n<td>Link</td>\n<td>\n<p>(a) http://www.ifn.se/Wfiles/wp/wp721.pdf</p>\n<p>(b)&nbsp;https://fraser.stlouisfed.org/scribd/?item_id=522154&amp;filepath=/docs/publications/usbhist/BUDGET-2017-TAB.pdf</p>\n</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2016-10-18</td>\n</tr>\n</tbody>\n</table>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Central Gov Expenditure",
+            "unit": "% GDP",
+            "description": "1900-2005",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
