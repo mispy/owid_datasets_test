@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Health expenditure per capita, PPP (World Bank)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data provider</td>\r\n\t\t<td>World Bank</td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>World Development Indicators<br></td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>Health expenditure per capita, PPP (constant 2011 international $)</td>\r\n\t</tr></span><tr><td>Link</td><td>http://data.worldbank.org/indicator/SH.XPD.PCAP.PP.KD</td></tr><tr><td>Retrieved</td><td>23 February 2016</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>The source describes the measure as follows: <br></p><div>Total health expenditure is the sum of public and private health expenditures as a ratio of total population. It covers the provision of health services (preventive and curative), family planning activities, nutrition activities, and emergency aid designated for health but does not include provision of water and sanitation. Data are in international dollars converted using 2011 purchasing power parity (PPP) rates.</div><div>World Health Organization Global Health Expenditure database (see&nbsp;<a href=\"http://apps.who.int/nha/database\" rel=\"nofollow\" target=\"_blank\">http://apps.who.int/nha/database</a>&nbsp;for the most recent updates).</div>\r\n</div><br><br><br></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Health expenditure per capita, PPP (World Bank)",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country and world region",
+            "timespan": "1995-2013",
+            "source_id": 0
+        }
+    ]
+}
