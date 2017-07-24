@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Non-commercial flight distance records",
+            "description": "<div class=\"datasource-additional\">\r\n\t<p>This data has been sourced from the compilation of flight distance records Wiki available at: https://en.wikipedia.org/wiki/Flight_distance_record [accessed 2017-07-11]. References to the individual sources for each record can be found at this link.\r\n</p>\r\n<p>Only non-commercial powered aircraft are included in this dataset, which contains only those flights taken without mid-flight refueling.</p>\r\n<p>Where more than one record was set in any given year, only the highest of the given year has been included here.</p>\r\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Non-Commercial Flight Distance Record (km)",
+            "unit": "kilometres",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1800-2006",
+            "source_id": 0
+        }
+    ]
+}
