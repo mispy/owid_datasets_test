@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "The Conference Board Total Economy Database (2016) GDP per capita",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><b>Description:</b>\r\n<table><span><tr><td>Data published by</td>\r\n<td><p>The Conference Board Total Economy Database (2016)&nbsp;</p></td></tr><tr><td><br></td><td>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p></p></td></tr></span><tr><td>Retrieved</td><td>1 June\u00a02016</td></tr></table><div><p><b>Additional information</b><br></p><p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n</p><p><br></p></div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "The Conference Board Total Economy Database (2016) GDP per capita",
+            "unit": "international dollars (2015 prices)",
+            "description": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nGDP per capita in 2015 US$ (converted to 2015 price level with updated 2011 PPPs)",
+            "code": null,
+            "coverage": "Globally, by country",
+            "timespan": "1950 - 2016",
+            "source_id": 0
+        }
+    ]
+}
