@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "World Health Organization",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data provider</td><td>Gapminder using data from  (i) WHO Violence and Injury Prevention (VIP) and (ii) WHO Global Burden of Disease 2002 and 2004.</td></tr><tr><td>Description</td><td>Age-adjusted suicide rates</td></tr></span><tr><td>Link</td><td>http://spreadsheets.google.com/pub?key=troMumuI0Y6Phpwnj6qXa_A&output=xls</td></tr></table><div>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "female suicide rates for selected countries, 1950-2005",
+            "unit": "suicides per 100,000 people",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "2000-2012",
+            "source_id": 0
+        },
+        {
+            "name": "female suicide rate",
+            "unit": "age-adjusted female suicides per 100,000",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "2000-2012",
+            "source_id": 0
+        }
+    ]
+}
