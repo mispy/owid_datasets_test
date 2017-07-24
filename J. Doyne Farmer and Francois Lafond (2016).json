@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "J. Doyne Farmer and Fran\u00e7ois Lafond (2016)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<table><span><tr><td>This\r\n  dataset is from J. Doyne Farmer and Fran&ccedil;ois Lafond (2016) &ndash; How predictable\r\n  is technological progress?<br>\r\n  In Research Policy Volume 45, Issue 3, April 2016, Pages\r\n  647&ndash;665&nbsp;<a target=\"_blank\" rel=\"nofollow\" href=\"http://www.sciencedirect.com/science/article/pii/S0048733315001699\">http://www.sciencedirect.com/science/article/pii/S0048733315001699</a></td>\r\n\r\n </tr></span><tr><td>Link</td><td>The original research paper is open access available at:\u00a0http://www.sciencedirect.com/science/article/pii/S0048733315001699</td></tr><tr><td>Retrieved</td><td>The authors of the dataset provided the data to Max Roser on 7 July 2016</td></tr></table></td></tr><tr><td>Data publisher's source</td>\r\n\t\t<td></td></tr></span><tr><td>Link</td><td>The original research paper is open access available at:\u00a0http://www.sciencedirect.com/science/article/pii/S0048733315001699</td></tr><tr><td>Retrieved</td><td>The authors of the dataset provided the data to Max Roser on 7 July 2016</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p><br></p>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "J. Doyne Farmer and Fran\u00e7ois Lafond (2016)",
+            "unit": "",
+            "description": "Costs of technologies",
+            "code": null,
+            "coverage": "",
+            "timespan": "1929 to 2013 (very different time span for different technologies)",
+            "source_id": 0
+        }
+    ]
+}
