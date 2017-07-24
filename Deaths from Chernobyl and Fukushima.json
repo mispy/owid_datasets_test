@@ -1,0 +1,56 @@
+{
+    "sources": [
+        {
+            "name": "Deaths from Chernobyl and Fukushima- IAEA, WHO, Greenpeace",
+            "description": "<div class=\"datasource-additional\">\n\t<p>Estimates of the total number of deaths from the Chernobyl and Fukushima nuclear incidents remain contested: we have therefore included lower and upper estimates to cover the range of considered values.\n</p>\n<p>The number of deaths from Chernobyl are based on direct fatalities from the nuclear incident and radiation exposure in close proximities from IAEA/WHO (2005-06). Lower estimates of deaths across the former USSR and Europe from Fairlie and Sumner (2006); and upper estimates from Greenpeace (2005).</p>\n<p>Estimates for Fukushima have been derived from the WHO (2013), and estimated stress-induced deaths in evacuation from the Government of Japan.</p>\n<p>References:</p>\n<p>IAEA, WHO (2005/06). Chernobyl\u2019s Legacy: Health, Environmental and Socio-Economic Impacts. Press release available at: http://www.who.int/mediacentre/news/releases/2005/pr38/en/</p>\n<p>Fairlie and Sumner (2006).  An independent scientific evaluation of health and environmental effects 20 years after the nuclear disaster providing critical analysis of a recent report by the International Atomic Energy Agency (IAEA) and the World Health Organisation (WHO). Available at: http://www.chernobylreport.org/?p=summary</p>\n<p>Greenpeace (2006). The Chernobyl Catastrophe: consequences on human health. Available at: http://www.greenpeace.org/international/Global/international/planet-2/report/2006/4/chernobylhealthreport.pdf</p>\n<p>World Health Organisation (2013). Health risk assessment from the nuclear accident after the 2011 Great East Japan Earthquake and Tsunami based on a preliminary dose estimation. Available at: http://apps.who.int/iris/bitstream/10665/78218/1/9789241505130_eng.pdf</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Mortality from evacuation",
+            "unit": "total deaths over long-run",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Mortality from exposure in proximity",
+            "unit": "total deaths over long-run",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Mortality from low-level exposure",
+            "unit": "total deaths over long-run",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Total number of deaths",
+            "unit": "total deaths over long-run",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Direct fatalities",
+            "unit": "total deaths over long-run",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
