@@ -1,0 +1,65 @@
+{
+    "sources": [
+        {
+            "name": "World Population by Political Regime they live in (by Our World In Data)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><tbody><tr><td><span class=\"datasource-property\"><span class=\"datasource-property\">Data published by</span></span></td>\n<td>Own calculations by Max Roser based on Polity IV data, and data from Wimmer and Min (2006), Gapminder.org, UN Population Division (2015 Rev), and Our World In Data</td>\n</tr><tr><td><span class=\"datasource-property\">Data publisher's source</span></td>\n<td>See the details below</td>\n</tr><tr><td><span class=\"datasource-property\">Calculated by Max Roser</span></td>\n<td>11&nbsp;August 2016</td>\n</tr></tbody><tr><td>Link</td><td>\u00a0</td></tr></table><div class=\"datasource-additional\">\n<p><span style=\"color: #616161; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12.6px; line-height: 20.16px;\">The data on political regimes is taken from the Polity IV dataset</span><span style=\"color: #616161; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12.6px; line-height: 20.16px;\">&nbsp;and I have added the information on colonial regimes absed on Wimmer and Min. </span></p>\n<p><span style=\"color: #616161; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\"><span style=\"font-size: 12.6px; line-height: 20.16px;\">Wimmer and Min (2006) &ndash; &ldquo;From empire to nation-state: Explaining war in the modern world, 1816-2001&rdquo;, American Sociological Review 71(6):867-897, 2006.</span></span></p>\n<p>&nbsp;</p>\n<p><span style=\"color: #616161; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\"><span style=\"font-size: 12.6px; line-height: 20.16px;\">Three changes have been made to the Polity IV measures:</span></span></p>\n<p><span style=\"color: #616161; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\"><span style=\"font-size: 12.6px; line-height: 20.16px;\">*For the period 1937 to 1945 I interpolated for China with -5 (the score in the year before and after). This is the time of the Second Sino-Japanese War (1937&ndash;45).</span></span></p>\n<p>&nbsp;</p>\n<p><span style=\"color: #616161; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\"><span style=\"font-size: 12.6px; line-height: 20.16px;\">* For the years 1861 and 1860 China has no data in Polity IV. Here the score -6 which is the score in the period before and after is assigned. 1861 is the year of the Battle of Shanghai during the Taiping Rebellion.</span></span></p>\n<p>&nbsp;</p>\n<p><span style=\"color: #616161; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\"><span style=\"font-size: 12.6px; line-height: 20.16px;\">* For India the Polity IV has no data for 1947, 1948, and 1949 &ndash; the time of the \"Partition of India\". For the period after the Polity IV score is 9; here this score is used from 1947 (the year of independence from Britain).</span></span></p>\n<p><span style=\"color: #616161; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12.6px; line-height: 20.16px;\">The data on the countries&rsquo; population is taken from Gapminder and for the total world population from Our World In Data.&nbsp;The difference between the total of number of people for which information on the country regime was available and the total world population is reported as \"Country in tranistion or no data\".</span></p>\n<p><span style=\"color: #616161; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12.6px; line-height: 20.16px;\">The missing countries and all observations and regimes for each country over time can be studied directly here:&nbsp;https://ourworldindata.org/grapher/political-regime-updated2016?year=2015</span></p>\n<p>&nbsp;</p>\n<p><span style=\"color: #616161; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\"><span style=\"font-size: 12.6px; line-height: 20.16px;\">Population by country data comes from the following sources:</span></span></p>\n<p><span style=\"color: #616161; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\"><span style=\"font-size: 12.6px; line-height: 20.16px;\">* Before 1950: From Gapminder.org</span></span></p>\n<p><span style=\"color: #616161; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\"><span style=\"font-size: 12.6px; line-height: 20.16px;\">* 1950-2015: UN Population Division (2015 Revision)</span></span></p>\n<p><span style=\"color: #616161; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\"><span style=\"font-size: 12.6px; line-height: 20.16px;\">* 2016 onwards: Medium Variant &ndash; UN Population Division (2015 Revision)</span></span></p>\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Country in Tranistion or No Data",
+            "unit": "People",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Population in Colony",
+            "unit": "People",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Population in Autocracy",
+            "unit": "People",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Population in Closed Anocracy",
+            "unit": "People",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Population in Open Anocracy",
+            "unit": "People",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Population in Democracy",
+            "unit": "People",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
