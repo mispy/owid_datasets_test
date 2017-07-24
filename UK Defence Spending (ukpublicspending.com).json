@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "UK Public Spending (ukpublicspending.co.uk)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>UK Public Spending - Defence</th></tr><tr><td>Data provider</td>\r\n\t\t<td>ukpublicspending.co.uk</td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>International Historical Statistics (Brian Mitchell), Measuring worth (measuringworth.com), Office for Budget Responsibility, and UK Treasury</td></tr><tr><td>Description</td>\r\n\t\t<td>Public spending on defence as a percentage of GDP</td></tr></span><tr><td>Link</td><td>http://www.ukpublicspending.co.uk/uk_defence_spending_30.html</td></tr><tr><td>Retrieved</td><td>10/09/2015</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>Historical data provided by International Historical Statistics (Brian Mitchell) and the Measuring Worth project (measuringworth.com). Recent data comes from official sources (Office for Budget Responsibility and HM Treasury).</p>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Defence spending as a percent of GDP",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "United Kingdom",
+            "timespan": "1692-2014",
+            "source_id": 0
+        }
+    ]
+}
