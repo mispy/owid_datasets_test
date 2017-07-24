@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "OECD Income Distribution Database",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>\n<p class=\"p1\">OECD.Stats</p>\n</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>\n<p class=\"p1\">OECD, Social Protection &amp; Well-Being, Income Distribution Database</p>\n</td>\n</tr>\n<tr>\n<td>Link</td>\n<td>http://stats.oecd.org/Index.aspx?DataSetCode=IDD</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2016-10-26</td>\n</tr>\n</tbody>\n</table>\n<div class=\"datasource-additional\">\n<p>All estimates use the new OECD methodology for calculating incomes, introduced in 2012. The source notes: \"Data calculated according to the new OECD Terms of reference. Compared to previous terms of reference, these include a more detail breakdown of current transfers received and paid by households as well as a revised definition of household income, including the value of goods produced for own consumption as an element of self-employed income.\"</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Gini coefficient (income after taxes and transfers)",
+            "unit": "0-1 scale",
+            "description": "1987-2014",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Gini  coefficient (before taxes and transfers)",
+            "unit": "0-1 scale",
+            "description": "1987-2014",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
