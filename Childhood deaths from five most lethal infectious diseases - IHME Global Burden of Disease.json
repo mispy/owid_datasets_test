@@ -1,0 +1,56 @@
+{
+    "sources": [
+        {
+            "name": "IHME Global Burden of Disease (child deaths by disease)",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>Institute for Health Metrics and Evaluation (IHME). GBD CompareDataVisualization.\n </td>\n\t</tr>\n\t\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://\nvizhub.healthdata.org/gbd-compare.</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-April-13</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>The estimates are calculated and published by the Institute for Health Metrics and Evaluation at the University of Washington. \n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Malaria",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global",
+            "timespan": "1990-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Diarrheal diseases",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global",
+            "timespan": "1990-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Lower respiratory infections",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global",
+            "timespan": "1990-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Measles",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global",
+            "timespan": "1990-2015",
+            "source_id": 0
+        },
+        {
+            "name": "HIV/AIDS",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global",
+            "timespan": "1990-2015",
+            "source_id": 0
+        }
+    ]
+}
