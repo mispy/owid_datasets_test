@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Reynolds (2008)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><tbody><tr><td><span class=\"datasource-property\"><span class=\"datasource-property\">Data published by</span></span></td>\n<td>\n<p class=\"p1\"><span class=\"s1\">Alan Reynolds. \"Marginal Tax Rates.\" <em>The Concise Encyclopedia of Economics.</em> 2008. Library of Economics and Liberty. Retrieved September 22, 2016 from the World Wide Web: http://www.econlib.org/library/Enc/MarginalTaxRates.html</span></p>\n</td>\n</tr><tr><td><span class=\"datasource-property\">Data publisher's source</span></td>\n<td>\n<p class=\"p1\"><span class=\"s1\">PricewaterhouseCoopers; International Bureau of Fiscal Documentation.</span></p>\n</td>\n</tr></tbody><tr><td>Link</td><td>http://www.econlib.org/library/Enc/MarginalTaxRates.html</td></tr><tr><td>Retrieved</td><td>22/09/2016</td></tr></table><div class=\"datasource-additional\">\n<p>&nbsp;</p>\n<table cellspacing=\"0\" cellpadding=\"0\"><tbody><tr><td class=\"td1\" colspan=\"4\" valign=\"top\">\n<p class=\"p1\"><span class=\"s1\">Hong Kong&rsquo;s maximum tax (the &ldquo;standard rate&rdquo;) has normally been 15 percent, effectively capping the marginal rate at high income levels (in exchange for no personal exemptions).</span></p>\n</td>\n</tr><tr><td class=\"td1\" colspan=\"4\" valign=\"top\">\n<p class=\"p1\"><span class=\"s1\">The highest U.S. tax rate of 39.6 percent after 1993 was reduced to 38.6 percent in 2002 and to 35 percent in 2003.</span></p>\n</td>\n</tr></tbody><tr><td>Link</td><td>http://www.econlib.org/library/Enc/MarginalTaxRates.html</td></tr><tr><td>Retrieved</td><td>22/09/2016</td></tr></table></div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Top marginal income tax rate",
+            "unit": "%",
+            "description": "1979; 1990; 2002",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
