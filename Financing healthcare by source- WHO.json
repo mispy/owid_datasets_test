@@ -1,0 +1,47 @@
+{
+    "sources": [
+        {
+            "name": "Financing healthcare by source- WHO",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>WHO Global Health Expenditure Database [online database].\nGeneva: World Health Organization</td>\n\t</tr>\n\t\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://apps.who.int/nha/database/Select/Indicators/en</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-06-20</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Health expenditure totals and sourcing contributions were sourced from the WHO Global Health Expenditure Database.<p>\nData on gross domestic product (GDP) per capita was sourced from the World Bank (World Development Indicators). Available at: http://data.worldbank.org/data-catalog/world-development-indicators (accessed 2017-06-20)\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Total health expenditure per capita",
+            "unit": "2015 US$",
+            "description": "",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "2014",
+            "source_id": 0
+        },
+        {
+            "name": "Out of Pocket Expenditure (OOPS)",
+            "unit": "% of total health expenditure",
+            "description": "",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "2014",
+            "source_id": 0
+        },
+        {
+            "name": "External Resources on Health",
+            "unit": "% of total health expenditure",
+            "description": "",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "2014",
+            "source_id": 0
+        },
+        {
+            "name": "GDP per capita",
+            "unit": "2015 US$",
+            "description": "",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "2014",
+            "source_id": 0
+        }
+    ]
+}
