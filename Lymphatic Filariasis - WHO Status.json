@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "WHO Label (Lymphatic Filariasis data from Enric Jan\u00e9)",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>WHO Label (Lymphatic Filariasis data from Enric Jan\u00e9) </td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td></td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td></td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>provided via email</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "WHO Label (Lymphatic Filariasis data from Enric Jan\u00e9)",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
