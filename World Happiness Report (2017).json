@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "World Happiness Report (2017)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\r\n<html><body><b>Description:</b>\r\n<table><span><tr><td>Data published by</td>\r\n<td>\r\n\r\n<p>World Happiness Report 2017<br></p></td></tr><tr><td>Data publisher's source</td>\r\n<td>\r\n\r\n\r\n\r\n<p>Gallup World Poll surveys (life evaluation question)</p>\r\n\r\n\r\n<p></p></td></tr></span><tr><td>Link</td><td><a href=\"http://worldhappiness.report/wp-content/uploads/sites/2/2017/03/online-data-chapter-2-whr-2017.xlsx\">http://worldhappiness.report/</a>\r\n</td></tr><tr><td>Retrieved</td><td>24 April 2017</td></tr></table>\r\n&nbsp\r\n<div><p><b>Additional information</b><br>\r\n</p><p>Life evaluation was measured by the individual answers to the Cantril ladder question: \u201cPlease imagine a ladder, with steps numbered from 0 at the bottom to 10 at the top. The top of the ladder represents the best possible life for you and the bottom of the ladder represents the worst possible life for you. On which step of the ladder would you say you personally feel you stand at this time?\u201d\u00a0</p>\r\n</div></body></html>\r\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Life satisfaction in Cantril Ladder (World Happiness Report 2017)",
+            "unit": "",
+            "description": "Average of survey responses to the 'Cantril Ladder' question in the Gallup World Poll. The survey question asks respondents to think of a ladder, with the best possible life for them being a 10, and the worst possible life being a 0. ",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "2005-2016",
+            "source_id": 0
+        }
+    ]
+}
