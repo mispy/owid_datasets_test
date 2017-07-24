@@ -1,0 +1,56 @@
+{
+    "sources": [
+        {
+            "name": "United Nations Population Division",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>\r\n<p><b>United Nations Population Division</b></p>\r\n</td>\r\n</tr><tr><td>\r\n<p><b>Data provider</b></p>\r\n</td>\r\n<td>\r\n<p><b>UN Population Division</b></p>\r\n</td>\r\n</tr><tr><td>\r\n<p><b>Source</b></p>\r\n</td>\r\n<td>\r\n<p><b>United Nations</b></p>\r\n</td>\r\n</tr><tr><td>\r\n<p><b>Description</b></p>\r\n</td>\r\n<td>\r\n<p><b>Total population by broad age group, both sexes</b></p>\r\n</td>\r\n</tr></span><tr><td>Link</td><td>\r\nhttp://esa.un.org/unpd/wpp/DVD/\r\n</td></tr><tr><td>Retrieved</td><td>\r\n14/09/2015\r\n</td></tr></table><p><b>Additional information</b></p>\r\n<p><b>The data file used is called &ldquo;Annual Population by Age Groups - Both Sexes&rdquo; on the website given. This original data file divides the population into 5-year age groups. These columns were added together to create the broad age groups in this file.</b></p><div>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "0 to 4",
+            "unit": "people (thousands)",
+            "description": "",
+            "code": null,
+            "coverage": "\r\nGlobal by country\r\n",
+            "timespan": "\r\nestimates: 1950-2015, predictions: 2015-2100\r\n",
+            "source_id": 0
+        },
+        {
+            "name": "5 to 14",
+            "unit": "people (thousands)",
+            "description": "",
+            "code": null,
+            "coverage": "\r\nGlobal by country\r\n",
+            "timespan": "\r\nestimates: 1950-2015, predictions: 2015-2100\r\n",
+            "source_id": 0
+        },
+        {
+            "name": "15 to 24",
+            "unit": "people (thousands)",
+            "description": "",
+            "code": null,
+            "coverage": "\r\nGlobal by country\r\n",
+            "timespan": "\r\nestimates: 1950-2015, predictions: 2015-2100\r\n",
+            "source_id": 0
+        },
+        {
+            "name": "25 to 60",
+            "unit": "people (thousands)",
+            "description": "",
+            "code": null,
+            "coverage": "\r\nGlobal by country\r\n",
+            "timespan": "\r\nestimates: 1950-2015, predictions: 2015-2100\r\n",
+            "source_id": 0
+        },
+        {
+            "name": "70+",
+            "unit": "people (thousands)",
+            "description": "",
+            "code": null,
+            "coverage": "\r\nGlobal by country\r\n",
+            "timespan": "\r\nestimates: 1950-2015, predictions: 2015-2100\r\n",
+            "source_id": 0
+        }
+    ]
+}
