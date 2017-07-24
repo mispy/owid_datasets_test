@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "Trust \u2013 Eurostat",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>EUROSTAT</td></tr></span><tr><td>Link</td><td>http://appsso.eurostat.ec.europa.eu</td></tr><tr><td>Retrieved</td><td>27/07/16</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p> Average rating of trust by domain, sex, age and educational attainment level.  The unit of measure is the average of all individuals' ratings on a scale from 0 (\"not satisfied at all\") to 10 (\"fully satisfied\")</p>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Trust in others",
+            "unit": "",
+            "description": "Trust in others",
+            "code": null,
+            "coverage": "Europe",
+            "timespan": "2013",
+            "source_id": 0
+        },
+        {
+            "name": "Trust in police",
+            "unit": "",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
