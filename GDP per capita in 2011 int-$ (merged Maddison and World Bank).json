@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Our World In Data (based on Maddison Database and World Bank)",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data based on</td>\n\t\t<td>New Maddison Project Database and World Bank</td>\n\t</tr>\n\t<tr>\n\t\t<td>Data constructed by</td>\n\t\t<td>Our World In Data</td>\n\t</tr>\n\t\n\t<tr>\n\t\t<td>Constructed on</td>\n\t\t<td>2017-April-16</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>\nThe data presented here from 1990 onwards is from the World Bank. It is GDP per capita in 2011 international-$ as published here: http://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD (accessed on April 16, 2017).\n</br></br>\nData earlier than 1990 is backwards extended from the World Bank observation for 1990 based on the growth rates implied by Maddison data. The Maddison data is published here: http://www.ggdc.net/maddison/maddison-project/data.htm\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "GDP per capita",
+            "unit": "int.-$",
+            "description": "",
+            "code": null,
+            "coverage": "World and six major economies",
+            "timespan": "1-2015",
+            "source_id": 0
+        }
+    ]
+}
