@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "Pietschnig and Voracek (2015)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>Pietschnig and Voracek (2015)</th></tr><tr><td>Data provider</td><td>Pietschnig and Voracek (2015)</td></tr><tr><td>Source</td><td>Jakob Pietschnig&nbsp;and&nbsp;Martin Voracek<br></td></tr><tr><td>Description</td><td>Changes in fluid, spatial, full-scale, and crystallized IQs for regions and countries</td></tr></span><tr><td>Link</td><td>http://pps.sagepub.com/content/10/3/282.abstract</td></tr><tr><td>Retrieved</td><td>21/07/2015</td></tr></table><div><h3>Additional information</h3><p>The data is not publically available, please contact the authors directly if you would like access to the data.&nbsp;</p><p>Citation:&nbsp;Pietschnig, Jakob, and Martin Voracek. \"One Century of Global IQ Gains A Formal Meta-Analysis of the Flynn Effect (1909&ndash;2013).\"&nbsp;<i>Perspectives on Psychological Science</i>&nbsp;10, no. 3 (2015): 282-306.</p></div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Average IQ change (Pietschnig and Voracek, 2015)",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global, by country and region",
+            "timespan": "1909-2013",
+            "source_id": 0
+        },
+        {
+            "name": "Fullscale IQ change by region 1909-2013 (Pietschnig and Voracek, 2015)",
+            "unit": "IQ points",
+            "description": "",
+            "code": null,
+            "coverage": "Global, by country and region",
+            "timespan": "1909-2013",
+            "source_id": 0
+        }
+    ]
+}
