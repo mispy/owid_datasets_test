@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Eurobarometer (2017)",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>Eurobarometer Interactive </td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td> Public opinion surveys</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td><a href=\"http://ec.europa.eu/commfrontoffice/publicopinion/index.cfm/Chart/index\">http://ec.europa.eu/commfrontoffice/publicopinion/index.cfm/Chart/index</a> </td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td> 25 April 2017</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p> The Eurobarometer provides estimates for dated surveys. In some years, there are some countries with multiple surveys. In those cases, we provide yearly averages.\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Share of people who are happy (Eurobarometer 2017)",
+            "unit": "%",
+            "description": "Share of people who say they are 'very satisfied' or 'fairly satisfied' with their life. Full question asks: \"On the whole are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with the life you lead?\"\n",
+            "code": null,
+            "coverage": "European countries",
+            "timespan": "1973-2016",
+            "source_id": 0
+        }
+    ]
+}
