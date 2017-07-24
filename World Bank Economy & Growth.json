@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "World Bank: Education",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>World Bank Development Indicators</th></tr><tr><td>Data provider</td><td>World Bank EdStats</td></tr><tr><td>Source</td><td>UNESCO Institute for Statistics<br></td></tr><tr><td>Description</td><td>Educational attainment, enrolment&nbsp;and expenditure data</td></tr></span><tr><td>Link</td><td>http://data.worldbank.org/</td></tr><tr><td>Retrieved</td><td>10/08/2015</td></tr></table></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "GDP per capita in current USD, 1960-2014 - World Bank",
+            "unit": "current $",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1980-2014",
+            "source_id": 0
+        }
+    ]
+}
