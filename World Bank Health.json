@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "World Bank (Maternal Mortality)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><p>The UN Maternal Mortality Estimation Inter-agency Group publishes http://www.maternalmortalitydata.org/. These data are published by the World Bank here. http://data.worldbank.org/indicator/SH.STA.MMRT \r\nThese are the data shown here (unchanged).\r\n\r\nAccording to the report the data comes from several sources. In the best cases data from the civil registration systems were used directly to calculate the estimates of maternal mortality rates. When these data were not available two-part multi-level regression model were used to estimate MMRs for all target years. The three selected predictor variables in the regression model are: GDP, the general fertility rate (GFR) and the proportion of skilled attendants at birth.</p></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Maternal Mortality Rate",
+            "unit": "per 100,000 live births",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
