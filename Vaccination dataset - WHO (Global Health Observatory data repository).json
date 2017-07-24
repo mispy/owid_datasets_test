@@ -1,0 +1,119 @@
+{
+    "sources": [
+        {
+            "name": "World Health Organization, Global Health Observatory data repository.",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>World Health Organization. Global Health Observatory data repository </td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>Various. See additional information for the nature of the data sources for each variable.</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td><a href=\"http://apps.who.int/gho/data/node.home\" target=_\"blank\" <em>http://apps.who.int/gho/data/node.home<em> </a></td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>05/05/2017</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p></p>\n<p><strong> Additional information: </strong> </p>\n<p><u>BCG immunization coverage: </u> </p> \n<p>Preferred data sources:  Household surveys. </p>\n<p>More information available at the link:  \n<a Href=\u201dhttp://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=2442\u201d target=\u201d_blank\u201d <em>http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=2442<em></a></p>\n\n<p> <u> Estimated number of deaths due to tuberculosis, excluding HIV: </u></p>\n<p>Preferred data sources: Civil registration with complete coverage and medical certification of cause of death. </p>\n<p>Other possible data sources: Sample or sentinel registration systems, Special studies, and\nSpecific population surveys</p>\n<p>More information on methods of measurement and estimation is available at the link:\n<a Href=\u201dhttp://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=1425\u201d target=\u201dblank\u201d <em>http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=1425</em></a></p>\n\n<p><u>Estimated deaths due to tuberculosis, excluding HIV (per 100 000 population)</u></p>\n<p>Preferred data sources: Civil registration with complete coverage and medical certification of cause of death. </p>\n<p>Other possible data sources: Sample or sentinel registration systems, Special studies, and\nSpecific population surveys </p>\n<p>More information on methods of measurement and estimation is available at the link:  <a href=\u201dhttp://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=17\u201d target=\u201d_blank\u201d <em> http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=17<em> </a></p>\n\n<p><u>DPT3 Immunization coverage: </u><p>Preferred data sources: Facility reporting system, and Household surveys. </p>\n<p>More information on methods of measurement and estimation is available at the link: <a href=\u201d http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=88\u201d target=\u201d_blank\u201d <em> http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=88 </em></a></p>\n\n<p><u> Reported cases of diphtheria: </u></p>\n<p> Confirmed diphtheria cases, including those confirmed clinically, epidemiologically, or by laboratory investigation. Cases that have been discarded following laboratory investigation should not be included.</p>\n<p>Preferred data sources: Surveillance systems.</p>\n<p> More information on methods of measurement and estimation is available at the link: <a href=\u201d http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=43\u201d target=\u201d_blank\u201d <em> http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=43 </em></a></p>\n\n<p><u>Reported cases of total tetanus:</u></p>\n<p>Preferred data sources: Surveillance systems.</p>\n<p>More information is available at the link: <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=48 target=\u201d_blank\u201d <em> http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=48 <em></a></p>\n\n<p><u>Reported cases of pertussis:</u></p>\n<p> Confirmed pertussis cases, including those confirmed clinically, epidemiologically, or by laboratory investigation. Cases that have been discarded following laboratory investigation should not be included. </p>\n<p>Preferred data sources: Surveillance systems.</p>\n<p>More information is available at the link: <a href=\u201d http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=45 \u201c target=\u201d_blank\u201d <em> http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=45 </em> </a> </p>\n\n<p><u>Polio immunization coverage:</u></p>\n<p>Preferred data sources: Facility reporting system, and Household surveys.</p>\n<p>More information on methods of measurement and estimation is available at the link: <a href=\u201d http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=2443\u201c target=\u201d_blank\u201d <em> http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=2443</em> </a> </p>\n\n<p><u>Reported cases of poliomyelitis</u><p>\n<p> Reported cases of laboratory-confirmed polio cases. A polio case is confirmed if wild poliovirus is isolated from stool specimens collected from an Acute flaccid paralysis (AFP) case.</p>\n<p>Preferred data sources: Surveillance systems.</p>\n<p>More information is available at the link: <a href=\u201d http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=51\u201c target=\u201d_blank\u201d <em>http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=51 </em> </a> </p>\n\n<p><u>Measles immunization coverage:</u></p>\n<p> For countries recommending the first dose of measles vaccine in children over 12 months of age, the indicator is calculated as the proportion of children less than 12-23 months of age receiving one dose of measles-containing vaccine. </p>\n<p> Preferred data sources: Facility reporting system, and Household surveys.</p>\n<p>More information on methods of measurement and estimation is available at the link: <a href=\u201d http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=2 \u201c target=\u201d_blank\u201d <em> http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=2 </em> </a> </p>\n\n<p><u>Reported cases of measles:</u></p>\n<p> Confirmed measles cases, including those confirmed clinically, epidemiologically, or by laboratory investigation. Cases that have been discarded following laboratory investigation should not be included. </p>\n<p>Preferred data sources: Surveillance systems.</p>\n<p>More information is available at the link: <a href=\u201d http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=60 \u201c target=\u201d_blank\u201d <em> http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=60 </em> </a> </p>\n\n<p><u>Hepatitis B immunization coverage:</u></p>\n<p> Preferred data sources: Facility reporting system, and Household surveys.</p>\n <p>More information on methods of measurement and estimation is available at the link: <a href=\u201d http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=95 \u201c target=\u201d_blank\u201d <em> http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=95 </em> </a> </p>\n\n\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Reported cases of diphtheria",
+            "unit": "",
+            "description": "Number of reported cases of diphtheria. ",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Estimated number of deaths due to tuberculosis, excluding HIV",
+            "unit": "",
+            "description": "The estimated number of deaths attributable to tuberculosis (TB) in a given year.",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Estimated deaths due to tuberculosis, excluding HIV (per 100 000 population)",
+            "unit": "",
+            "description": "Estimated deaths due to tuberculosis (TB), excluding HIV (per 100 000 population).",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "BCG immunization coverage",
+            "unit": "",
+            "description": "The percentage of one-year-olds who have received one dose of bacille Calmette-Gu\u00e9rin (BCG) vaccine in a given year.",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "DTP3 Immunization coverage",
+            "unit": "",
+            "description": "Diphtheria tetanus toxoid and pertussis (DTP3) immunization coverage among 1-year-olds (%). The percentage of one-year-olds who have received three doses of the combined diphtheria, tetanus toxoid and pertussis vaccine in a given year.",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Reported cases of pertussis",
+            "unit": "",
+            "description": "Number of reported cases of pertussis. ",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Reported cases of total tetanus",
+            "unit": "",
+            "description": "Number of confirmed total tetanus cases.",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Polio immunization coverage",
+            "unit": "",
+            "description": "Polio (Pol3) immunization coverage among 1-year-olds (%). The percentage of one-year-olds who have received three doses of polio vaccine in a given year.",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Reported cases of poliomyelitis",
+            "unit": "",
+            "description": "Number of reported cases of poliomyelitis. ",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Measles immunization coverage",
+            "unit": "",
+            "description": "The percentage of children under one year of age who have received at least one dose of measles-containing vaccine in a given year. ",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Reported cases of measles",
+            "unit": "",
+            "description": "Number of reported cases of measles.",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Hepatitis B immunization coverage",
+            "unit": "",
+            "description": "The percentage of one-year-olds who have received three doses of hepatitis B vaccine in a given year.",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
