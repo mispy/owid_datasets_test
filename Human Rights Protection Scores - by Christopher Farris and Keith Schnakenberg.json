@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Human Rights Protection Scores \u2013 by Christopher Farris and Keith Schnakenberg",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\r\n<html><body><b>Description:</b>\r\n<table><span><tr><td>Data published by</td>\r\n<td>These data were published in the following\u00a0two papers:<br><ul><li><a target=\"_blank\" rel=\"nofollow\" href=\"http://cfariss.com/\">Christopher J. Fariss</a>. 2014.\u00a0<strong><a target=\"_blank\" rel=\"nofollow\" href=\"http://ssrn.com/abstract=2358014\">Respect for Human Rights has Improved Over Time: Modeling the Changing Standard of Accountability</a></strong>.\u00a0<em><a target=\"_blank\" rel=\"nofollow\" href=\"http://journals.cambridge.org/action/displayJournal?jid=PSR\">American Political Science Review</a></em>\u00a0108(2):297-318 (May 2014).</li><ul><li>-\u00a0<a target=\"_blank\" rel=\"nofollow\" href=\"http://cfariss.com/documents/Fariss2014APSR_SupplementaryAppendix.pdf\">Supplementary Materials</a></li></ul><li><a target=\"_blank\" rel=\"nofollow\" href=\"http://keith-schnakenberg.com/\">Keith Schnakenberg</a>\u00a0and\u00a0<a target=\"_blank\" rel=\"nofollow\" href=\"http://cfariss.com/\">Christopher J. Fariss</a>. 2014.\u00a0<strong><a target=\"_blank\" rel=\"nofollow\" href=\"http://cfariss.com/documents/SchnakenbergFariss2014PSRM.pdf\">Dynamic Patterns of Human Rights Practices</a></strong>.\u00a0<em><a target=\"_blank\" rel=\"nofollow\" href=\"http://journals.cambridge.org/action/displayJournal?jid=RAM\">Political Science Research and Methods</a></em>\u00a02(1):1-31 (April 2014).</li></ul><h3></h3><p></p></td></tr></span><tr><td>Link</td><td><strong><a target=\"_blank\" rel=\"nofollow\" href=\"http://humanrightsscores.org/\">humanrightsscores.org</a></strong></td></tr><tr><td>Retrieved</td><td>6 June\u00a02016. Christopher Farris\u00a0kindly\u00a0provided this dataset and shared it with Max Roser via\u00a0email.</td></tr></table><div><p><b>Additional information</b><br></p><p>\r\n\r\n\r\nThe original dataset includes the country ids 666.001, 666.002, and 666.003. These correspond to different human rights reports which were produced for distinct areas in Israel (Israel, pre-1967 borders Israel, occupied territories Palestinian Authority). Because of technical limitations they cannot be shown in these visualisations and shown is only the 'Israel' series.\r\n\r\n\r\n\r\n\r\n</p><p><br></p></div></body></html>\r\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "xHuman Rights Protection Scores \u2013 by Christopher Farris and Keith Schnakenberg",
+            "unit": "",
+            "description": "The estimates represent the relative position of one country-year unit to all others: This means, a zero score represents the average level of observed physical integrity abuses for the entire period (1949-2014). The human rights scores represent standard",
+            "code": null,
+            "coverage": "Globally, by country and world average",
+            "timespan": "1949 - 2014",
+            "source_id": 0
+        }
+    ]
+}
