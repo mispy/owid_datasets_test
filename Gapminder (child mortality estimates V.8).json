@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Gapminder (child mortality estimates version 8)",
+            "description": "<p>&nbsp;</p>\n<p><strong>Description:</strong></p>\n<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>\n<p>Gapminder.org</p>\n</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>Several sources were used:&nbsp;\n<table>\n<tbody>\n<tr>\n<td>CME info estimates</td>\n</tr>\n<tr>\n<td>Human Mortality Database</td>\n</tr>\n<tr>\n<td>Estimated from Gapminder's IMR series.</td>\n</tr>\n<tr>\n<td>Data extrapolated back to 1800 based on Gapminder Life Expectancy combined with model life tables.<br />Particularly, the earlier&nbsp;data for many&nbsp;&nbsp;countries are \"guesstimates\" by the data publishers at Gapminder.org and come with a large uncertainty.&nbsp;</td>\n</tr>\n<tr>\n<td>Link</td>\n<td>http://www.gapminder.org/data/documentation/gd005/</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>22 May 2016</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n<tr>\n<td>Link</td>\n<td>http://www.gapminder.org/data/documentation/gd005/</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>22 May 2016</td>\n</tr>\n</tbody>\n</table>\n<div>\n<table>\n<tbody>\n<tr>\n<td><strong>Additional information</strong></td>\n</tr>\n<tr>\n<td>Link</td>\n<td>http://www.gapminder.org/data/documentation/gd005/</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>22 May 2016</td>\n</tr>\n</tbody>\n</table>\n<table>\n<tbody>\n<tr>\n<td>The probability that a child born in a specific year will die before reaching the age of five if subject to current age-specific mortality rates. Expressed as a rate per 1,000 live births.<br /><br /></td>\n</tr>\n<tr>\n<td>Link</td>\n<td>http://www.gapminder.org/data/documentation/gd005/</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>22 May 2016</td>\n</tr>\n</tbody>\n</table>\n<div>This is&nbsp;Version 8 of the data set&nbsp;uploaded by Gapminder on 2015 October 18</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>The World series for 1800 to 1960 was calculated by Max Roser on the basis of the Gapminder estimates of child mortality and the Gapminder series on population by country. For each estimate in that period a population weighted global average was calculated.</div>\n<div>The recent annual observations of the World series&nbsp;(1960 and later) is taken from the World Bank (http://data.worldbank.org/indicator/SH.DYN.MORT).</div>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Gapminder (child mortality estimates version 8)",
+            "unit": "deaths per 1,000",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1800 to 2015",
+            "source_id": 0
+        }
+    ]
+}
