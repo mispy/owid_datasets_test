@@ -1,0 +1,34 @@
+{
+    "sources": [
+        {
+            "name": " WHO (Disability Adjusted Life Years)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data provider</td>\r\n<td>WHO</td>\r\n</tr><tr><td>Source</td>\r\n<td>The Institute for Health Metrics and Evaluation (IHME)</td>\r\n</tr><tr><td>Description</td>\r\n<td>Age-standardized DALY rates<br></td>\r\n</tr></span><tr><td>Link</td><td>http://apps.who.int/gho/data/node.main.DALYCTRY?lang=en</td></tr><tr><td>Retrieved</td><td>25 January 2015</td></tr></table><div>\r\n\r\n<p><br></p>\r\n</div></body></html>\n",
+            "id": 0
+        },
+        {
+            "name": "Communicable Diseases \u2013 Disability Adjusted Life Years (per 100,000)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><p>ds</p></body></html>\n",
+            "id": 1
+        }
+    ],
+    "variables": [
+        {
+            "name": "All causes Disability Adjusted Life Years",
+            "unit": "per 100,000",
+            "description": "",
+            "code": null,
+            "coverage": "e.g. Global by country",
+            "timespan": "2000 and 2012",
+            "source_id": 0
+        },
+        {
+            "name": "Communicable Diseases \u2013 Disability Adjusted Life Years (WHO)",
+            "unit": "per 100,000",
+            "description": "\r\n<table>\r\n<span><tr>\r\n<td>Data provider</td>\r\n<td>WHO</td>\r\n</tr>\r\n<tr>\r\n<td>Source</td>\r\n<td>The Institute for Health Metrics and Evaluation (IHME)</td>\r\n</tr>\r\n<tr>\r\n<td>Description</td>\r\n<td>Age-standardized DALY rates<br></td>\r\n</tr>\r\n<tr>\r\n<td>Time ",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        }
+    ]
+}
