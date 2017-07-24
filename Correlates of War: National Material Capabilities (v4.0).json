@@ -1,0 +1,70 @@
+{
+    "sources": [
+        {
+            "name": "Correlates of War: National Material Capabilities (v4.0)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>Correlates of War: National Material Capabilities (v4.0)</th></tr><tr><td>Data provider</td>\r\n\t\t<td>Correlates of War</td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>Correlates of War<br></td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>Iron and steel production, military expenditure, military personnel</td>\r\n\t</tr></span><tr><td>Link</td><td>http://cow.dss.ucdavis.edu/data-sets/national-material-capabilities</td></tr><tr><td>Retrieved</td><td>09/09/2015</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>The variable 'milex' has been split&nbsp;into two variables as the currency of expenditure changes pre and post-1914. Pre-1914, military expenditure is in thousands of UK pounds and post-1914 it is in thousands of US dollars. Both expenditure figures are measured in current prices.</p>\r\n</div></body></html>\n",
+            "id": 0
+        },
+        {
+            "name": "Correlates of War: National Material Capabilities (v4.0) + Measuring Worth",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>Measuring Worth</th></tr><tr><td>Data provider</td><td>Quandl</td></tr><tr><td>Source</td><td>Measuring Worth</td></tr><tr><td>Description</td><td>GDP deflator data for UK and US</td></tr></span><tr><td>Link</td><td>http://cow.dss.ucdavis.edu/data-sets/national-material-capabilities</td></tr><tr><td>Retrieved</td><td>09/09/2015</td></tr></table><div><h3><br></h3><table><span><tr><th>Correlates of War: National Material Capabilities (v4.0)</th></tr><tr><td>Data provider</td><td>Correlates of War</td></tr><tr><td>Source</td><td>Correlates of War<br></td></tr><tr><td>Description</td><td>Iron and steel production, military expenditure, military personnel</td></tr></span><tr><td>Link</td><td>http://cow.dss.ucdavis.edu/data-sets/national-material-capabilities</td></tr><tr><td>Retrieved</td><td>09/09/2015</td></tr></table><div></div><h3><br></h3><h3>Additional information</h3><p>Deflated the pre-1914 series to give the value in 1900 UK &pound;s and &nbsp;deflated the post-1914 series to give the value in 2000 US $s.</p></div><div>\r\n</div></body></html>\n",
+            "id": 1
+        }
+    ],
+    "variables": [
+        {
+            "name": "Iron and steel production",
+            "unit": "000s tons",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1816-2007",
+            "source_id": 0
+        },
+        {
+            "name": "Military expenditure (1816-1913, current prices)",
+            "unit": "Current  \u00a3 000s",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1816-2007",
+            "source_id": 0
+        },
+        {
+            "name": "Military expenditure (1914-2007, current prices)",
+            "unit": "Current $ 000s",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1816-2007",
+            "source_id": 0
+        },
+        {
+            "name": "Military personnel",
+            "unit": "000s",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1816-2007",
+            "source_id": 0
+        },
+        {
+            "name": "Military expenditure (1830-1913, real prices)",
+            "unit": "1900 UK \u00a3 000s",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1816-2007",
+            "source_id": 1
+        },
+        {
+            "name": "Military expenditure (1914-2007, real prices)",
+            "unit": "2000 US $ 000s",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1816-2007",
+            "source_id": 1
+        }
+    ]
+}
