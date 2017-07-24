@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Engines of Liberation (research paper)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>Greenwood, Seshadri and Yorukoglu (2005) &ndash; Engines of Liberation</th>\r\n\t</tr><tr><td>Data provider</td>\r\n\t\t<td>Greenwood, Seshadri and Yorukoglu (2005) &ndash; Engines of Liberation</td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>Jeremy Greenwood, Ananth Seshadri and Mehmet Yorukoglu (2005), \"Engines of Liberation,\" Review of Economic Studies, v. 72, n. 1: 109-133.</td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>The diffusion of&nbsp; common electrical appliances\r\nthrough American households over time<br></td>\r\n\t</tr></span><tr><td>Link</td><td>https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemId=127</td></tr><tr><td>Retrieved</td><td>13/10/2015</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<table><tr><td><table><span><tr><td>Abstract of the paper<br></td></tr><tr><td>Electricity was born at the dawn of the last century. Households were inundated with a flood of new consumer durable goods. What was the impact of this consumer durable goods revolution? It is argued here that the consumer goods revolution was conducive to liberating women from the home. To analyze this hypothesis, a Beckerian model of household production is developed. Households must decide whether to adopt the new technologies or not, and whether married woman should work. Can such a model help to explain the rise in married female labor-force participation that occurred in the last century? Yes.</td></tr></span><tr><td>Link</td><td>https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemId=127</td></tr><tr><td>Retrieved</td><td>13/10/2015</td></tr></table></td></tr><tr><td>Link</td><td>https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemId=127</td></tr><tr><td>Retrieved</td><td>13/10/2015</td></tr></table></div><br><br><br><br><br><br></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Diffusion of electrical appliances through the US economy",
+            "unit": "% of households",
+            "description": "",
+            "code": null,
+            "coverage": "USA only",
+            "timespan": "1920-1989",
+            "source_id": 0
+        }
+    ]
+}
