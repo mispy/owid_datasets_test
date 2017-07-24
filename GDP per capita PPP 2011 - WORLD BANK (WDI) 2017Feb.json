@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "GDP per capita PPP 2011 \u2013 WORLD BANK (WDI) 2017Feb",
+            "description": "<table>\r\n<tbody>\r\n<tr>\r\n<td>Data published by</td>\r\n<td>World Bank - World Development Indicator</td>\r\n</tr>\r\n<tr>\r\n<td>Data publisher's source</td>\r\n<td>World Bank and International Comparison Program data</td>\r\n</tr>\r\n<tr>\r\n<td>Link</td>\r\n<td><a href=\"  http://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD?name_desc=false\" target=\"_blank\"><em>http://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD?name_desc=false</em> </a> </td>\r\n</tr>\r\n<tr>\r\n<td>Retrieved</td>\r\n<td>2017-02-02</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<div class=\"datasource-additional\">\r\n<p><strong>Additional information:</strong></p>\r\n<p>Description by the <a href=\"http://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?name_desc=false\">World Bank</a>: \"GDP per capita based on purchasing power parity (PPP). PPP GDP is gross domestic product converted to international dollars using purchasing power parity rates. An international dollar has the same purchasing power over GDP as the U.S. dollar has in the United States. GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in constant 2011 international dollars.</p>\r\n<p>Source:\u00a0World Bank, International Comparison Program database.\"</p>\r\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "GDP per capita, PPP (constant 2011 international $)",
+            "unit": "int-$",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
