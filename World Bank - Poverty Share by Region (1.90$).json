@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "World Bank - Poverty Share by Region (1.90$)",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>\n<p>The World Bank (2016) &ndash; Poverty and Shared Prosperity 2016: Taking on Inequality.</p>\n<p>http://www.worldbank.org/en/publication/poverty-and-shared-prosperity</p>\n</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>Most recent estimates&nbsp;from&nbsp;PovcalNet (online analysis tool) published by the World Bank http://iresearch.worldbank.org/PovcalNet/.</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2016-10-28</td>\n</tr>\n</tbody>\n</table>\n<div class=\"datasource-additional\">&nbsp;</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "World Bank - Poverty Share by Region (1.90$)",
+            "unit": "% in extreme poverty",
+            "description": "1990-2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
