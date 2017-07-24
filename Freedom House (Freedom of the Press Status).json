@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Freedom House (Freedom of the Press Status)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data provider</td>\r\n\t\t<td>Freedom House</td></tr><tr><td>Source</td>\r\n\t\t<td><table><span><tr><td>Freedom of the Press</td></tr><tr></tr></span><tr><td>Link</td><td>https://freedomhouse.org/report-types/freedom-press</td></tr><tr><td>Retrieved</td><td>23 Jan 2016</td></tr></table></td></tr><tr><td>Description</td>\r\n\t\t<td><table><span><tr><td>Status of Freedom of the Press<br></td></tr><tr></tr></span><tr><td>Link</td><td>https://freedomhouse.org/report-types/freedom-press</td></tr><tr><td>Retrieved</td><td>23 Jan 2016</td></tr></table></td></tr></span><tr><td>Link</td><td>https://freedomhouse.org/report-types/freedom-press</td></tr><tr><td>Retrieved</td><td>23 Jan 2016</td></tr></table><div>\r\n\t<p>Additional information<br></p><p>Shown is the status of the Freedom of Press. The original source provides more data on particular aspects and a more fine grained score for recent years.<br>For earlier than 1989 the status refers only to the print category (not the broadcast category).<br>1983 refers to Aug. 1982-Nov. 1983<br>1981 refers to Jan. 1981-Aug. 1982<br><br>Montenegro refers to \"Serbia and Montenegro&rdquo; in the original source<br></p>\r\nThe nominal variable is coded as follows: Not Free is coded as 1500; Partly Free is coded as 2500; Free is coded as 3500.\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Freedom House (Freedom of the Press Status 4)",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1979-2014",
+            "source_id": 0
+        }
+    ]
+}
