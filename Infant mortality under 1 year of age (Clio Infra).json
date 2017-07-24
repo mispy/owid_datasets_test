@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": " \u2018Clio Infra\u2019 Project",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\r\n<html><body><table><span><tr><td>Data provider</td><td>\u2018Clio Infra\u2019 Project</td>\r\n\t</tr><tr><td>Original source</td><td>Various sources are used (well documented online at Clio Infra). The main source is: Aboubarb, M.R. and A.L.. Kimball. \u201cA New Dataset on Infant Mortality Rates, 1816-2002.\u201d Journal of Peace Research 44 (2007):743. This dataset is available for download at prio here (it is called: M. Rodwan Abouharb & Anessa L. Kimball \u2013 A New Dataset on Infant Mortality Rates, 1816-2002).Clio Infra\u2019 Project<br></td>\r\n\t</tr></span><tr><td>Link</td><td>http://www.clio-infra.eu/datasets/indicators</td></tr><tr><td>Retrieved</td><td>18/02/2016</td></tr></table><div>\r\n</div></body></html>\r\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Infant mortality under 1 year of age (Clio Infra)",
+            "unit": "Deaths per 1,000 live births",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1810-2000",
+            "source_id": 0
+        }
+    ]
+}
