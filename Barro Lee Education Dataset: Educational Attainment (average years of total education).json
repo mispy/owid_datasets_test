@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Barro Lee Education Dataset: Educational Attainment (average years of total education)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><b>Description:</b>\r\n<br><table><span><tr><td>Data published by</td>\r\n<td>Data byBarro, Robert and Jong-Wha Lee<br></td><td></td></tr><tr><td><br></td><td><p><br></p></td></tr></span><tr><td>Link</td><td>http://www.barrolee.com/</td></tr><tr><td>Retrieved</td><td>6 June\u00a02016. Christopher Farris\u00a0kindly\u00a0provided this dataset and shared it with Max Roser via\u00a0email.</td></tr></table><div><p><b>Additional information</b><br></p><p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n</p><div><p>Citation:&nbsp;Barro, Robert and Jong-Wha Lee, April 2010,&nbsp;\"A New Data Set of Educational Attainment in the World, 1950-2010.\"<span>&nbsp;<i>Journal of Development Economics</i>, vol 104, pp.184-198.</span></p></div><p>The data is taken from the Barro-Lee Educational Attainment Dataset and is available&nbsp;<a target=\"_blank\" rel=\"nofollow\" href=\"http://www.barrolee.com/\">here</a>. It shows average years of schooling of the population aged 15 and over.<br></p></div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Barro Lee Education Dataset: Educational Attainment (average years of total education)",
+            "unit": "years",
+            "description": "Average Years of Schooling (total)",
+            "code": null,
+            "coverage": "Globally, by country",
+            "timespan": "1950 - 2010",
+            "source_id": 0
+        }
+    ]
+}
