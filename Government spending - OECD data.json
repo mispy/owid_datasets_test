@@ -1,0 +1,137 @@
+{
+    "sources": [
+        {
+            "name": "Government at a Glance \u2013 OECD data",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>OECD</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>Government at a Glance, 2015 edition, public finance and economics indicators</td>\n</tr>\n<tr>\n<td>Link</td>\n<td>http://www.oecd-ilibrary.org/governance/government-at-a-glance-2015_gov_glance-2015-en</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2016-10-19</td>\n</tr>\n</tbody>\n</table>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Total government spending percapita",
+            "unit": "per capita USD PPP",
+            "description": "2009-2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Public Spending - General public services",
+            "unit": "% of Public Spending",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Public Spending - Defence",
+            "unit": "% of Public Spending",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Public Spending - Public order and safety",
+            "unit": "% of Public Spending",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Public Spending - Economic affairs",
+            "unit": "% of Public Spending",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Public Spending - Environmental protection",
+            "unit": "% of Public Spending",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Public Spending - Housing and community amenities",
+            "unit": "% of Public Spending",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Public Spending - Health",
+            "unit": "% of Public Spending",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Public Spending - Recreation, culture and religion",
+            "unit": "% of Public Spending",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Public Spending - Education",
+            "unit": "% of Public Spending",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Public Spending - Social protection",
+            "unit": "% of Public Spending",
+            "description": "2013",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Expenditures on general government outsourcing",
+            "unit": "% GDP",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "General government procurement expenditure (%GDP)",
+            "unit": "% of GDP",
+            "description": "2007-2014",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "General government procurement (% government expenditures)",
+            "unit": "% of government spending",
+            "description": "2007-2014",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
