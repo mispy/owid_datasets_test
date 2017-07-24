@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "Public support and opposition to nuclear energy- Ipsos MORI",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>Ipsos MORI (2011). Global Citizen Reaction to the Fukushima Nuclear Plant Disaster</td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>Ipsos MORI global and national surveys</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>https://www.ipsos.com/ipsos-mori/en-uk/strong-global-opposition-towards-nuclear-power</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-07-17</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>The Ipsos MORI survey was conducted in 24 countries. An international sample of 18,787 adults aged 18-64 in the US and Canada, and age 16-64 in all other countries, were interviewed between May 6 and May 21, 2011 via the Ipsos Online Panel system.\n</p>\n<p>Results presented here are in response to the question: \"Please indicate whether you strongly support, somewhat support, somewhat oppose, or strongly oppose\neach way of producing electricity\" [results for nuclear electricity production].\n<p>Four responses were accepted for this question: \"strongly support\"; \"somewhat support\"; \"somewhat oppose\"; and \"strongly oppose\". We have simplified these results to \"support\" and \"oppose\" by summing the former and latter two responses, respectively.\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Support for nuclear energy",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "2011",
+            "source_id": 0
+        },
+        {
+            "name": "Opposed to nuclear energy",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "2011",
+            "source_id": 0
+        }
+    ]
+}
