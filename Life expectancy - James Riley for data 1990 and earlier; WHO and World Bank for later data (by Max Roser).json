@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Life expectancy \u2013 James Riley for data 1990 and earlier; WHO and World Bank for later data (by Max Roser)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>Data until 1990 are from:&nbsp;\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<table><span><tr><td>James\r\n  C. Riley (2005) &ndash; Estimates of Regional and Global Life Expectancy,\r\n  1800&ndash;2001. Issue Population and Development Review. Population and\r\n  Development Review. Volume 31, Issue 3, pages 537&ndash;543, September 2005.</td>\r\n </tr><tr><td><a target=\"_blank\" rel=\"nofollow\" href=\"http://onlinelibrary.wiley.com/doi/10.1111/j.1728-4457.2005.00083.x/epdf\">http://onlinelibrary.wiley.com/doi/10.1111/j.1728-4457.2005.00083.x/epdf</a></td>\r\n </tr><tr><td><br>Data 2000 and later are from the WHO and World Bank &ndash; assembled by Max Roser<br><br></td>\r\n </tr></span></table></td>\r\n\t</tr><tr><td>Data publisher's source</td>\r\n\t\t<td>Riley&nbsp;drew data&nbsp;from some 700 sources. The estimates along with the sources are presented online at lifetable.de.</td></tr><tr><td><br></td><td></td></tr><tr><td>Data assembled</td>\r\n\t\t<td>13 July 2016<br></td></tr></span></table><div>\r\n\t<p><b>Additional information</b><br></p><p><b>Changes to Riley's data by Max Roser:</b></p><p>I have assigned the 'Life expectancy before health transition' from Riley's data to the year&nbsp;1770 for all world regions. The reason for doing this is that&nbsp;1770 is the earliest available data from his paper and I chose that as the start year for the chart.</p><p>Then I took Riley's estimate for 'Period when earliest health transition in region began' and assigned the 'Life expectancy before health transition' to the mid-point of that period.</p><p>From then on I show Riley's data until 1990 where his dataset ends.</p><p><br></p><p><b>For 2000 and later estimates:</b></p><p>Africa: WHO for world region 'Africa'\t</p><p>Americas: WHO for world region 'Americas'\t</p><p>Asia:&nbsp;World Bank population weighted average of all countries in Riley's definition of Asia <a target=\"_blank\" rel=\"nofollow\" href=\"http://www.lifetable.de/cgi-bin/countryR.plx?c=Asia\">http://www.lifetable.de/cgi-bin/countryR.plx?c=Asia</a>\t</p><p>Former Soviet Union countries: World Bank population weighted average of former Soviet countries (&nbsp;Russian Federation, Ukraine, Republic of Belarus, Republic of Uzbekistan, Republic of Kazakhstan, Georgia, Republic of Azerbaijan, Republic of Lithuania, Republic of Moldova, Republic of Latvia, Kyrgyz Republic, Republic of Tajikistan, Republic of Armenia, Turkmenistan, and Republic of Estonia.)</p><p>Europe: Riley's definition of Europe is this: <a target=\"_blank\" rel=\"nofollow\" href=\"http://www.lifetable.de/cgi-bin/countryR.plx?c=Europe\">http://www.lifetable.de/cgi-bin/countryR.plx?c=Europe</a> The data here is from the World Bank&nbsp;</p><p>World Bank: Population weighted average of all countries in Riley's definition of Oceania&nbsp;<a target=\"_blank\" rel=\"nofollow\" href=\"http://www.lifetable.de/RileyBib.htm\">http://www.lifetable.de/RileyBib.htm</a>)<br></p>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Life expectancy \u2013 James Riley for data 1990 and earlier; WHO and World Bank for later data (by Max Roser)",
+            "unit": "",
+            "description": "Life expectancy at birth",
+            "code": null,
+            "coverage": "Global by world region",
+            "timespan": "1770-2015",
+            "source_id": 0
+        }
+    ]
+}
