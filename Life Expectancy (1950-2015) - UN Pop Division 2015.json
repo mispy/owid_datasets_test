@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Life Expectancy (1950-2015) \u2013 UN Pop Division 2015",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>United Nations Population Division 2015</td>\r\n\t</tr></span><tr><td>Link</td><td>http://esa.un.org/unpd/wpp/Download/Standard/Mortality/</td></tr><tr><td>Retrieved</td><td>29 February 2016</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>The original data refers to intervals of 5 years. Here the data is assigned the last year of that original interval. For example 1955 refers to 1950-1955.<br></p>\r\n</div><br><br></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Life Expectancy (1950-2015) \u2013 UN Pop Division 2015",
+            "unit": "years",
+            "description": "Life Expectancy at birth (both genders)",
+            "code": null,
+            "coverage": "Global by country and word region",
+            "timespan": "1950-2015",
+            "source_id": 0
+        }
+    ]
+}
