@@ -1,0 +1,52 @@
+{
+    "sources": [
+        {
+            "name": "US Current Population Survey",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>U.S. Census Bureau</td></tr><tr><td>Data publisher's source</td>\r\n\t\t<td>Current Population Survey</td></tr><tr><td>Additional information<br></td><td><br></td></tr></span></table><div>\r\n\t<p>Health Insurance plans are not mutually exclusive &ndash; individuals may be simultaneously covered by private and government programs.&nbsp;</p>\r\n\r\n<p>\r\nMeasurement methodology of insurance coverage changed in 1999. For more details see the report Income, Poverty, and Health Insurance Coverage in the United States: 2008, available online at &nbsp;<a target=\"_blank\" rel=\"nofollow\" href=\"https://www.census.gov/prod/2009pubs/p60-236.pdf\">https://www.census.gov/prod/2009pubs/p60-236.pdf</a>&nbsp;\r\n</p>\r\n<p>Data for the period 1987-2008 was taken from the report Income, Poverty, and Health Insurance Coverage in\r\nthe United States: 2008. Data thereafter taken from&nbsp;&nbsp;the&nbsp;&nbsp;Current Population Survey's Annual Social and Economic Supplement available at&nbsp;<a target=\"_blank\" rel=\"nofollow\" href=\"https://www.census.gov/hhes/www/hlthins/data/historical/HIB_tables.html\">https://www.census.gov/hhes/www/hlthins/data/historical/HIB_tables.html</a>&nbsp;</p>\r\n\r\n<div><div><div><p>&nbsp;</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t</div><p><br></p>\r\n</div></body></html>\n",
+            "id": 0
+        },
+        {
+            "name": "Council of Economic Advisers and National Center for Health Statistics",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>(i) 1963-2013,&nbsp;Council of Economic Advisers; <br>(ii) 2014-2015, National Center for Health Statistics</td></tr></span><tr><td>Link</td><td>(i)https://www.whitehouse.gov/sites/default/files/docs/longtermhealthinsuranceseriesmethodologyfinal.pdf.(ii)\u00a0http://www.cdc.gov/nchs/data/nhis/earlyrelease/earlyrelease201605_01.pdf</td></tr><tr><td>Retrieved</td><td>19/07/2016</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>\r\n\t\t\r\n\t\r\n\t\r\n\t\t</p><div>\r\n\t\t\t<div>\r\n\t\t\t\t<div>\r\n\t\t\t\t\t<p>For 1978-2015, both&nbsp;CEA and NCHS&nbsp;relied on historical data from the National Health Interview\r\nSurvey (NHIS). &nbsp;For years prior to 1978&nbsp;CEA estimated the overall\r\nuninsured rate by combining information from the NHIS on trends in private coverage, with administrative data on\r\nMedicare and Medicaid enrollment during those years. See the links above for further details.</p>\r\n\t\t\r\n\t\r\n\t\r\n\t\t<div>\r\n\t\t\t<div>\r\n\t\t\t\t<div>\r\n\t\t\t\t\t<p><span>&nbsp;<br></span></p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t\t\r\n\t\r\n\t\r\n\t\t<div>\r\n\t\t\t<div>\r\n\t\t\t\t<div>\r\n\t\t\t\t\t<p><span>&nbsp;<br></span></p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n</div></body></html>\n",
+            "id": 1
+        }
+    ],
+    "variables": [
+        {
+            "name": "Health Insurance Coverage US, Any Plan",
+            "unit": "%",
+            "description": "Health Insurance Coverage by Type of Plan",
+            "code": null,
+            "coverage": "U.S.",
+            "timespan": "1987-2014",
+            "source_id": 0
+        },
+        {
+            "name": "Health Insurance Coverage US, Govt Plan",
+            "unit": "%",
+            "description": "Health Insurance Coverage by Type of Plan",
+            "code": null,
+            "coverage": "U.S.",
+            "timespan": "1987-2014",
+            "source_id": 0
+        },
+        {
+            "name": "Health Insurance Coverage US, Private Plan",
+            "unit": "%",
+            "description": "Health Insurance Coverage by Type of Plan",
+            "code": null,
+            "coverage": "U.S.",
+            "timespan": "1987-2014",
+            "source_id": 0
+        },
+        {
+            "name": " Percentage of persons without health insurance",
+            "unit": "%",
+            "description": "Percentage of persons without health insurance",
+            "code": null,
+            "coverage": "United States",
+            "timespan": "1963-2015",
+            "source_id": 1
+        }
+    ]
+}
