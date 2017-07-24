@@ -1,0 +1,38 @@
+{
+    "sources": [
+        {
+            "name": "Eisensee and Str\u00f6mberg (2007)",
+            "description": "<table>\r\n\t<tr>\r\n\t\t<td>Data published by</td>\r\n\t\t<td>Eisensee and Str\u00f6mberg (2007)</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Data publisher's source</td>\r\n\t\t<td>The data was produced using disasters identified and documented by the Centre for Research on the Epidemiology of Disasters (CRED) between 1968 - 2002, and coverage in evening news broadcasts of major US networks as recorded by the Vanderbilt News Archives.</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Link</td>\r\n\t\t<td>http://perseus.iies.su.se/~dstro/wpdisasters.pdf</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Retrieved</td>\r\n\t\t<td>2017-06-30</td>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Share in news (Eisensee and Str\u00f6mberg 2007)",
+            "unit": "%",
+            "description": "This data is derived by considering ~5,000 natural disasters occurring between 1968 and 2002 and corresponding news coverage in major US networks.",
+            "code": null,
+            "coverage": "Global",
+            "timespan": "2002",
+            "source_id": 0
+        },
+        {
+            "name": "Fixed effects regression (Eisensee and Str\u00f6mberg 2007)",
+            "unit": "%",
+            "description": "This data is derived by considering ~5,000 natural disasters occurring between 1968 and 2002 and corresponding news coverage in major US networks. Here, it is controlled for the number killed and affected, country, year, and month.",
+            "code": null,
+            "coverage": "Global",
+            "timespan": "2002",
+            "source_id": 0
+        },
+        {
+            "name": "Equal coverage casualties ratio (Eisensee and Str\u00f6mberg 2007)",
+            "unit": "",
+            "description": "The casualties ratio indicates how many casualties would make media coverage equally likely, all else equal (controlling for: the number killed and affected, country, year, and month).",
+            "code": null,
+            "coverage": "Global",
+            "timespan": "2002",
+            "source_id": 0
+        }
+    ]
+}
