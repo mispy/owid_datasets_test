@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Szirmai (2015)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td><span>Table 7.6 from Adam Szirmai, <a target=\"_blank\" rel=\"nofollow\" href=\"http://www.dynamicsofdevelopment.com\">www.dynamicsofdevelopment.com</a>, 2015</span>. </td>\r\n\t</tr><tr><td>Data publisher's source</td>\r\n\t\t<td>Mainly&nbsp;UNESCO, Statistical Yearbooks (further details available from the publisher).</td>\r\n\t</tr><tr><td></td><td><br></td></tr></span><tr><td>Link</td><td>www.dynamicsofdevelopment.com</td></tr></table><div>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Government Education Expenditure 1960-2010",
+            "unit": "",
+            "description": "\u00a0Government expenditure on education as a percentage of GDP per country and region",
+            "code": null,
+            "coverage": "Selected low and middle income\u00a0countries; selected\u00a0regions",
+            "timespan": "\u00a01960-2010",
+            "source_id": 0
+        }
+    ]
+}
