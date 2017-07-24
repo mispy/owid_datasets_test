@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Fossil fuels (% electricity production)- World Bank",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>World Bank- World Development Indicators (WDI) </td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>IEA Statistics \u00a9 OECD/IEA 2014. Available at: http://www.iea.org/stats/index.asp</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://data.worldbank.org/indicator/EG.ELC.FOSL.ZS?view=chart</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-05-18</td>\n\t</tr>\n</table>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Fossil Fuels (% electricity production)",
+            "unit": "% electricity production",
+            "description": "",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1960-2014",
+            "source_id": 0
+        }
+    ]
+}
