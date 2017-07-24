@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Oil prices- BP Statistics",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>BP Statistical Review of World Energy 2016 </td>\n\t</tr>\n\t<tr>\n\t\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-06-03</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>The sources for average prices were as follows:\n</p>\n<p>1861-1944 US Average</p>\n<p>1945-1983 Arabian Light posted at Ras Tanura </p>\n<p>1984-2015 Brent dated</p>\n<p>Prices corrected to 2015 US$ using the Consumer Price Index for the US\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Crude Oil Prices",
+            "unit": "2015 US$ per barrel",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "1861-2015",
+            "source_id": 0
+        }
+    ]
+}
