@@ -1,0 +1,38 @@
+{
+    "sources": [
+        {
+            "name": "Genome Production Costing- GSP",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>National Human Genome Research Institute (NHGRI) Genome Sequencing Program (GSP)</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>https://www.genome.gov/sequencingcostsdata/</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-07-11</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Full reference: Wetterstrand KA. DNA Sequencing Costs: Data from the NHGRI Genome Sequencing Program (GSP) Available at: www.genome.gov/sequencingcostsdata [accessed 2017-07-11].\n<p>The NHGRI programme describe genome sequencing costs relative to two metrics, quoted below: <p>\"(1) \"Cost per Megabase of DNA Sequence\" - the cost of determining one megabase (Mb; a million bases) of DNA sequence of a specified quality;<p> (2) \"Cost per Genome\" - the cost of sequencing a human-sized genome.\"\n</p>\nCost data from the NHGRI is presented either biannually or seasonally for each year. Here we have summarised this data on an annual basis by calculating the yearly average cost.\n<p>The number of DNA base pairs sequenced per US$ was calculated by dividing 1 by the metric, \"Cost per Megabase of DNA Sequence\", and multiplying by 1 million.\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Cost per Mb DNA sequence",
+            "unit": "US$ per megabase",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "2001-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Cost per genome",
+            "unit": "US$",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "2001-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Number of base pairs sequenced per US$",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "global",
+            "timespan": "2001-2015",
+            "source_id": 0
+        }
+    ]
+}
