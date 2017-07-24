@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Medium Projection \u2013 UN Population Division (2015 revision)",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>UN Population Division (2015 revision) Medium Projection</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>The UN Population Division is producing this projection.</td>\n</tr>\n<tr>\n<td>Link</td>\n<td>https://esa.un.org/unpd/wpp/Download/Standard/Population/</td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2016-11-16</td>\n</tr>\n</tbody>\n</table>\n<div class=\"datasource-additional\">\n<p>Total Population - Both Sexes. De facto population in a country, area or region as of 1 July of the year indicated.</p>\n<p>The original dataset was presented in thousands.</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Medium Projection \u2013 UN Population Division (2015 revision)",
+            "unit": "people",
+            "description": "2015-2100",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
