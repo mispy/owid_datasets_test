@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Oil reserves- BP Statistical Review",
+            "description": "<table>\r\n\t<tr>\r\n\t\t<td>Data published by</td>\r\n\t\t<td>BP Statistical Review of World Energy 2016  </td>\r\n\t</tr>\r\n\t<tr>\r\n\t\r\n\t\t<td>Link</td>\r\n\t\t<td>https://www.bp.com/content/dam/bp/pdf/energy-economics/statistical-review-2016/bp-statistical-review-of-world-energy-2016-full-report.pdf</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Retrieved</td>\r\n\t\t<td>2017-05-25</td>\r\n\t</tr>\r\n</table>\r\n<div class=\"datasource-additional\">\r\n\t<p>The definition of 'proven reserves' is taken to be the following:\r\n\"Generally taken to be those quantities that geological and engineering information indicates with reasonable certainty can be recovered in the future from known reservoirs under existing economic and operating conditions. The data series for total proved oil does not necessarily meet the definitions, guidelines and practices used for determining proved reserves at company level, for instance as published by the US Securities and Exchange Commission, nor does it necessarily represent BP\u2019s view of proved reserves by country.\" \r\n</p>\r\n<p> The estimates in this table have been compiled using a combination of primary official sources, third-party data from the OPEC Secretariat, World Oil, Oil & Gas Journal and independent estimates of Russian reserves based on official data and Chinese reserves based on information in the public domain. Canadian oil sands 'under active development' are an official estimate. Venezuelan Orinoco Belt reserves are based on the OPEC Secretariat and government announcements.\r\n</p>\r\n<p>\r\nReserves include gas condensate and natural gas liquids (NGLs) as well as crude oil.</p>\r\n</div>\r\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Oil reserves- BP Statistical Review",
+            "unit": "thousand million barrels",
+            "description": "",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1995-2015",
+            "source_id": 0
+        }
+    ]
+}
