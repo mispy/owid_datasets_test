@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "History Database of the Global Environment (HYDE) and UN projections",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data Source</td>\r\n\t\t<td>History Database of the Global Environment (HYDE) and UN Population Division (2008 Revision) </td></tr><tr><td>Notes:</td>\r\n\t\t<td> \r\n(1) Original HYDE data had millennial observations from 10,000BCE to 0CE; centennial observations from 0-1,700CE; decennial observations from 1700-1950CE; and yearly observations from 1,950-2,000CE. UN projections are also annual. The granularity of these data were reduced to observations (i) every 5,000 years from from 10,000BCE to 0CE; (ii) every 500 years from 0-1,950CE; and (iii) every 5 years thereafter.\r\n(2) Observations for Australia exclude Heard and McDonald Island. \r\n(3) Observations for the United Kingdom exclude the Channel Islands and the Isle of Man. \r\n(4) The original HYDE data had a series for Serbia and Montenegro; this series was dropped and series for the two separate countries were kept (Kosovo included in Serbia).\r\n\r\n</td>\r\n\t</tr><tr><td><br></td><td><br></td></tr></span><tr><td>Link</td><td> HYDE: http://themasites.pbl.nl/tridion/en/themasites/hyde/basicdrivingfactors/population/index-2.html\r\n\r\nUN Population Division: http://esa.un.org/unpd/wpp/DVD/\r\n\r\n</td></tr></table></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Population Density",
+            "unit": "people per sq. km.",
+            "description": "Population Density",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "10000BCE-2000CE plus projections to 2100CE",
+            "source_id": 0
+        }
+    ]
+}
