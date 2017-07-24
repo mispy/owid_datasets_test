@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Sam Peltzman",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><p>Sent to author by Sam Peltzman, who uses this data in his paper &ldquo;Mortality Inequality&rdquo;, Journal of Economic Perspectives 23(4), Fall 2009: 175-190.</p></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "gini coefficients for lifetime inequality",
+            "unit": "percent",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
