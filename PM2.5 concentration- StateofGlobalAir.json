@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "PM2.5 concentration- StateofGlobalAir",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>State of Global Air 2017. HEI, 2017 </td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>Global Burden of Disease Study 2015. IHME, 2016</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>www.stateofglobalair.org</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-04-12</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>Data is gathered based on a combination of air quality observations from satellites combined with information from global chemical transport models, and available ground measurements. Global exposure to PM2.5 is then systematically estimated based on blocks or grid cells covering 0.1\u00b0 x 0.1\u00b0 of longitude and latitude (approximately 11 km x 11 km at the equator).\n</p>\n<p>\nTaking into account the population in each block within a country, this data is then aggregated as estimated exposure concentrations to national-level population-weighted averages for a given year.\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "PM2.5 concentration- StateofGlobalAir",
+            "unit": "micrograms/m3",
+            "description": "Particulate Matter (PM2.5) population-weighted concentration by country (1990-2015)",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1990-2015",
+            "source_id": 0
+        }
+    ]
+}
