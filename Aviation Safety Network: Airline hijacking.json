@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "Aviation Safety Network",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>Aviation Safety Network:&nbsp;Airline hijacking database<br></th>\r\n\t</tr><tr><td>Data provider</td>\r\n\t\t<td>Aviation Safety Network<br></td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>Aviation Safety Network<br></td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>Number of hijackings, fatalities&nbsp;of hijacking</td>\r\n\t</tr></span><tr><td>Link</td><td>http://aviation-safety.net/statistics/period/stats.php?cat=H2</td></tr><tr><td>Retrieved</td><td>21/09/2015</td></tr></table></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Number of airline hijackings",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Worldwide",
+            "timespan": "1942-2014",
+            "source_id": 0
+        },
+        {
+            "name": "Fatalities due to airline hijacking",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Worldwide",
+            "timespan": "1942-2014",
+            "source_id": 0
+        }
+    ]
+}
