@@ -1,0 +1,47 @@
+{
+    "sources": [
+        {
+            "name": "Understanding Children's Work project based on data from ILO, UNICEF and the World Bank",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data provider</td>\r\n\t\t<td>World Bank</td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>Understanding Children's Work</td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>Children in Employment</td>\r\n\t</tr></span><tr><td>Link</td><td>http://data.worldbank.org/indicators</td></tr><tr><td>Retrieved</td><td>04/02/2015</td></tr></table></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Child Labour",
+            "unit": "% of children ages 7-14",
+            "description": "Share of children in employment",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1994-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Child Labour (work only)",
+            "unit": "% of children in employment ages 7-14",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1994-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Child Labour (boys)",
+            "unit": "% of boys ages 7-14",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1994-2015",
+            "source_id": 0
+        },
+        {
+            "name": "Child Labour (girls)",
+            "unit": "% girls ages 7-14",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1994-2015",
+            "source_id": 0
+        }
+    ]
+}
