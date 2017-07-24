@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "World Bank WDI (Trade as share of GDP)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>e.g. Source 1</th>\r\n\t</tr><tr><td>Data provider</td>\r\n\t\t<td>World Bank</td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>World Development Indicators<br></td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td><div>The sum of exports and imports of goods and services measured as a share of gross domestic product.</div></td>\r\n\t</tr></span><tr><td>Link</td><td>http://data.worldbank.org/indicator/NE.TRD.GNFS.ZS</td></tr><tr><td>Retrieved</td><td>5 January 2016</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>The World Bank is using data from the World Bank national accounts data, and OECD National Accounts data files.</p>\r\n</div><br><br><br></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "World Bank WDI (Trade as share of GDP)",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country and by world region",
+            "timespan": "1960-2014",
+            "source_id": 0
+        }
+    ]
+}
