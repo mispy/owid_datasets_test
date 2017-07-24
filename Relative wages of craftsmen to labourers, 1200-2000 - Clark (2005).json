@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "The Condition of the Working Class in England, 1209\u20132004 - Gregory Clark (2005)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><p>Data taken from Table A2. The Condition of the Working Class in England, 1209&ndash;2004. Gregory Clark. Journal of Political Economy, Vol. 113, No. 6 (December 2005), pp. 1307-1340.</p></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Relative wages of craftsmen to labourers, 1200-2000 - Clark (2005)",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
