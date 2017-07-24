@@ -1,0 +1,74 @@
+{
+    "sources": [
+        {
+            "name": "Clark et al. in World Happiness Report (2017)",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td> World Happiness Report</td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td> Various surveys. Specificaly:  USA (BRFSS); Australia (HILDA); Britain (BCS); Indonesia (IFLS)</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td> <a href=\"http://worldhappiness.report/wp-content/uploads/sites/2/2017/03/HR17-Ch5_w-oAppendix.pdf\">http://worldhappiness.report/wp-content/uploads/sites/2/2017/03/HR17-Ch5_w-oAppendix.pdf</a>\n</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>e.g. 2016-02-15</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p> The variables have been dated 2017 in our dataset, in order to be consistent with the date of publication. However, the underlying data comes from various survey waves, varying by country. The <a href=\"http://worldhappiness.report/wp-content/uploads/sites/2/2017/03/HR17-Ch5_w-oAppendix.pdf\">online appendix in the original article</a> provides details regarding actual dates of data collection. \n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Happiness and Log Income (partial correlation)",
+            "unit": "",
+            "description": "Correlation between self-reported life satisfaction and income, after accounting for other variables (years of education, employment, marital status, physical illness, mental illness and gender)",
+            "code": null,
+            "coverage": "Selected countries",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Happiness and Years of education  (partial correlation)",
+            "unit": "",
+            "description": "Correlation between self-reported life satisfaction and education, after accounting for other variables (personal income, employment, marital status, physical illness, mental illness and gender)",
+            "code": null,
+            "coverage": "Selected countries",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Happiness and Not unemployed  (partial correlation)",
+            "unit": "",
+            "description": "Correlation between self-reported life satisfaction and employment status, after accounting for other variables (personal income, education, marital status, physical illness, mental illness and gender)",
+            "code": null,
+            "coverage": "Selected countries",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Happiness and Partnered  (partial correlation)",
+            "unit": "",
+            "description": "Correlation between self-reported life satisfaction and marital status, after accounting for other variables (personal income, education, employment status, physical illness, mental illness and gender)",
+            "code": null,
+            "coverage": "Selected countries",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Happiness and Physical illness  (partial correlation)",
+            "unit": "",
+            "description": "Correlation between self-reported life satisfaction and health status, after accounting for other variables (personal income, education, marital status, employment status, mental illness and gender)",
+            "code": null,
+            "coverage": "Selected countries",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Happiness and Mental illness  (partial correlation)",
+            "unit": "",
+            "description": "Correlation between self-reported life satisfaction and mental illness, after accounting for other variables (personal income, education, marital status, physical illness, employment status and gender)",
+            "code": null,
+            "coverage": "Selected countries",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Happiness and Gender  (partial correlation with 'Female')",
+            "unit": "",
+            "description": "Correlation between self-reported life satisfaction and gender, after accounting for other variables (personal income, education, marital status, employment status, physical illness, mental illness)",
+            "code": null,
+            "coverage": "Selected countries",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}

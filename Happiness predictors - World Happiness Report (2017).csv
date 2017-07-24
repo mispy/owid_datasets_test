@@ -1,0 +1,5 @@
+Entity,Year,Happiness and Log Income (partial correlation),Happiness and Years of education  (partial correlation),Happiness and Not unemployed  (partial correlation),Happiness and Partnered  (partial correlation),Happiness and Physical illness  (partial correlation),Happiness and Mental illness  (partial correlation),Happiness and Gender  (partial correlation with 'Female')
+United Kingdom,2017,0.08,0.03,0.03,0.21,-0.06,-0.11,0.11
+Australia,2017,0.09,-0.03,0.04,0.14,-0.17,-0.18,0.08
+Indonesia,2017,0.18,0.05,0.02,0.04,-0.07,-0.07,0.07
+United States,2017,0.16,0.05,0.05,0.34,-0.05,-0.21,0.08
