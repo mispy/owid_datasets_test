@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Gini Index \u2013 World Bank",
+            "description": "<table>\n<tbody>\n<tr>\n<td>Data published by</td>\n<td>World Bank WDI</td>\n</tr>\n<tr>\n<td>Data publisher's source</td>\n<td>World Bank, Development Research Group.&nbsp;Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments.</td>\n</tr>\n<tr>\n<td>Link</td>\n<td><a href=\"http://data.worldbank.org/indicator/SI.POV.GINI\">http://data.worldbank.org/indicator/SI.POV.GINI</a></td>\n</tr>\n<tr>\n<td>Retrieved</td>\n<td>2016-10-27</td>\n</tr>\n</tbody>\n</table>\n<div class=\"datasource-additional\">\n<p>For more information and methodology, please see PovcalNet ( <a href=\"iresearch.worldbank.org/PovcalNet/index.htm\">iresearch.worldbank.org/PovcalNet/index.htm</a> ).</p>\n<p>It is important to note that the estimates presented here are a mix between income and consumption measures and comparability is therefore limited.</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Gini Index \u2013 World Bank",
+            "unit": "Gini [0 to 100]",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
