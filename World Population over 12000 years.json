@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "World Population over 12000 years (various sources)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Datasets collected by</td>\r\n\t\t<td>The History Database of the Global Environment (HYDE) collected the data by earlier publications. \r\nFor the 'OurWorldInData'-series we used various sources:\r\nThe data for the period before 1900 are taken from the History Database of the Global Environment (HYDE). \r\n\r\nThe data for the World Population between 1900 and 1940 is taken from the UN puplication 'The World at Six Billion'.  \r\n\r\nThe annual data for the World Population between 1950 and 2015 is taken from the UN's World Population Prospects: The 2015 Revision.\r\nIt is the series 'Total Population - Both Sexes' online available here.\r\n\r\n\r\n</td>\r\n\t</tr><tr><td>Data publisher's source</td>\r\n\t\t<td>HYDE aggregated estimates published in earlier publications. The series are named after these publications.</td></tr></span><tr><td>Link</td><td>http://themasites.pbl.nl/tridion/en/themasites/hyde/basicdrivingfactors/population/index-2.html</td></tr><tr><td>Retrieved</td><td>19 May 2016\u00a0</td></tr></table><div>\r\n\t<p><b>Additional information</b><br></p><p>Among others these are the original source:</p><p>McEvedy, Colin and Richard Jones, 1978, &ldquo;Atlas of World Population History,&rdquo; Facts on File, New York, pp. 342-351.</p><p>Biraben, Jean-Noel, 1980, An Essay Concerning Mankind&rsquo;s Evolution, Population, Selected Papers, December, table 2.</p><p>Durand, John D., 1974, &ldquo;Historical Estimates of World Population: An Evaluation,&rdquo; University of Pennsylvania, Population Center, Analytical and Technical Reports, Number 10, table 2.</p><p>Haub, Carl, 1995, &ldquo;How Many People Have Ever Lived on Earth?&rdquo; Population Today, February, p. 5.</p><p>Thomlinson, Ralph, 1975, &ldquo;Demographic Problems, Controversy Over Population Control,&rdquo; Second Edition, Table 1.</p><p>United Nations, 1999, The World at Six Billion, Table 1, &ldquo;World Population From&rdquo; Year 0 to Stabilization, p. 5,<br>U.S. Census Bureau (USCB), 2012, Total Midyear Population for the World: 1950-2050.</p><p>Michael Kremer (1993) &ldquo;Population Growth and Technological Change: One Million B.C. to 1990&rdquo;, Quarterly Journal of Economics., August 1993, pp.681-716.</p>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "World Population over 12000 years",
+            "unit": "people",
+            "description": "Total world population",
+            "code": null,
+            "coverage": "Global",
+            "timespan": "10,000 years BCE to 2015 (plus projections by the UN until 2100)",
+            "source_id": 0
+        }
+    ]
+}
