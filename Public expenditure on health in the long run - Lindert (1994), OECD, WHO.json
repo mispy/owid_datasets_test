@@ -1,0 +1,62 @@
+{
+    "sources": [
+        {
+            "name": "Lindert, (1994)",
+            "description": "<table>\r\n\t<tr>\r\n\t\t<td>Data published by</td>\r\n\t\t<td>Lindert, Peter H. The Rise of Social Spending, 1880-1930. Explorations in Economic History, 1994.   </td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Data publisher's source</td>\r\n\t\t<td>ILO \u201cInternational Survey of Social Services\u201d (1933; 1936); National Statistical Yearkbooks  </td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Link</td>\r\n\t\t<td> <a href=\" http://www.sciencedirect.com/science/article/pii/S0014498384710011\" target=\"_blank\"><em> http://www.sciencedirect.com/science/article/pii/S0014498384710011 </em> </td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Retrieved</td>\r\n\t\t<td>10/04/2017</td>\r\n\t</tr>\r\n</table>\r\n<div class=\"datasource-additional\">\r\n<p> </p>\r\n\t<p><strong> Additional information: </strong>\r\n</p>\r\n<p>Lindert acknowledges difficulties in reconstructing health expenditure data for such old period due to data availability and definitions, and admits that a degree of subjectivity if inevitable. A full discussion on these issue is in Lindert (1994), pp.7-8. </p>\r\n<p>He adopts a definition of Public expenditure on health based on OECD, Social Expenditure 1960-1990, (1985), where it is defined as: 'Expenditure on hospitals, clinics and medical, dental and para-medical practitioners, public health, medicaments, prostheses, medical equipment and applicance or other prescribed health-related products, and applied research and experimental development related to health and medical delivery systems' (p.75). </p>\r\n<p>According to Annex C of OECD (1985), further information are available \"in the 'Instructions and Definitions' which accompany the Government Expenditure Questionnaire completed by Member governments, the response to which provides the basis of the government expenditure accounts included in OECD National Accounts\".\r\n</div>\r\n",
+            "id": 0
+        },
+        {
+            "name": "OECD Health Systems. Facts and trends 1960-1991, (1993)",
+            "description": "<table>\r\n\t<tr>\r\n\t\t<td>Data published by</td>\r\n\t\t<td>OECD Health Systems, facts and trends 1960-1991, Health Policy Studies n\u00b03, 1993   </td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Data publisher's source</td>\r\n\t\t<td>OECD Health Data. Data are collected by the OECD from multiple and independent sources: e.g. social security agencies, central statistical agencies, various ministries, budget services, private insurance associations, non-profit organisations  </td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Worldcat entry</td>\r\n\t\t<td> <a href=\" http://www.worldcat.org/title/oecd-health-systems-1-facts-and-trends-1960-1991/oclc/180660524?referer=di&ht=edition\" target=\"_blank\"><em> http://www.worldcat.org/title/oecd-health-systems-1-facts-and-trends-1960-1991/oclc/180660524?referer=di&ht=edition </em> </td>\r\n\t</tr>\r\n\t</table>\r\n<div class=\"datasource-additional\">\r\n<p></p>\r\n<p><strong> Additional information: </strong></p>\r\n<p>Authors of OECD (1993) admit that \"the challenges faced by a comparative health statisticians are considerable\". In fact, \"The OECD data files were not built from a questionnaire filed out by national administrations but from detailed statistics published in each country, followed by their aggregation to correspond as closely as possible to a 'desired' definition\". More information on these issues is available in Chapter 2 of OECD (1993), vol.I, as well as in Annex 4 of OECD (1993), vol.II. </p>\r\n\r\n<p>A detailed definition of what is considered 'Total expenditure on health' is available in Annex 4, p.89. It comprises: </p>\r\n- Household final consumption on medical care and health expenses including goods and services purchased at the consumers' own initiative. </br>\r\n- Government-supplied health services, including schools, special pulic health programmes (e.g. vaccination campaigns). </br>\r\n- Investment in clinics, laboratories etc. </br>\r\n- Administration costs. </br>\r\n- Research and development, excluding outlays by pharmaceutical firms. </br>\r\n- Industrial medicine. </br>\r\n- Outlays of voluntary organisations, caritative institutions and non-governmental health plans. </br>\r\n</p>\r\n<p>Public expenditure on health is defined as: \"The publicly financed share of Total expenditure on health, public referring to central and local authorities, health boards and social insurance institutions\". </p>\r\n</div>\r\n",
+            "id": 1
+        },
+        {
+            "name": "OECD.stat: Health Expenditure and Financing",
+            "description": "<table>\r\n\t<tr>\r\n\t\t<td>Data published by</td>\r\n\t\t<td> OECD.Stat: Health Expenditure and Financing </td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Data publisher's source</td>\r\n\t\t<td> OECD Health Statistics 2016 </td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Link</td>\r\n\t\t<td><a href=\"http://stats.oecd.org/\" target=\"_blank\"><em> http://stats.oecd.org </em> </td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Retrieved</td>\r\n\t\t<td>11/04/2017 </td>\r\n\t</tr>\r\n</table>\r\n<div class=\"datasource-additional\">\r\n<p></p>\r\n<p> <strong> Additional information: </strong> </p>\r\n<p>\r\nOECD.stat data are put together according to <a href=\"http://www.who.int/health-accounts/methodology/sha2011.pdf\" target=\"_blank\"> <em> A System of Health Accounts (SHA), OECD, Eurostat, WHO (2011) </em> </a> , which provides consistent definitions across countries. \r\nAs explained in SHA 2011, a previous version of SHA (1.0) summed up the two aggregates of \u201ccurrent\r\nexpenditure on health\u201d and \u201cgross capital formation\u201d to arrive at \u201ctotal health expenditure\u201d. However, as stressed by the SHA 2011, \"The distinction between current expenditure on health care goods and services and capital expenditure in health care industries is an important one\": </p> <p>\r\n\"Current expenditure on health care is final consumption expenditure of resident units on health care goods and services\", whereas \"Gross capital formation in the health care system is measured by the total value of the assets that providers of health services have acquired during the accounting period (less the value of the disposals of assets of the same type) and that are used repeatedly or for more than one year in the provision of health services\". \r\n </p>\r\n<p>Additional information on definitions regarding Health Expenditure is available in the \"Health Expenditure Indicator Definitions\" document downloadable here <a href=\"http://apps.who.int/nha/database/DocumentationCentre/Index/en\" target=\"_blank\"><em> here </em></a>.  (http://apps.who.int/nha/database/DocumentationCentre/Index/en). </p>\r\n<p>Additional information on how data for the National Health Accounts are collected, assembled and harmonized is available in the <a href=\"http://www.who.int/health-accounts/methodology/sha2011.pdf\" target=\"_blank\"><em> System of Health Account</em></a>. (http://www.who.int/health-accounts/methodology/sha2011.pdf).</p>\r\n<p>Additional information on OECD Health Statistics 2016: <a href=\"http://www.oecd.org/els/health-systems/Table-of-Content-Metadata-OECD-Health-Statistics-2016.pdf\" target=\"_blank\"><em>OECD Health Statistics 2016, Definitions, Sources, and Methods<em></a>. (http://www.oecd.org/els/health-systems/Table-of-Content-Metadata-OECD-Health-Statistics-2016.pdf).\r\n</div>\r\n",
+            "id": 2
+        },
+        {
+            "name": "World Health Organisation's NHA indicators",
+            "description": "<table>\r\n\t<tr>\r\n\t\t<td>Data published by</td>\r\n\t\t<td> World Health Organisation (WHO). Global Health Expenditure Database (GHED): General government health expenditure (GGHE) </td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Data publisher's source</td>\r\n\t\t<td> WHO updates the data annually, adjusting and estimating the numbers based on publicly available reports (health account reports, reports from the Ministry of Finance, Central Bank, National Statistics Offices, public expenditure information and reports from the World Bank, the International Monetary Fund, etc.) </td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Link</td>\r\n\t\t<td><a href=\" http://apps.who.int/nha/database/Select/Indicators/en\" target=\"_blank\"><em> http://apps.who.int/nha/database/Select/Indicators/en</em> </td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Retrieved</td>\r\n\t\t<td>11/04/2017 </td>\r\n\t</tr>\r\n</table>\r\n<div class=\"datasource-additional\">\r\n<p></p>\r\n\t<p><strong>Additional information: </strong></p>\r\n<p>\r\nGeneral Government Health Expenditure is defined by the  WHO as \"the sum of health outlays paid for in cash or supplied in kind by government entities, such as the Ministry of Health, other ministries, parastatal organizations or social security agencies\r\n(without double counting government transfers to social security and extrabudgetary funds). It includes all expenditure made by these entities, regardless of the source, so includes any donor funding passing through them. It includes transfer payments to households to offset medical care costs and extrabudgetary funds to finance health services and goods. It includes current\r\nand capital expenditure\".\r\n</p>\r\n<p>\r\nTotal expenditure on health is defined by the WHO as \"the sum of all outlays for health maintenance, restoration or enhancement paid for in cash or supplied in kind. It is the sum of General Government Expenditure on Health and Private Expenditure on Health\".</p>\r\n<p>Additional information on definitions regarding Health Expenditure is available in the \"Health Expenditure Indicator Definitions\" document downloadable here <a href=\"http://apps.who.int/nha/database/DocumentationCentre/Index/en\" target=\"_blank\"><em> here </em></a>.  (http://apps.who.int/nha/database/DocumentationCentre/Index/en). </p>\r\n<p>Additional information on how data for the National Health Accounts are collected, assembled and harmonized is available in the <a href=\"http://www.who.int/health-accounts/methodology/sha2011.pdf\" target=\"_blank\"><em> System of Health Account</em></a>. (http://www.who.int/health-accounts/methodology/sha2011.pdf)</p>\r\n</div>\r\n",
+            "id": 3
+        }
+    ],
+    "variables": [
+        {
+            "name": "Public health expenditure as share of GDP - Lindert (1994)",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Public health expenditure as share of GDP - OECD (1993)",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 1
+        },
+        {
+            "name": "Publicly financed current health expenditure (% GDP) - OECD.stat",
+            "unit": "%",
+            "description": "Public current expenditure on health care as percentage of GDP:\nCurrent expenditure = Total Health Expenditure - Capital Expenditure.\nPublic component = Government schemes and compulsory contributory health care financing schemes. ",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 2
+        },
+        {
+            "name": "General Government Health Expenditure (%GDP) - WHO",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 3
+        }
+    ]
+}
