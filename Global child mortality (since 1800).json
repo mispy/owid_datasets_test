@@ -1,0 +1,38 @@
+{
+    "sources": [
+        {
+            "name": "Global child mortality (since 1800) based on Gapminder and World Bank",
+            "description": "<table>\r\n<tbody>\r\n<tr>\r\n<td>Data published by</td>\r\n<td>\r\n<div style=\"box-sizing: inherit; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14.4px;\">The World series for 1800 to 1960 was calculated by Max Roser on the basis of the Gapminder estimates of child mortality and the Gapminder series on population by country. For each estimate in that period a population weighted global average was calculated.</div>\r\n<div style=\"box-sizing: inherit; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14.4px;\">The recent annual observations of the World series\u00a0(1960 and later) is taken from the World Bank (http://data.worldbank.org/indicator/SH.DYN.MORT).</div>\r\n</td>\r\n\r\n<tr>\r\n<td>Calculated</td>\r\n<td>2016-12-13</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n\r\n<div class=\"datasource-additional\">\r\n<p>More about the Gapminder estimates can be found here:\u00a0<span style=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14.4px;\">http://www.gapminder.org/data/documentation/gd005/</span></p>\r\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Global child mortality (since 1800)",
+            "unit": "%",
+            "description": "1800-2015",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Share dying in first 5 years",
+            "unit": "%",
+            "description": "1800-2015",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Share surviving first 5 years of life",
+            "unit": "%",
+            "description": "1800-2015",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
