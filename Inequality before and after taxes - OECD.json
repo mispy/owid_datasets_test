@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "OECD (2008)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><tbody><tr><td><span class=\"datasource-property\"><span class=\"datasource-property\">Data published by</span></span></td>\n<td>\n<p class=\"p1\">OECD. (2008).&nbsp;Growing unequal?: Income distribution and poverty in OECD countries.</p>\n</td>\n</tr><tr><td><span class=\"datasource-property\">Data publisher's source</span></td>\n<td>\n<p class=\"p1\">OECD Income distribution questionnaire.</p>\n</td>\n</tr></tbody><tr><td>Link</td><td>http://www.oecd.org/els/soc/growingunequalincomedistributionandpovertyinoecdcountries.htm</td></tr><tr><td>Retrieved</td><td>26/09/2016</td></tr></table><div class=\"datasource-additional\">\n<p>Inequality before and after taxes measured with the Gini index.&nbsp;</p>\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Percentage reduction in Gini",
+            "unit": "%",
+            "description": "2005",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
