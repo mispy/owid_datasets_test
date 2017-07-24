@@ -1,0 +1,38 @@
+{
+    "sources": [
+        {
+            "name": "Wallis (2000)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><tbody><tr><td><span class=\"datasource-property\"><span class=\"datasource-property\">Data published by</span></span></td>\n<td>\n<p class=\"p1\"><span class=\"s1\">Wallis, J. J. (2000). American government finance in the long run: 1790 to 1990. <em>The Journal of Economic Perspectives</em>, <em>14</em>(1), 61-82.</span></p>\n</td>\n</tr><tr><td><span class=\"datasource-property\">Data publisher's source</span></td>\n<td>Various sources (see notes below)</td>\n</tr></tbody><tr><td>Link</td><td>http://www.jstor.org/stable/2647051</td></tr><tr><td>Retrieved</td><td>20/09/2016</td></tr></table><div class=\"datasource-additional\">\n<p>Source notes: Data after 1902 taken from Department of Commerce (1975, 1985, 1997) and Advisory on Intergovernmental Relations (1994). State revenues 1800 to 1900, data collected by Sylla, Legler, and Wallis. Local revenues 1840 to 1890, Legler, Sylla, and Wallis (1988). GNP from Gallman (1966), up to 1860; remaining years up to 1929 from Balke and Gordon (1989).</p>\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "National Gov Revenues",
+            "unit": "% of GNP",
+            "description": "1902-1992",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "State Gov Revenues",
+            "unit": "% GNP",
+            "description": "1902-1992",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        },
+        {
+            "name": "Local Gov Revenues",
+            "unit": "% GNP",
+            "description": "1902-1992",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
