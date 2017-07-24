@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "CO2 Footprint Breakdown Per Capita- Goodall",
+            "description": "<table>\r\n\t<tr>\r\n\t\t<td>Data published by</td>\r\n\t\t<td>Goodall, C. (2011) How to live a low-carbon life: the individual's guide to stopping climate change. Earthscan. ix + 319pp. ISBN 978 1 84407 426 6</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Data publisher's source</td>\r\n\t\t<td>Data was aggregated across a range of national statistical reports, international energy agency, transport and trade data.</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t\r\n\t</tr>\r\n</table>\r\n<div class=\"datasource-additional\">\r\n\t<p>The data sourced from Chris Goodall's book is representative of the composition of the average carbon footprint in the United Kingdom at the time of writing (reprinted in 2011). Significant variability between individual lifestyles in the UK, and across comparable high-income countries is to be expected. This breakdown does not include estimates of per capita contribution to national services, manufacturing and infrastructure; Goodall estimated this additional component to comprise approximately 35% of an individual's footprint. \r\n</p>\r\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "CO2 Footprint Breakdown Per Capita- Goodall",
+            "unit": "",
+            "description": "Breakdown of average CO2 footprint of high-income countries- Goodall",
+            "code": null,
+            "coverage": "",
+            "timespan": "2011",
+            "source_id": 0
+        }
+    ]
+}
