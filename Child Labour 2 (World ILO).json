@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "ILO - Marking Progress Against Child Labour",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data provider</td><td>ILO</td></tr><tr><td>Description</td><td>Share of children aged 7-14 involved in economic activity for at least one hour in the reference week of the corresponding survey (irrespective of school attendance)</td></tr></span></table><div>\r\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Child Labour 2 (World ILO)",
+            "unit": "% children aged 5-14",
+            "description": "",
+            "code": null,
+            "coverage": "Global",
+            "timespan": "2000-2012",
+            "source_id": 0
+        }
+    ]
+}
