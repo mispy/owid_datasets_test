@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "World Development Indicators \u2013 Depth of the food deficit",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><tbody><tr><td><span class=\"datasource-property\"><span class=\"datasource-property\">Data published by</span></span></td>\n<td>World Bank WDI</td>\n</tr><tr><td><span class=\"datasource-property\">Data publisher's source</span></td>\n<td>Food and Agriculture Organization, Food Security Statistics.</td>\n</tr></tbody><tr><td>Link</td><td>http://data.worldbank.org/indicator/SN.ITK.DFCT</td></tr><tr><td>Retrieved</td><td>11/08/2016</td></tr></table><div class=\"datasource-additional\">\n<p>&nbsp;</p>\n<table style=\"border-collapse: collapse; width: 1530pt;\" border=\"0\" width=\"1530\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 65280; width: 1530pt;\" width=\"1530\"></colgroup><tbody><tr style=\"height: 14.0pt;\"><!--StartFragment--><td style=\"height: 14.0pt; width: 1530pt;\" width=\"1530\" height=\"14\">The depth of the food deficit indicates how many calories would be needed to lift the undernourished from their status, everything else being constant. The average intensity of food deprivation of the undernourished, estimated as the difference between the average dietary energy requirement and the average dietary energy consumption of the undernourished population (food-deprived), is multiplied by the number of undernourished to provide an estimate of the total food deficit in the country, which is then normalized by the total population.</td>\n<!--EndFragment--></tr></tbody><tr><td>Link</td><td>http://data.worldbank.org/indicator/SN.ITK.DFCT</td></tr><tr><td>Retrieved</td><td>11/08/2016</td></tr></table></div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "World Development Indicators \u2013 Depth of the food deficit",
+            "unit": "kilocalories per person per day",
+            "description": "1992 - 2015",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
