@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Fouquet and Pearson (2012) \u2013 The long run demand for lighting",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\r\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>Fouquet and Pearson (2012) \u2013\u00a0The long run demand for lighting: elasticities and rebound effects in different phases of economic development. Economics of Energy and Environmental Policy, v.1, pp.83-100.</td>\r\n\t</tr><tr><td>Data publisher's source</td>\r\n\t\t<td>own calculations by the authors.<br></td>\r\n\t</tr></span><tr><td>Link</td><td>\u2013</td></tr><tr><td>Retrieved</td><td>Provided by the authors</td></tr></table><br><br><br><br></body></html>\r\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Price for Light \u2013 Fouquet",
+            "unit": "British Pound per million lumen-hours",
+            "description": "Price of light in the UK",
+            "code": null,
+            "coverage": "United Kingdom",
+            "timespan": "1301-2006",
+            "source_id": 0
+        }
+    ]
+}
