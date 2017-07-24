@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "UN Population Division (2015 revision)",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>United Nations Population Division</td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>UN estimates - medium variant projection (2015 revision)</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>https://esa.un.org/unpd/wpp/</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td>2017-06-15</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>\n</p>\n</div>",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Projected fertility rate",
+            "unit": "%",
+            "description": "Quinquennial projected total fertility rate (medium variant)",
+            "code": null,
+            "coverage": "regional",
+            "timespan": "2020-2100",
+            "source_id": 0
+        }
+    ]
+}
