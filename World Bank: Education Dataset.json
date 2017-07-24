@@ -1,0 +1,88 @@
+{
+    "sources": [
+        {
+            "name": "World Bank: Education (2)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>World Bank Development Indicators</th></tr><tr><td>Data provider</td><td>World Bank EdStats</td></tr><tr><td>Source</td><td>UNESCO Institute for Statistics<br></td></tr><tr><td>Description</td><td>Educational attainment, enrolment&nbsp;and expenditure data</td></tr></span><tr><td>Link</td><td>http://data.worldbank.org/</td></tr><tr><td>Retrieved</td><td>28/06/2015</td></tr></table></body></html>\n",
+            "id": 0
+        },
+        {
+            "name": "World Bank: Education (1)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th>World Bank Development Indicators</th></tr><tr><td>Data provider</td><td>World Bank EdStats</td></tr><tr><td>Source</td><td>UNESCO Institute for Statistics<br></td></tr><tr><td>Description</td><td>Educational attainment, enrolment&nbsp;and expenditure data</td></tr></span><tr><td>Link</td><td>http://data.worldbank.org/</td></tr><tr><td>Retrieved</td><td>10/08/2015</td></tr></table></body></html>\n",
+            "id": 1
+        }
+    ],
+    "variables": [
+        {
+            "name": "Expenditure per student as % of GDP (primary), 1974-2014 - World Bank",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1980-2014",
+            "source_id": 1
+        },
+        {
+            "name": "Teacher-pupil ratio (primary), 1970-2014 - World Bank",
+            "unit": "",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1980-2014",
+            "source_id": 1
+        },
+        {
+            "name": "Pri - Government expenditure per student, primary (% of GDP per capita)",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1980-2014",
+            "source_id": 1
+        },
+        {
+            "name": "Sec - Government expenditure per student, secondary (% of GDP per capita)",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1980-2014",
+            "source_id": 1
+        },
+        {
+            "name": "Tert - Government expenditure per student, tertiary (% of GDP per capita)",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1980-2014",
+            "source_id": 1
+        },
+        {
+            "name": "Total Government Expenditure on Education",
+            "unit": "% GDP",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1980-2014",
+            "source_id": 0
+        },
+        {
+            "name": "Share of Education in Government Expenditure",
+            "unit": "% Total Expenditure",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1980-2014",
+            "source_id": 0
+        },
+        {
+            "name": "Expenditure on primary as % of government expenditure on education",
+            "unit": "% of Government Expenditure on Education",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country",
+            "timespan": "1980-2014",
+            "source_id": 0
+        }
+    ]
+}
