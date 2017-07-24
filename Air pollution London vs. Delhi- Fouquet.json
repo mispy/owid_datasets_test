@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "name": "Air pollution London vs. Delhi- Fouquet",
+            "description": "<div class=\"datasource-additional\">\n\t<p>This dataset combines air pollution data for London, representative of the UK from Foquet (2011) and Delhi, representative of India (Government of India, 2012-13). Both sources report average concentrations of suspended particulate matter (SPM) in micrograms per cubic metre.\n</p>\n<p>Data for London was sourced from Fouquet, R. (2011). Long run trends in energy-related external costs. Ecological Economics 70(12), 2380\u20132389. Available at: http://www.sciencedirect.com/science/article/pii/S0921800911002953\n</p>\n<p> Raw data and extension of this set to 2016 was generously supplied through personal communication with the author.\n</p>\n<p>Data trends for Delhi have a shorter coverage, and are not available post-2010 (later measurements are now reported based on particle size rather than total suspended particulate matter). Data sourced from the Government of India's Economic Survey of Delhi (2012-13). Available at: http://delhi.gov.in/DoIT/DoIT_Planning/ES2012-13/EN/ES_chapter8.pdf\n</div>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Smoke",
+            "unit": "micrograms per cubic metre",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "1700-2016",
+            "source_id": 0
+        },
+        {
+            "name": "Suspended Particulate Matter (SPM)",
+            "unit": "micrograms per cubic metre",
+            "description": "",
+            "code": null,
+            "coverage": "",
+            "timespan": "1700-2016",
+            "source_id": 0
+        }
+    ]
+}
