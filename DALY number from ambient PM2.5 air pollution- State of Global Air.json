@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "DALY number from ambient PM2.5 air pollution",
+            "description": "<table>\n\t<tr>\n\t\t<td>Data published by</td>\n\t\t<td>Health Effects Institute, State of Global Air 2017. </td>\n\t</tr>\n\t<tr>\n\t\t<td>Data publisher's source</td>\n\t\t<td>Global Burden of Disease Study 2015. IHME, 2016</td>\n\t</tr>\n\t<tr>\n\t\t<td>Link</td>\n\t\t<td>www.stateofglobalair.org</td>\n\t</tr>\n\t<tr>\n\t\t<td>Retrieved</td>\n\t\t<td> 2017-04-07</td>\n\t</tr>\n</table>\n<div class=\"datasource-additional\">\n\t<p>\n</p>\n</div>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "DALY number from ambient PM2.5 air pollution- State of Global Air",
+            "unit": "",
+            "description": "Disability-adjusted life years (DALY) number from ambient particulate matter air pollution",
+            "code": null,
+            "coverage": "global by country",
+            "timespan": "1990-2015",
+            "source_id": 0
+        }
+    ]
+}
