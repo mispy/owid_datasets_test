@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "World Bank WDI [Foreign direct investment, net inflows (% of GDP)]",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><th><br></th>\r\n\t</tr><tr><td>Data provider</td>\r\n\t\t<td>World Bank</td>\r\n\t</tr><tr><td>Source</td>\r\n\t\t<td>World Development Indicators<br></td>\r\n\t</tr><tr><td>Description</td>\r\n\t\t<td>Foreign direct investment, net inflows (% of GDP)</td>\r\n\t</tr></span><tr><td>Link</td><td>http://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS</td></tr><tr><td>Retrieved</td><td>6 January 2015</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<div>Foreign direct investment are the net inflows of investment to acquire a lasting management interest (10 percent or more of voting stock) in an enterprise operating in an economy other than that of the investor. It is the sum of equity capital, reinvestment of earnings, other long-term capital, and short-term capital as shown in the balance of payments. This series shows net inflows (new investment inflows less disinvestment) in the reporting economy from foreign investors, and is divided by GDP.<br><br>The World Bank relies on data from:<br></div><div>International Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.</div>\r\n</div><br><br><br></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "World Bank WDI [Foreign direct investment, net inflows (% of GDP)]",
+            "unit": "%",
+            "description": "",
+            "code": null,
+            "coverage": "Global by country and world region",
+            "timespan": "1970-2014",
+            "source_id": 0
+        }
+    ]
+}
