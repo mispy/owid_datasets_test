@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Prevalence of undernourishment - FAO (Food Security Indicators)",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><tbody><tr><td><span class=\"datasource-property\"><span class=\"datasource-property\">Data published by</span></span></td>\n<td>FAO (Food Security Indicators)</td>\n</tr><tr><td><span class=\"datasource-property\">Data publisher's source</span></td>\n<td>FAOSTAT and ESS calculations.</td>\n</tr></tbody><tr><td>Link</td><td>http://www.fao.org/economic/ess/ess-fs/ess-fadata/en/</td></tr><tr><td>Retrieved</td><td>23/05/2017</td></tr></table><div class=\"datasource-additional\">\n<p>The prevalence of undernourishment expresses the probability that a randomly selected individual from the population consumes an amount of calories that is insufficient to cover her/his energy requirement for an active and healthy life. The indicator is computed by comparing a probability distribution of habitual daily dietary energy consumption with a threshold level called the minimum dietary energy Requirement. Both are based on the notion of an average individual in the reference population. \u00a0</p>\n<p>This is the traditional FAO hunger indicator, adopted as official Millennium Development Goal indicator for Goal 1, Target 1.9.</p>\n<p>The indicator is calculated in three year averages, from 1990-92 to 2014-16 at regional and national levels, to reduce the impact of possible errors in estimated DES, due to the difficulties in properly accounting of stock variations in major food.</p>\n<p>All the countries and regions as reported by the Millenniumn Development Goals (MDG) regional classification.</p>\n<p>The aggregates are computed using a weighted population average.</p>\n<p>More details on the methodology for computing the prevalence of undernourishment are in \"Annex 2\" of the \"State of Food Insecurity in the World 2015\" Report (http://www.fao.org/publications/sofi/en/).</p>\n\n</div></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "Prevalence of undernourishment - FAO (Food Security Indicators)",
+            "unit": "%",
+            "description": "1991-2015",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
