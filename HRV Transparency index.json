@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "Hollyer, Rosendorff, and Vreeland (2014) \u2013 Measuring Transparency",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><table><span><tr><td>Data published by</td>\r\n\t\t<td>HRV Transparency Project</td>\r\n\t</tr><tr><td>Data publisher's source</td>\r\n\t\t<td>Constructed by the HRV Transparency project and published in the paper: James R. Hollyer, B. Peter Rosendorff, and James R. Vreeland, 2014 &ldquo;Measuring Transparency.&rdquo; Political Analysis. Vol. 22. No. 1\r\n<br></td>\r\n\t</tr></span><tr><td>Link</td><td>http://hrvtransparency.org/</td></tr><tr><td>Retrieved</td><td>3 March 2015</td></tr></table><div>\r\n\t<h3>Additional information</h3>\r\n\t<p>According to the source this measure \"relies on a precise \r\nand narrow conception of transparency: the disclosure of policy-relevant\r\n information by the government to the public. In addition, our measure \r\nreflects an objective view of transparency that is readily reproducible \r\nby others.</p><p>The HRV Index \r\nfocuses on the availability of credible aggregate economic data. It does\r\n so by examining patterns of missing data and treating transparency as \r\nthe latent term which best reflects the tendency to disclose.\"</p>\r\nThe data is presented in the paper:\r\nJames R. Hollyer, B. Peter Rosendorff, and James R. Vreeland,  2014 &ldquo;Measuring Transparency.&rdquo; Political Analysis. Vol. 22. No. 1\r\n</div><br><br><br><br><br></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "HRV Transparency index",
+            "unit": "",
+            "description": "Transparency index",
+            "code": null,
+            "coverage": "Global by country (125 countries)",
+            "timespan": "1980-2010",
+            "source_id": 0
+        }
+    ]
+}
