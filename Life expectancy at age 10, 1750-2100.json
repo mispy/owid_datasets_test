@@ -1,0 +1,20 @@
+{
+    "sources": [
+        {
+            "name": "United Nations Population Division and Human Mortality Database",
+            "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><p><b>SOURCE 1</b></p>\r\n<p><b>United Nations Population Division</b></p><p><b>Data provider:&nbsp;</b><b>UN Population Division</b></p>\r\n<p><b>Source:&nbsp;</b><b>United Nations</b></p>\r\n<p><b>Description:&nbsp;</b><b>Life expectancy at age 10</b></p>\r\n<p><b>Time span:&nbsp;</b><b>estimates: 1950-2015, predictions: 2015-2100, by 5 year periods</b></p>\r\n<p><b>Geographic coverage:&nbsp;</b><b>Global by country</b></p>\r\n<p><b>Link:&nbsp;</b><a target=\"_blank\" rel=\"nofollow\" href=\"http://esa.un.org/unpd/wpp/DVD/\">http://esa.un.org/unpd/wpp/DVD/</a></p>\r\n<p><b>Retrieved:&nbsp;</b><b>September 2015</b></p>\r\n<p><b>Additional information</b></p>\r\n<p><b>The data file used is called &ldquo;Life Expectancy at exact age x (ex) - Both Sexes&rdquo; on the website given under &ldquo;Mortality indicators&rdquo;. This original data file has life expectancy at multiple ages for every country and different regions. We use only the countries and &ldquo;World&rdquo; data for age 10.</b></p>\r\n<p><br><b></b></p>\r\n<p><b>SOURCE 2</b></p>\r\n<p><b>Human Mortality Database, mortality.org</b></p>\r\n<p><b>Data provider:\t\t\tHuman Mortality Database</b></p>\r\n<p><b>Source:\t\t\t\tHuman Mortality Database</b></p>\r\n<p><b>Description:\t\t\t\tLife tables &ldquo;(1x5)&rdquo;</b></p>\r\n<p><b>Time span:\t\t\t\tVarying start time (as early as mid-1700s) to present, by 5 year periods</b></p>\r\n<p><b>Geographic coverage:\t\t38 select countries</b></p>\r\n<p><b>Link:\t\t\t\t\t</b>http://www.mortality.org/cgi-bin/hmd/hmd_download.php</p>\r\n<p><b>Retrieved:\t\t\t\tSeptember 2015</b></p>\r\n<p><b></b><br></p>\r\n<p><b>Additional information</b></p>\r\n<p><b>Each country has a life table from which we extracted the life expectancy at age 10 (column ex, row where Age is 10 for each country.)&nbsp;</b></p>\r\n<p><br><b></b></p>\r\n<p><b>COMBINING SOURCES</b></p>\r\n<p><b>We combined the information from the UN Population Division (UNPD) and the Human Mortality Database (HMD) using an R script. In the final&nbsp;data set, UNPD values are used for 1950-2100, and HMD values are used pre-1950, where available. The data set uses the first year of the period to graph the data, i.e. the e10 value for 1950-1954 is graphed at 1950.</b></p>\r\n<p><b>We omitted data from the first period for which data is available for each country, because often this first period was not a full 5 years long. For instance, the life table for Australia begins with the 4-year period 1921-1924, and every subsequent period is a full 5 years long. With data manipulation or extrapolation, this first data point can be included in the future.</b></p></body></html>\n",
+            "id": 0
+        }
+    ],
+    "variables": [
+        {
+            "name": "e10",
+            "unit": "years",
+            "description": "Life expectancy at age 10",
+            "code": null,
+            "coverage": "",
+            "timespan": "",
+            "source_id": 0
+        }
+    ]
+}
